@@ -12,7 +12,7 @@ Still underwork ... :)
 :END:
 
 
-* [1/5] *Vocabulary*
+* [1/9] *Vocabulary*
 -----
 
 
@@ -100,7 +100,51 @@ Still underwork ... :)
 | jerk | drag quickly and suddenly                                   |
 
 -----
-** /perspective/
+** TODO /perspective/
+
+*** General
+- *n.* 
+  - a way of regarding situations or topics etc
+  - the appearance of things relative to one another 
+    as determined by their distance from the viewer
+
+*** Usage
+- Try to see the issue from a different _perspective_.
+- We may get a clear _perspective_ of the people's happy lives.
+
+
+-----
+** TODO /flock/
+
+*** General
+- *n.* 
+  - a group of sth
+  - small pieces of soft material 
+    used for filling cushions , chairs, etc. 
+- *vi.* group together
+- *vt.* fill with sth
+
+*** Usage
+- a _flock_ of sheep
+- Birds of a feather _flock_ together
+- _flock_ dusted paper
+
+
+-----
+** TODO /guise/
+
+*** General
+- *n.* a way in which sb/sth appears, 
+       often in a way that is different from usual or 
+       that hides the truth about them/it
+
+*** Usage
+- They got into the school in the _guise_ of inspectors
+- under the _guise_ of friendship.
+
+
+-----
+** TODO /slump/
 
 *** General
 
