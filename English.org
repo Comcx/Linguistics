@@ -147,9 +147,17 @@ Still underwork ... :)
 ** TODO /slump/
 
 *** General
+- *vi.* 
+  - to fall in price, value, number, etc., 
+    suddenly and by a large amount 
+  - to sit or fall down heavily
+- *n.* a long time of state characterized by low spirit
+
+*** Usage
+- Sales have _slumped_ this year.
+- The old man _slumped_ down in his chair.
 
 
-
-
+-----
 
 
