@@ -10,15 +10,15 @@ Still underwork ... :)
 :END:
 
 
-* *corpulent*
+* /corpulent/
 
-** /General/
+** General
 - adj. excessively fat
 
-** /Usage/
+** Usage
 - Her father is too corpulent to play handball.
 
-** /Story/
+** Story
 - /corp-/ = body
 - /-ent/  = being adj.
 
