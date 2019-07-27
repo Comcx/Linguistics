@@ -1,29 +1,37 @@
-#+TITLE:  English Scripts
+#+TITLE:  English learning Scripts
 #+AUTHOR: Comcx
 #+DATE:   <2019-07-27 六>
 
-* /*corpulent*/
+:IDEAS:
 
-** General
+Currently planning to organize this script by words.
+Still underwork ... :)
+
+:END:
+
+
+* *corpulent*
+
+** /General/
 - adj. excessively fat
 
-** Usage
+** /Usage/
 - Her father is too corpulent to play handball.
 
-** Story
+** /Story/
 
 
-* /*aerosol*/
+* *aerosol*
 
-** General
+** /General/
 - n. a cloud of solid or liquid particles in a gas
 - adj. sth about n. meaning
 
-** Usage
+** /Usage/
 - an aerosol can.
 - They sprayed aerosol insect repellent into the faces of police.
 
-** Story
+** /Story/
 
 
 
