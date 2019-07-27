@@ -12,7 +12,7 @@ Still underwork ... :)
 :END:
 
 
-* [1/10] *Vocabulary*
+* [1/17] *Vocabulary*
 -----
 
 
@@ -160,13 +160,113 @@ Still underwork ... :)
 
 
 -----
-** TODO rend
+** TODO /rend/
 
 *** General
 - *v.* to tear sth apart with force or violence
 
 *** Usage
-    [[test][link]]
+- They _rent_ their clothes in grief.
+- a country _rent_ in two by civil war.
+
+*** Note
+- Clovis's line in Leluch the anime 
+
+
+-----
+** TODO /granary/
+
+*** General
+- *n.* a building where grain is stored
+
+*** Usage
+- The grain is already in the _granary_.
+
+
+-----
+** TODO /midst/
+
+*** General
+- *n.* middle
+- *prep.*
+
+*** Usage
+- in the _midst_ of the desert.
+
+*** Note
+| center | abstract                       |
+| middle | middle in length of time/space |
+| heart  | core                           |
+| core   | most important                 |
+| midst  | in a group or event            |
+
+
+-----
+** TODO /prodigal/
+
+*** General
+- *adj.* too willing to spend money or waste time, energy or materials
+- *n.* have been corrected
+
+*** Usage
+- How careless they had been of food then, what _prodigal_ waste!
+- A _prodigal_ who returns is more precious than gold.
+
+
+-----
+** TODO /abiding/
+
+*** General
+- *adj.* lasting for a long time and not changing
+
+*** Usage
+- an _biding_ love of music.
+- I'm tired of your _abiding_ complaints.
+
+
+-----
+** TODO /peerless/
+
+*** General
+- *adj.* better than all others of its kind
+
+*** Usage
+- His Chinese kung fu is _peerless_.
+
+*** Story
+- [[peer][peer]]
+
+
+-----
+** TODO /peer/
+<<peer>>
+*** General
+- *n.* a person who is the same age 
+       or who has the same social status as you
+- *vi.* look searchingly
+
+*** Usage
+- She gets on well with her _peer_ group.
+- Children are worried about failing in front of their _peers_.
+
+-----
+** TODO /extravagant/
+
+*** General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
