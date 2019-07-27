@@ -22,8 +22,9 @@ Still underwork ... :)
 - /corp-/ = body
 - /-ent/  = being adj.
 
------
 
+
+-----
 * NEXT /aerosol/
 
 ** General
@@ -39,7 +40,6 @@ Still underwork ... :)
 - /sol[uv(ut)]/ = loosen
 
 -----
-
 * DONE /reflective/
 
 ** General
@@ -51,7 +51,44 @@ Still underwork ... :)
 - _reflective_ glass
 - a quiet, _reflective_, astute man.
 
-** Story
+
+
+-----
+* /submerge/
+
+** General
+- *v.* sink below the surface, under water
+- *vt.* cover completely
+
+** Usage
+- _submerged_ leaves
+- be _submerged_ in the mighty torrent of history.
+- Who has submerged the fireplace with coom?
+
+** Note
+- /immerse/: being covered completely in water
+- /dip/: put into water temporarily
+- /duck/: put one's head into water
+- /plunge/: expeditiously
+- /submerge/: deep into water for a long time
+
+
+-----
+* TODO /tow/
+
+** General
+- *n.* the act of hauling sth by means of a hitch or rope
+- *v.* drag behind
+
+** Usage
+
+
+** Note
+
+
+-----
+
+
 
 
 
