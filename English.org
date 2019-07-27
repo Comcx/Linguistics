@@ -12,7 +12,7 @@ Still underwork ... :)
 :END:
 
 
-* [1/17] *Vocabulary*
+* TODO [1/21] Vocabulary
 -----
 
 
@@ -253,10 +253,57 @@ Still underwork ... :)
 ** TODO /extravagant/
 
 *** General
+- *adj.* spending a lot more money or 
+  using a lot more of sth than you can afford or than is necessary
+
+*** Usage
+- I felt very _extravagant_ spending $100 on a dress.
+- She's got very _extravagant_ tastes.
 
 
+-----
+** TODO /esteem/
+
+*** General
+- *vt.* 
+  - to respect and admire sb/sth very much
+  - to think of sb/sth in a particular way
+- *n.* great respect and admiration; a good opinion of sb
+
+*** Usage
+- a highly _esteemed_ scientist
+- She was _esteemed_ the perfect novelist.
+- She is held in high _esteem_ by her colleagues.
+
+*** Story
+- /esteem/ = value
 
 
+-----
+** TODO /adroit/
+
+*** General
+- *adj.* skilful and clever, especially in dealing with people
+
+*** Usage
+- an _adroit_ negotiator
+- He was _adroit_ at tax avoidance.
+
+
+-----
+** TODO /extant/
+
+*** General
+- *adj.* still exist
+
+*** Usage
+- _extant_ manuscripts
+
+
+-----
+** TODO /idyllic/
+
+*** General
 
 
 
