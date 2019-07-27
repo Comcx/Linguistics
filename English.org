@@ -10,13 +10,13 @@ Still underwork ... :)
 :END:
 
 
-* /corpulent/
+* TODO /corpulent/
 
 ** General
-- adj. excessively fat
+- *adj.* excessively fat
 
 ** Usage
-- Her father is too corpulent to play handball.
+- Her father is too _corpulent_ to play handball.
 
 ** Story
 - /corp-/ = body
@@ -24,26 +24,34 @@ Still underwork ... :)
 
 -----
 
-* *aerosol*
+* NEXT /aerosol/
 
-** /General/
-- n. a cloud of solid or liquid particles in a gas
-- adj. sth about n. meaning
+** General
+- *n.* a cloud of solid or liquid particles in a gas
+- *adj.* sth about n. meaning
 
-** /Usage/
-- an aerosol can.
-- They sprayed aerosol insect repellent into the faces of police.
+** Usage
+- an _aerosol_ can.
+- They sprayed _aerosol_ insect repellent into the faces of police.
 
-** /Story/
+** Story
+- /aero-/ = air
+- /sol[uv(ut)]/ = loosen
 
+-----
 
+* DONE /reflective/
 
+** General
+- *adj.* think carefully | can reflect sth
+- *adv.* think before you leap!
+- *n.*
 
+** Usage
+- _reflective_ glass
+- a quiet, _reflective_, astute man.
 
-
-
-
-
+** Story
 
 
 
