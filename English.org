@@ -12,7 +12,7 @@ Still underwork ... :)
 :END:
 
 
-* [1/9] *Vocabulary*
+* [1/10] *Vocabulary*
 -----
 
 
@@ -90,7 +90,8 @@ Still underwork ... :)
 - The truck used a cable to _tow_ the car.
 - I can give you a _tow_ if you want.
 
-*** Note
+*** Note 
+<<test>>
 | drag |                                                             |
 | draw | drag to the drawing person                                  |
 | pull | most general                                                |
@@ -159,5 +160,13 @@ Still underwork ... :)
 
 
 -----
+** TODO rend
+
+*** General
+- *v.* to tear sth apart with force or violence
+
+*** Usage
+    [[test][link]]
+
 
 
