@@ -10,84 +10,97 @@ Still underwork ... :)
 :END:
 
 
-* TODO /corpulent/
+* [1/5] **Vocabulary**
+-----
 
-** General
+
+** TODO /corpulent/
+
+*** General
 - *adj.* excessively fat
 
-** Usage
+*** Usage
 - Her father is too _corpulent_ to play handball.
 
-** Story
+*** Story
 - /corp-/ = body
 - /-ent/  = being adj.
 
 
 
 -----
-* NEXT /aerosol/
+** NEXT /aerosol/
 
-** General
+*** General
 - *n.* a cloud of solid or liquid particles in a gas
 - *adj.* sth about n. meaning
 
-** Usage
+*** Usage
 - an _aerosol_ can.
 - They sprayed _aerosol_ insect repellent into the faces of police.
 
-** Story
+*** Story
 - /aero-/ = air
 - /sol[uv(ut)]/ = loosen
 
 -----
-* DONE /reflective/
+** DONE /reflective/
 
-** General
+*** General
 - *adj.* think carefully | can reflect sth
 - *adv.* think before you leap!
 - *n.*
 
-** Usage
+*** Usage
 - _reflective_ glass
 - a quiet, _reflective_, astute man.
 
 
 
 -----
-* /submerge/
+** TODO /submerge/
 
-** General
+*** General
 - *v.* sink below the surface, under water
 - *vt.* cover completely
 
-** Usage
+*** Usage
 - _submerged_ leaves
 - be _submerged_ in the mighty torrent of history.
 - Who has submerged the fireplace with coom?
 
-** Note
-- /immerse/: being covered completely in water
-- /dip/: put into water temporarily
-- /duck/: put one's head into water
-- /plunge/: expeditiously
-- /submerge/: deep into water for a long time
+*** Note
+| /immerse/  | being covered completely in water |
+| /dip/      | put into water temporarily        |
+| /duck/     | put one's head into water         |
+| /plunge/   | expeditiously                     |
+| /submerge/ | deep into water for a long time   |
 
 
 -----
-* TODO /tow/
+** TODO /tow/
 
-** General
+*** General
 - *n.* the act of hauling sth by means of a hitch or rope
 - *v.* drag behind
 
-** Usage
+*** Usage
+- The truck used a cable to _tow_ the car.
+- I can give you a _tow_ if you want.
 
-
-** Note
-
+*** Note
+| drag |                                                             |
+| draw | drag to the drawing person                                  |
+| pull | most general                                                |
+| haul | with force, not related to direction, mostly used in voyage |
+| tug  | drag from time to time, may not move at all                 |
+| tow  | drag with tools                                             |
+| jerk | drag quickly and suddenly                                   |
 
 -----
+** /perspective/
 
+*** General
 
 
 
