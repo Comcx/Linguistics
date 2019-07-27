@@ -5,12 +5,14 @@
 :IDEAS:
 
 Currently planning to organize this script by words.
+Only vocabulary right now!
+
 Still underwork ... :)
 
 :END:
 
 
-* [1/5] **Vocabulary**
+* [1/5] *Vocabulary*
 -----
 
 
