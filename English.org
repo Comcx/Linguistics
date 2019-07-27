@@ -1,8 +1,8 @@
-#+TITLE:  English
+#+TITLE:  English Scripts
 #+AUTHOR: Comcx
 #+DATE:   <2019-07-27 六>
 
-* *corpulent*
+* /*corpulent*/
 
 ** General
 - adj. excessively fat
@@ -13,7 +13,7 @@
 ** Story
 
 
-* *aerosol*
+* /*aerosol*/
 
 ** General
 - n. a cloud of solid or liquid particles in a gas
