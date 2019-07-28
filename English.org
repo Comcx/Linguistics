@@ -12,9 +12,8 @@ Still underwork ... :)
 :END:
 
 
-* TODO [1/21] Vocabulary
+* TODO [1/31] Vocabulary
 -----
-
 
 ** TODO /corpulent/
 
@@ -304,14 +303,179 @@ Still underwork ... :)
 ** TODO /idyllic/
 
 *** General
+- *adj.* peaceful and beautiful; perfect, without problems
+
+*** Usage
+- a house set in _idyllic_ surroundings
+- to lead an _idyllic_ existence
+
+*** Note
+- /idyll/
 
 
+-----
+** TODO /duvet/
+
+*** General
+- *n.* a soft quilt usually filled with the down of the eider
+
+*** Usage
+- a _duvet_ cover
+- _duvets_ with synthetic fillings.
+
+*** Story
+- *Let's all love Lain!*
 
 
+-----
+** TODO /counsel/
+
+*** General
+- *n.*
+  - advice, especially given by older people or experts; 
+  - a lawyer or group of lawyers representing sb in court
+
+- *v.* 
+  - to listen to and give support or professional advice to sb who needs help
+  - to advise sb to do sth
+
+*** Usage
+- Listen to the _counsel_ of your elders.
+- the _counsel_ for the defence/prosecution
+- Therapists were brought in to _counsel_ the bereaved.
+- He _counselled_ them to give up the plan.
 
 
+-----
+** TODO /exceptional/
+
+*** General
+- *adj.* 
+  - unusually good
+  - very unusual
+
+*** Usage
+- At the age of five he showed _exceptional_ talent as a musician.
+- This deadline will be extended only in _exceptional_ circumstances.
 
 
+-----
+** TODO /arduous/
+
+*** General
+- *adj.* 
+  involving a lot of effort and energy, especially over a period of time
+
+*** Usage
+- an _arduous_ journey across the Andes
+- The work was _arduous_.
+
+*** Story
+- /ardu-/ = difficult
+
+
+-----
+** TODO /vesture/
+
+*** General
+- *n.* 
+  - something that covers or cloaks like a garment
+  - a covering designed to be worn on a person's body
+
+- *v.* provide or cover with a cloak
+
+*** Usage
+- a _vesture_ of verdure
+- She is _vestured_ in silk.
+
+
+-----
+** TODO /blunt/
+
+*** General
+- *adj.* 
+  - without a sharp edge or point
+  - (of a person or remark) very direct; 
+    saying exactly what you think without trying to be polite
+
+- *vt.* 
+  - to make sth weaker or less effective
+  - to make a point or an edge less sharp
+
+*** Usage
+- a _blunt_ knife
+- She has a reputation for _blunt_ speaking.
+- To be _blunt_, your work is appalling.
+- Age hadn't _blunted_ his passion for adventure.
+
+
+-----
+** TODO /nostalgia/
+
+*** General
+- *n.* a feeling of sadness mixed with pleasure and affection 
+       when you think of happy times in the past
+
+*** Usage
+- She is filled with _nostalgia_ for her own college days.
+
+
+-----
+** TODO /flicker/
+
+*** General
+- *v.* 
+  - (of a light or a flame) to keep going on and off as it shines or burns
+  - (of an emotion, a thought, etc) to be expressed or appear somewhere for a short time
+
+- *n.*
+  - a light that shines in an unsteady way
+  - a small, sudden movement with part of the body
+  - a feeling or an emotion that lasts for only a very short time
+
+*** Usage
+- The lights _flickered_ and went out.
+- Anger _flickered_ in his eyes.
+- Her eyelids _flickered_ as she slept.
+- the _flicker_ of a television/candle
+- the _flicker_ of an eyelid
+- A _flicker_ of a smile crossed her face.
+
+
+-----
+** TODO /oblivious/
+
+*** General
+- *adj.* unwared, inattentive
+
+*** Usage
+- He was quite _oblivious_ of the danger.
+- She was _oblivious_ to our warnings.
+
+*** Story
+- the garden of sinners
+
+
+-----
+** TODO /forge/
+
+*** General
+- *vt.*
+  - to put a lot of effort into making sth successful or strong so that it will last
+  - to make an illegal copy of sth in order to cheat people
+  - to shape metal by heating it in a fire and hitting it with a hammer; to make an object in this way
+
+- *n.*
+  a large piece of equipment used for heating metals in; 
+  a building or part of a factory where this is found
+
+*** Usage
+- a move to _forge_ new links between management and workers
+- to _forge_ a passport/banknote/cheque
+- swords _forged_ from steel
+
+
+-----
 
 
 
