@@ -47,6 +47,7 @@ Not ready to push a button, the machine xxx.
 ** _
 - *pensive*
 - *dismal*
+- *doleful*
 
 ** _
 - *dampen*
@@ -70,6 +71,18 @@ Not ready to push a button, the machine xxx.
 - *cheat*
 - *trick*
 - *fool*
+- *delude*
+
+** feat
+- *feat*
+- *stunt*
+
+** astute
+- *astute*
+
+** busy
+- *busy*
+- *hectic*
 
 ** careful
 - *careful*
@@ -86,6 +99,23 @@ Not ready to push a button, the machine xxx.
 
 ** eternal
 - *eternal*
+
+** hungry
+- *hungry*
+- *ravenous*
+- *famished*
+
+** _
+- *surmise*
+
+** erase
+- *efface*
+
+** sway
+- *sway*
+- *jolt*
+
+
 
 
 * TODO [1/31] Vocabulary
