@@ -7,6 +7,17 @@
 Currently planning to organize this script by words.
 Only vocabulary right now!
 
+- Learning method
+  1) Look at word meaning in English
+  2) Read example sentences to understand
+  3) Choose a simple sentence
+  4) Read sentence        => Imagine scenes
+  5) Desire of Expressing => Write sentences
+  6) Listen sentence      => Imagine scenes
+  7) Desire of Expressing => Speak sentences
+  8) Modify the sentence  => Repeat ...
+
+
 Still underwork ... :)
 
 :END:
@@ -118,7 +129,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [1/31] Vocabulary
+* TODO [1/33] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -582,6 +593,33 @@ Not ready to push a button, the machine xxx.
 
 
 -----
+** TODO /abdicate/
+
+*** General
+- *v.*
+  - If a king or queen abdicates, he or she gives up being king or queen.
+  - If you say that someone has abdicated responsibility for something, 
+    you disapprove of them because they have refused to accept responsibility for it any longer.
+
+*** Usage
+- The last French king was Louis Philippe, who _abdicated_ in 1848.
+- Many parents simply _abdicate_ all responsibility for their children.
+
+
+-----
+** TODO /addict/
+
+*** General
+- *n.*
+  - An addict is someone who takes harmful drugs and cannot stop taking them.
+  - If you say that someone is an addict, 
+    you mean that they like a particular activity very much and spend as much time doing it as they can.
+
+*** Usage
+- He's only 24 years old and a drug _addict_.
+- She is a TV _addict_ and watches as much as she can.
+
+
 
 
 
