@@ -37,7 +37,7 @@ I stopped when I discovered a strange contemporary _vendor_ lain in the corner.
 Not ready to push a button, the machine xxx. 
 
 
-* TODO Cluster
+* TODO [0/0] Cluster
 
 ** Character
 - /n./
@@ -129,7 +129,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [1/33] Vocabulary
+* TODO [1/38] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -593,7 +593,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /abdicate/
+** TODO /abdicate/ <2019-08-19 一>
 
 *** General
 - *v.*
@@ -618,6 +618,67 @@ Not ready to push a button, the machine xxx.
 *** Usage
 - He's only 24 years old and a drug _addict_.
 - She is a TV _addict_ and watches as much as she can.
+
+
+-----
+** TODO /indict/
+
+*** General
+- *vt.* If someone is indicted for a crime, they are officially charged with it.
+
+*** Usage
+- He was later _indicted_ on corruption charges...
+- She has been _indicted_ for possessing cocaine.
+- I can _indict_ you for abducting high school student.
+
+
+-----
+** TODO /interdict/
+
+*** General
+- *v.* If an armed force interdicts something or someone, 
+  they stop them and prevent them from moving. If they interdict a route, they block it or cut it off.
+
+- *n.* An interdict is an official order that something must not be done or used.
+
+*** Usage
+- Troops could be ferried in to _interdict_ drug shipments.
+- The National Trust has placed an _interdict_ on jet-skis in Dorset, Devon and Cornwall.
+
+
+-----
+** TODO /valediction/
+
+*** General
+- *n.* the act of saying goodbye, especially in a formal speech 
+
+*** Usage
+- He gave a touching _valediction_ at graduation.
+
+
+-----
+** TODO /vindicate/
+
+*** General
+- *vt.* If a person or their decisions, actions, or ideas are vindicated, 
+  they are proved to be correct, after people have said that they were wrong.
+
+*** Usage
+- The director said he had been _vindicated_ by the experts' report
+- How would you _vindicate_ your failure to your family?
+
+
+-----
+** TODO /contradict/
+
+*** General
+
+
+
+
+
+
+
 
 
 
