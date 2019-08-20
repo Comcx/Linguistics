@@ -129,7 +129,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [1/38] Vocabulary
+* TODO [1/40] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -672,7 +672,48 @@ Not ready to push a button, the machine xxx.
 ** TODO /contradict/
 
 *** General
+- *v.*
+  - If you contradict someone, you say that what they have just said is wrong, 
+    or suggest that it is wrong by saying something different.
+  - If one statement or piece of evidence contradicts another, 
+    the first one makes the second one appear to be wrong.
+  - If one policy or situation contradicts another, 
+    there is a conflict between them, and they cannot both exist or be successful.
 
+*** Usage
+- She dared not _contradict_ him.
+- The result seems to _contradict_ a major U.S. study reported last November.
+- Mr Grant feels that the cutbacks _contradict_ the Government's commitment to better educational standards.
+
+
+-----
+** TODO /dictate/ <2019-08-20 二>
+
+*** General
+- *v.* 
+  - If you dictate something, you say or read it aloud for someone else to write down.
+  - If someone dictates to someone else, they tell them what they should do or can do.
+  - If one thing dictates another, the first thing causes or influences the second thing.
+  - You say that reason or common sense dictates that a particular thing is the case 
+    when you believe strongly that it is the case and that reason or common sense will cause other people to agree.
+
+- *n.*
+  - A dictate is an order which you have to obey.
+  - Dictates are principles or rules which you consider to be extremely important.
+
+*** Usage
+- Sheldon writes every day of the week, _dictating_ his novels in the morning.
+- What right has one country to _dictate_ the environmental standards of another?
+- The film's budget _dictated_ a tough schedule.
+- Commonsense now _dictates_ that it would be wise to sell a few shares.
+- Their job is to ensure that the _dictates_ of the Party are followed.
+- We have followed the _dictates_ of our consciences and have done our duty.
+
+
+-----
+** TODO /eulogize/
+
+*** General
 
 
 
