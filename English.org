@@ -130,7 +130,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [3/44] Vocabulary
+* TODO [3/48] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -771,6 +771,52 @@ Not ready to push a button, the machine xxx.
 
 *** Usage
 - The normally _loquacious_ Mr O'Reilly has said little.
+
+
+-----
+** TODO /obloquy/
+
+*** General
+- *n.*
+  - a strongly condemnatory utterance : abusive language
+  - the condition of one that is discredited : bad repute
+
+*** Usage
+- a victim of hatred and _obloquy_.
+- unable to mount a rational defense of her position, she unleashed a torrent of _obloquy_ on her opponent.
+
+
+-----
+** TODO /soliloquy/
+
+*** General
+- *n.*
+  - speech you make to yourself 
+  - A soliloquy is a speech in a play in which an actor or 
+    actress speaks to himself or herself and to the audience, rather than to another actor.
+
+*** Usage
+- As he made this dreary _soliloquy_, he had cantered out of Rotten Row into the park.
+- Hamlet's _soliloquy_ is probably the most famous in English drama.
+
+
+-----
+** TODO /circumlocution/
+
+*** General
+- *n.* A circumlocution is a way of saying or writing something using more words 
+  than are necessary instead of being clear and direct.
+
+*** Usage
+- It was always when you most wanted a direct answer that Greenfield came up with a _circumlocution_.
+- This sort of ritual _circumlocution_ is common to many parts of mathematics.
+
+
+-----
+** TODO /abrogate/
+
+*** General
+
 
 
 
