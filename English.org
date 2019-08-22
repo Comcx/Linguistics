@@ -8,15 +8,16 @@ Currently planning to organize this script by words.
 Only vocabulary right now!
 
 - Learning method
-  1) Look at word meaning in English
-  2) Read example sentences to understand
-  3) Choose a simple sentence
-  4) Read sentence        => Imagine scenes
-  5) Desire of Expressing => Write sentences
-  6) Listen sentence      => Imagine scenes
-  7) Desire of Expressing => Speak sentences
-  8) Modify the sentence  => Repeat ...
-
+#+BEGIN_SRC scala
+  1. Look at word meaning in English
+  2. Read example sentences to understand
+  3. Choose a simple sentence
+  4. Read sentence        => Imagine scenes
+  5. Desire of Expressing => Write sentences
+  6. Listen sentence      => Imagine scenes
+  7. Desire of Expressing => Speak sentences
+  8. Modify the sentence  => Repeat ...
+#+END_SRC
 
 Still underwork ... :)
 
@@ -129,7 +130,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [1/40] Vocabulary
+* TODO [3/44] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -593,7 +594,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /abdicate/ <2019-08-19 一>
+** DONE /abdicate/ <2019-08-19 一>
 
 *** General
 - *v.*
@@ -607,7 +608,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /addict/
+** DONE /addict/
 
 *** General
 - *n.*
@@ -650,7 +651,7 @@ Not ready to push a button, the machine xxx.
 ** TODO /valediction/
 
 *** General
-- *n.* the act of saying goodbye, especially in a formal speech 
+- *n.* the act of saying goodbye, especially in a formal speech.
 
 *** Usage
 - He gave a touching _valediction_ at graduation.
@@ -664,7 +665,7 @@ Not ready to push a button, the machine xxx.
   they are proved to be correct, after people have said that they were wrong.
 
 *** Usage
-- The director said he had been _vindicated_ by the experts' report
+- The director said he had been _vindicated_ by the experts' report.
 - How would you _vindicate_ your failure to your family?
 
 
@@ -714,11 +715,62 @@ Not ready to push a button, the machine xxx.
 ** TODO /eulogize/
 
 *** General
+- *vt.* 
+  - If you eulogize someone or something, you praise them very highly.
+  - If you eulogize someone who has died, you make a speech praising them, usually at their funeral.
+
+*** Usage
+- Taylor _eulogised_ about Steven's versatility.
+- Leaders from around the world _eulogized_ the Egyptian president.
 
 
+-----
+** TODO /monologue/ <2019-08-22 四>
+
+*** General
+- *n.* 
+  - If you refer to a long speech by one person during a conversation as a monologue, 
+    you mean it prevents other people from talking or expressing their opinions.
+  - A monologue is a long speech which is spoken by one person as an entertainment, 
+    or as part of an entertainment such as a play.
+
+*** Usage
+- Morris ignored the question and continued his _monologue_.
+- a _monologue_ based on the writing of Quentin Crisp.
 
 
+-----
+** TODO /prologue/
 
+*** General
+- *n.*
+  - A prologue is a speech or section of text that introduces a play or book.
+  - If one event is a prologue to another event, it leads to it.
+
+*** Usage
+- The _prologue_ to the novel is written in the form of a newspaper account.
+- This was a _prologue_ to today's bloodless revolution.
+
+
+-----
+** TODO /grandiloquent/
+
+*** General
+- *adj.* Grandiloquent language or behaviour is very formal, literary, or exaggerated, 
+  and is used by people when they want to seem important.
+
+*** Usage
+- She attacked her colleagues for indulging in 'grandiose and _grandiloquent_ language'.
+
+
+-----
+** TODO /loquacious/
+
+*** General
+- *adj.* If you describe someone as loquacious, you mean that they talk a lot.
+
+*** Usage
+- The normally _loquacious_ Mr O'Reilly has said little.
 
 
 
