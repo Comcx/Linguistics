@@ -145,7 +145,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [6/60] Vocabulary
+* TODO [6/84] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -963,7 +963,6 @@ Not ready to push a button, the machine xxx.
 - Human beings are not natural enemies of _marine_ mammals.
 - He was a soldier of _Marine_ Corps.
 
-
 ** TODO /maritime/
 
 *** General 
@@ -984,12 +983,234 @@ Not ready to push a button, the machine xxx.
 
 *** Usage
 - _Terrestrial_ and aquatic fauna may sometimes be found resting together under a loose stone.
+- Newton proposed that heavenly and _terrestrial_ motion could be unified with the idea of gravity.
 
 
+-----
+** TODO /outskirt/
+
+- *n.* a part of the city far removed from the center.
+- The hotel is situated in the _outskirt_ of the city.
 
 
+-----
+** TODO /endemic/
+
+*** General
+- *adj.*
+  - If a disease or illness is endemic in a place, it is frequently found among the people who live there.
+  - If you say that a condition or problem is endemic, 
+    you mean that it is very common and strong, and cannot be dealt with easily.
+
+*** Usage
+- Polio was then _endemic_ among children my age.
+- Street crime is virtually _endemic_ in large cities.
 
 
+-----
+** TODO /cosmopolitan/
+
+*** General
+- *adj.*
+  - A cosmopolitan place or society is full of people from many different countries and cultures.
+  - Someone who is cosmopolitan has had a lot of contact with people and things from many different countries 
+    and as a result is very open to different ideas and ways of doing things.
+
+*** Usage
+- The family are rich, and extremely sophisticated and _cosmopolitan_.
+- Alexandria's population was _cosmopolitan_, but mainly Greek.
+
+
+-----
+** TODO /subterrane/
+
+- *n.* the bedrock or the rocks beneath a particular geological formation
+  (underground)
+
+** TODO /subterranean/
+
+- *adj.* A subterranean river or tunnel is under the ground.
+- London has 9 miles of such _subterranean_ passages.
+
+
+-----
+** TODO /cavern/
+
+- *n.*
+  - A cavern is a large deep cave.
+  - If you describe the inside of a building or a room as a cavern, 
+    you mean that it is very large and, usually, dark or without much furniture.
+
+- The kitchen now is a dark _cavern_, with an antiquated black stove in a corner.
+
+
+-----
+** TODO /flaw/
+
+*** General
+- *n.* 
+  - A flaw in something such as a theory or argument is a mistake in it, which causes it to be less effective or valid.
+  - A flaw in someone's character is an undesirable quality that they have.
+  - A flaw in something such as a pattern or material is a fault in it that should not be there.
+
+*** Usage
+- The only _flaw_ in his character seems to be a short temper.
+- It was a large diamond, but it had a _flaw_.
+- The only _flaw_ is the slightly slow response times when you press the buttons.
+
+** TODO /cleft/
+
+- *n.* A cleft in a rock or in the ground is a narrow opening in it.
+- a cleft in the rocks
+
+** TODO /crevice/
+
+- *n.* A crevice is a narrow crack or gap, especially in a rock.
+- I saw a plant growing out of a _crevice_ in the wall.
+
+
+-----
+** TODO /meridian/
+
+- *n.* A meridian is an imaginary line from the North Pole to the South Pole. 
+  Meridians are drawn on maps to help you describe the position of a place.
+
+- All places on the same _meridian_ have the same longitude.
+- He is now at the _meridian_ of his intellectual power.
+
+
+-----
+** TODO /subsidiary/
+
+*** General
+- *n.* A subsidiary or a subsidiary company is a company which is part of a larger and more important company.
+  (branch)
+- *adj.* If something is subsidiary, it is less important than something else with which it is connected.
+
+*** Usage
+- The company placed much money in its foreign _subsidiary_.
+- We offer accounting as a _subsidiary_ course.
+
+
+-----
+** TODO /Antarctic/
+
+- *adj.* The Antarctic is the area around the South Pole.
+- He measured the distance to the nearest _Antarctic_ coast.
+
+** TODO /Antarctica/
+
+- *n.* an extremely cold continent at the south pole almost entirely below the Antarctic Circle
+- _Antarctica_ is the earth's coldest landmass.
+
+** TODO /Arctic/
+
+- *n.* The Arctic is the area of the world around the North Pole. 
+  It is extremely cold and there is very little light in winter and very little darkness in summer.
+
+- *adj.* If you describe a place or the weather as arctic, you are emphasizing that it is extremely cold.
+
+- This ship was designed expressly for exploring the _Arctic_ waters.
+- TV pictures showed the _arctic_ conditions.
+
+
+-----
+** TODO /contour/
+
+*** General
+- *n.* 
+  - You can refer to the general shape or outline of an object as its contours.
+  - A contour on a map is a line joining points of equal height and indicating hills, valleys, and the steepness of slopes.
+
+*** Usage
+- the texture and colour of the skin, the _contours_ of the body
+- There is a close correlation between _contour_ lines and lithology.
+
+
+-----
+** TODO /plateau/
+
+*** General
+- *n.* 
+  - A plateau is a large area of high and fairly flat land.
+  - If you say that an activity or process has reached a plateau, 
+    you mean that it has reached a stage where there is no further change or development.
+
+*** Usage
+- A broad valley opened up leading to a high, flat _plateau_ of cultivated land.
+- I think the economy is stuck on a kind of _plateau_ of slow growth.
+
+
+-----
+** TODO /salinity/
+
+- *n.* the relative proportion of salt in a solution
+- The Atlantic Ocean had undergone changes in temperature and _salinity_.
+
+
+-----
+** TODO /elevation/
+
+*** General
+- *n.* 
+  - The elevation of a place is its height above sea level.
+  - In architecture, an elevation is the front, back, or side of a building, or a drawing of one of these.
+  - An elevation is a piece of ground that is higher than the area around it.
+
+*** Usage
+- We're probably at an _elevation_ of about 13,000 feet above sea level.
+- The _elevation_ or side view is known as a dendrogram.
+- his elevation to the presidency
+
+
+-----
+** TODO /geothermal/
+
+- *adj.* of, relating to, or utilizing the heat of the earth's interior
+- geothermal energy
+
+
+-----
+** TODO /terrain/
+
+- *n.* Terrain is used to refer to an area of land or a type of land when you are considering its physical features.
+- The _terrain_ changed quickly from arable land to desert.
+
+** TODO /topography/
+
+- *n.* 
+  - Topography is the study and description of the physical features of an area, 
+    for example its hills, valleys, or rivers, or the representation of these features on maps.
+  - The topography of a particular area is its physical shape, including its hills, valleys, and rivers.
+
+- a map showing the _topography_ of the island
+
+
+-----
+** TODO /tropics/
+
+- *n.* The tropics are the parts of the world that lie between two lines of latitude
+  (tropical area)
+
+- He had always wanted an adventurous life in the _tropics_.
+
+
+-----
+** TODO /temperate/
+
+*** General
+- *adj.* 
+  - Temperate is used to describe a climate or a place which is never extremely hot or extremely cold.
+  - If a person's behaviour is temperate, it is calm and reasonable, 
+    so that they do not get angry or lose their temper easily.
+
+*** Usage
+- The Nile Valley keeps a _temperate_ climate throughout the year.
+- He spoke in a _temperate_ manner, not favoring either side especially.
+
+
+-----
+** TODO //
 
 
 
