@@ -145,7 +145,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [6/56] Vocabulary
+* TODO [6/60] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -933,7 +933,65 @@ Not ready to push a button, the machine xxx.
 ** TODO /peninsula/
 
 *** General
-- 
+- *n.* A peninsula is a long narrow piece of land 
+  which sticks out from a larger piece of land and is almost completely surrounded by water.
+
+*** Usage
+- the political situation in the Korean _peninsula_.
+- Dalian is in the south of the Liaodong _Peninsula_.
+
+
+-----
+** TODO /islet/
+
+*** General
+- *n.* An islet is a small island.
+
+*** Usage
+- You can find whole regiments of birds on the _islet_.
+
+
+-----
+** TODO /marine/
+
+*** General
+- *adj.* Marine is used to describe things relating to the sea or to the animals and plants that live in the sea.
+- *n.* A marine is a member of an armed force, for example the US Marine Corps or the Royal Marines, 
+  who is specially trained for military duties at sea as well as on land.
+
+*** Usage
+- Human beings are not natural enemies of _marine_ mammals.
+- He was a soldier of _Marine_ Corps.
+
+
+** TODO /maritime/
+
+*** General 
+- *adj.* Maritime is used to describe things relating to the sea and to ships.
+
+*** Usage
+- the largest _maritime_ museum of its kind.
+- This research work could be the reference of _maritime_ affairs investigation.
+
+
+-----
+** TODO /terrestrial/
+
+*** General
+- *adj.* 
+  - A terrestrial animal or plant lives on land or on the ground rather than in the sea, in trees, or in the air.
+  - Terrestrial means relating to the planet Earth rather than to some other part of the universe.
+
+*** Usage
+- _Terrestrial_ and aquatic fauna may sometimes be found resting together under a loose stone.
+
+
+
+
+
+
+
+
 
 
 
