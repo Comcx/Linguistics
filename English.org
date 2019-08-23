@@ -19,6 +19,21 @@ Only vocabulary right now!
   8. Modify the sentence  => Repeat ...
 #+END_SRC
 
+- Listening method
+
+1. *Finish* one exercise directly, never try to look up solutions.
+2. *Read* listening scripts, mark logical words inside.
+3. Find all *positions* related to questions in the script based on following questions(mostly behind logical words).
+4. *Analyse* options and finish the questions again(like working on a reading), finally find which sentence is misunderstood during listening.
+5. *Check* answers, see amount of mistakes during listening and reading respectively, analyse reasons carefully.
+6. *Read* listening script carefully, ensuring that we understand the content totally.
+7. *Speak* after the audio => imitate pronunciations sentence after sentence => para after para => speak without material
+8. Listen material with great care. Pay most attention on logical points and question points => repeat until we feel OK.
+
+
+
+
+
 Still underwork ... :)
 
 :END:
@@ -130,7 +145,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [6/54] Vocabulary
+* TODO [6/56] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -889,6 +904,37 @@ Not ready to push a button, the machine xxx.
 ** TODO /advocate/
 
 *** General
+- *vt.* If you advocate a particular action or plan, you recommend it publicly.
+- *n.*
+  - An advocate of a particular action or plan is someone who recommends it publicly.
+  - An advocate is a lawyer who speaks in favour of someone or defends them in a court of law.
+
+*** Usage
+- Mr Williams is a conservative who _advocates_ fewer government controls on business.
+- He was a strong _advocate_ of free market policies and a multi-party system.
+- I do not _advocate_ building large factories.
+
+
+-----
+** TODO /insular/
+
+*** General
+- *adj.*
+  - of, relating to, or constituting an island
+  - If you say that someone is insular, you are being critical of them 
+    because they are unwilling to meet new people or to consider new ideas.
+
+*** Usage
+- _insular_ residents
+- an _insular_ community that is not receptive of new ideas, especially from outsiders.
+
+
+-----
+** TODO /peninsula/
+
+*** General
+- 
+
 
 
 
