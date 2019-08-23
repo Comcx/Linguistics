@@ -130,7 +130,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [3/48] Vocabulary
+* TODO [6/54] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -634,7 +634,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /interdict/
+** DONE /interdict/
 
 *** General
 - *v.* If an armed force interdicts something or someone, 
@@ -670,7 +670,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /contradict/
+** DONE /contradict/
 
 *** General
 - *v.*
@@ -740,7 +740,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /prologue/
+** DONE /prologue/
 
 *** General
 - *n.*
@@ -753,14 +753,25 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /grandiloquent/
+** TODO /epilogue/
 
+*** General
+- *n.* An epilogue is a passage or speech which is added to the end of a book or play as a conclusion.
+
+*** Usage
+- The play ended with a humorous _epilogue_.
+
+
+-----
+** TODO /grandiloquent/
+   
 *** General
 - *adj.* Grandiloquent language or behaviour is very formal, literary, or exaggerated, 
   and is used by people when they want to seem important.
 
 *** Usage
 - She attacked her colleagues for indulging in 'grandiose and _grandiloquent_ language'.
+- Indeed, no eulogy could be  more _grandiloquent_ than this.
 
 
 -----
@@ -813,11 +824,71 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /abrogate/
+** TODO /abrogate/ <2019-08-23 五>
 
 *** General
+- *vt.* If someone in a position of authority abrogates something such as 
+  a law, agreement, or practice, they put an end to it.
+
+*** Usage
+- The next prime minister could _abrogate_ the treaty.
+- When can we _abrogate_ the national boundaries all over the world?
 
 
+-----
+** TODO /arrogance/
+
+*** General
+- *n.* Someone who is arrogant behaves in a proud, 
+  unpleasant way towards other people because they believe that they are more important than others.
+
+*** Usage
+- He has never exhibited the self-confidence, bordering on _arrogance_, of his predecessor.
+- I can't stand that man and his _arrogance_.
+
+
+-----
+** TODO /interrogate/
+
+*** General
+- *v.* If someone, especially a police officer, interrogates someone, 
+  they question them thoroughly for a long time in order to get some information from them.
+
+*** Usage
+- Police _interrogate_ his name and address.
+- You wish to _interrogate_ the prisoner?
+
+
+-----
+** TODO /prerogative/
+
+*** General
+- *adj.* If something is the prerogative of a particular person or group, 
+  it is a privilege or a power that only they have.
+
+*** Usage
+- Constitutional changes are exclusively the _prerogative_ of the parliament.
+- It is your _prerogative_ to stop seeing that particular therapist and find another one.
+
+
+-----
+** TODO /surrogate/
+
+*** General
+- *adj.* You use surrogate to describe a person or thing that is given a particular role 
+  because the person or thing that should have the role is not available.
+
+- *n.* A thing used to replace another.
+
+*** Usage
+- For some people, reading travel books is a _surrogate_ for actual travel.
+- Martin had become Howard Cosell's _surrogate_ son.
+
+
+-----
+** TODO /advocate/
+
+*** General
 
 
 
