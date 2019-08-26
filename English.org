@@ -145,7 +145,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [6/84] Vocabulary
+* TODO [16/106] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -851,7 +851,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /arrogance/
+** DONE /arrogance/
 
 *** General
 - *n.* Someone who is arrogant behaves in a proud, 
@@ -863,7 +863,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /interrogate/
+** DONE /interrogate/
 
 *** General
 - *v.* If someone, especially a police officer, interrogates someone, 
@@ -901,7 +901,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /advocate/
+** DONE /advocate/
 
 *** General
 - *vt.* If you advocate a particular action or plan, you recommend it publicly.
@@ -916,7 +916,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /insular/
+** DONE /insular/
 
 *** General
 - *adj.*
@@ -952,7 +952,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /marine/
+** DONE /marine/
 
 *** General
 - *adj.* Marine is used to describe things relating to the sea or to the animals and plants that live in the sea.
@@ -987,7 +987,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /outskirt/
+** DONE /outskirt/
 
 - *n.* a part of the city far removed from the center.
 - The hotel is situated in the _outskirt_ of the city.
@@ -1045,7 +1045,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /flaw/
+** DONE /flaw/
 
 *** General
 - *n.* 
@@ -1080,7 +1080,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /subsidiary/
+** DONE /subsidiary/
 
 *** General
 - *n.* A subsidiary or a subsidiary company is a company which is part of a larger and more important company.
@@ -1164,7 +1164,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /geothermal/
+** DONE /geothermal/
 
 - *adj.* of, relating to, or utilizing the heat of the earth's interior
 - geothermal energy
@@ -1187,7 +1187,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /tropics/
+** DONE /tropics/
 
 - *n.* The tropics are the parts of the world that lie between two lines of latitude
   (tropical area)
@@ -1210,7 +1210,219 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO //
+** TODO /emerald/ <2019-08-25 日>
+
+- *n.* 
+  - An emerald is a precious stone which is clear and bright green.
+  - Something that is emerald is bright green in colour.
+- Alice has an _emerald_ necklace.
+
+
+-----
+** TODO /bonanza/
+
+- *n.* 
+  - You can refer to a sudden great increase in wealth, success, or luck as a bonanza.
+  - an especially rich vein of precious ore
+
+- a cash bonanza for investors
+
+
+-----
+** TODO /tremor/
+
+*** General
+- *n.* 
+  - A tremor is a small earthquake.
+  - If an event causes a tremor in a group or organization, 
+    it threatens to make the group or organization less strong or stable.
+  - A tremor is a shaking of your body or voice that you cannot control.
+
+*** Usage
+- News of 160 redundancies had sent _tremors_ through the community.
+- He felt a _tremor_ of apprehension.
+
+** TODO /seism/
+
+- *n.* shaking and vibration at the surface of the earth
+
+** TODO /seismic/ <2019-08-26 一>
+
+- *adj.* subject to or caused by an earthquake or earth vibration
+- Earthquakes produce two types of _seismic_ waves.
+
+** TODO /seismology/
+
+
+
+-----
+
+** TODO /cataclysm/
+
+- *n.* A cataclysm is an event that causes great change or harm.
+- The floods were a _cataclysm_ from which the local people never recovered.
+
+
+-----
+** TODO /stratum/
+
+*** General
+- *n.* 
+  - A stratum of society is a group of people in it who are similar in their education, income, or social status.
+  - Strata are different layers of rock.
+
+*** Usage
+- It was an enormous task that affected every _stratum_ of society.
+- Contained within the rock _strata_ is evidence that the region was intensely dry 15,000 years ago.
+
+** TODO /mantle/
+
+
+
+-----
+** TODO /lithogenous/
+
+
+-----
+** TODO /crust/
+
+*** General
+- *n.* 
+  - The earth's crust is its outer layer.
+  - A crust is a hard layer of something, especially on top of a softer or wetter substance.
+
+*** Usage
+- Earthquakes leave scars in the earth's _crust_.
+- As the water evaporates, a _crust_ of salt is left on the surface of the soil.
+
+
+-----
+** TODO /magma/
+
+- Magma is molten rock that is formed in very hot conditions inside the earth.
+- The volcano threw new showers of _magma_ and ash into the air.
+
+-----
+** TODO /squirt/
+
+*** General
+- *v.* 
+  - If you squirt a liquid somewhere or if it squirts somewhere, the liquid comes out of a narrow opening in a thin fast stream.
+  - If you squirt something with a liquid, you squirt the liquid at it.
+
+*** Usage
+- Norman cut open his pie and _squirted_ tomato sauce into it.
+- I _squirted_ him with water.
+
+
+-----
+** TODO /gregarious/
+
+*** General
+- *adj.*
+  - Someone who is gregarious enjoys being with other people.
+  - Gregarious animals or birds normally live in large groups.
+
+*** Usage
+- She is such a _gregarious_ and outgoing person.
+- Snow geese are very _gregarious_ birds.
+
+
+-----
+** TODO /swarm/
+
+*** General
+- *n.* A _swarm_ of bees or other insects is a large group of them flying together.
+- *v.* When bees or other insects _swarm_, they move or fly in a large group.
+
+*** Usage
+- A dark cloud of bees comes _swarming_ out of the hive.
+
+** TODO /herd/
+
+*** General
+- *n.* A herd is a large group of animals of one kind that live together.
+- *v.* If you herd people somewhere, you make them move there in a group.
+
+*** Usage
+- large _herds_ of elephant and buffalo
+- He began to _herd_ the prisoners out.
+
+
+-----
+** TODO /finch/
+
+- *n.* A finch is a small bird with a short strong beak.
+
+** TODO /fowl/
+
+- *n.* A fowl is a bird, especially one that can be eaten as food, such as a duck or a chicken.
+
+
+-----
+** TODO /amphibian/
+
+- *n.*
+  - Amphibians are animals such as frogs and toads that can live both on land and in water.
+  - An amphibian is a vehicle which is able to move on both land and water, 
+    or an aeroplane which can land on both land and water.
+
+- Both the toad and frog are _amphibian_.
+
+
+-----
+** TODO /graze/
+
+*** General
+- *v.* 
+  - When animals graze or are grazed, they eat the grass or other plants that are growing in a particular place. 
+    You can also say that a field is grazed by animals.
+  - If you graze a part of your body, you injure your skin by scraping against something.
+
+*** Usage
+- The hills have been _grazed_ by sheep because they were too steep to be ploughed.
+- I had _grazed_ my knees a little.
+
+
+-----
+** TODO /hatch/
+
+*** General
+- *v.* 
+  - When a baby bird, insect, or other animal hatches, or when it is hatched, it comes out of its egg by breaking the shell.
+  - A hatch is an opening in a ceiling or a wall, especially between a kitchen and a dining room, 
+    which you can pass something such as food through.
+
+*** Usage
+- As soon as the two chicks _hatch_, they leave the nest burrow.
+- He stuck his head up through the _hatch_.
+
+
+-----
+** TODO /hibernate/
+
+- *v.* Animals that hibernate spend the winter in a state like a deep sleep.
+- In winter bears usually _hibernate_ in their dens.
+
+
+-----
+** TODO /camouflage/
+
+*** General
+- *n.* 
+  - Camouflage consists of things such as leaves, branches, or brown and green paint, 
+    which are used to make it difficult for an enemy to see military forces and equipment.
+  - Camouflage is the way in which some animals are coloured and shaped so that 
+    they cannot easily be seen in their natural surroundings.
+
+*** Usage
+- They were dressed in _camouflage_ and carried automatic rifles.
+- Confident in its _camouflage_, being the same colour as the rocks, the lizard stands still when it feels danger.
+
+
+
+
+
 
 
 
