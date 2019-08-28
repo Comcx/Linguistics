@@ -145,7 +145,7 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [16/106] Vocabulary
+* TODO [16/122] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -1420,9 +1420,166 @@ Not ready to push a button, the machine xxx.
 - Confident in its _camouflage_, being the same colour as the rocks, the lizard stands still when it feels danger.
 
 
+-----
+** TODO /penal/
+** TODO /soak/
+
+*** General
+- *vt.* 
+  - If you soak something or leave it to soak, you put it into a liquid and leave it there.
+  - If a liquid soaks something or if you soak something with a liquid, the liquid makes the thing very wet.
+
+- *v.* If someone soaks, they spend a long time in a hot bath, because they enjoy it.
+
+*** Usage
+- _Soak_ the beans for 2 hours.
+- The water had _soaked_ his jacket and shirt.
+- What I need is to _soak_ in a hot tub.
 
 
+-----
+** TODO /equivocate/ <2019-08-28 三>
 
+- *v.* When someone equivocates, they deliberately use vague language 
+  in order to deceive people or to avoid speaking the truth.
+
+- Don't _equivocate_ with me I want a straight answer to a straight question!
+
+
+-----
+** TODO /vociferous/
+
+- *adj.* If you describe someone as vociferous, 
+  you mean that they speak with great energy and determination, because they want their views to be heard.
+
+- He was a _vociferous_ opponent of Conservatism.
+
+
+-----
+** TODO /convoke/
+
+- *v.* call together to start a meeting
+
+- The king _convoke_ parliament to cope with the impending danger.
+
+
+-----
+** TODO /invoke/
+
+*** General
+- *vt*
+  - If something such as a piece of music invokes a feeling or an image, 
+    it causes someone to have the feeling or to see the image. Many people consider this use to be incorrect.
+  - If you invoke something such as a principle, a saying, or a famous person, 
+    you refer to them in order to support your argument.
+
+*** Usage
+- The music _invoked_ the wide open spaces of the prairies.
+- He _invoked_ memories of Britain's near-disastrous disarmament in the 1930s.
+
+
+-----
+** TODO /revoke/
+
+- *vt.* When people in authority revoke something such as a licence, a law, or an agreement, they cancel it.
+
+- The government _revoked_ her husband's license to operate migrant labor crews.
+
+
+-----
+** TODO /illicit/
+
+- *adj.* An illicit activity or substance is not allowed by law or the social customs of a country.
+
+- She slipped outside for an _illicit_ cigarette.
+- He had an _illicit_ association with Jane.
+
+** TODO /illegitimate/
+
+- *adj.*
+  - A person who is illegitimate was born of parents who were not married to each other.
+  - Illegitimate is used to describe activities and institutions 
+    that are not in accordance with the law or with accepted standards of what is right.
+
+- Perhaps she was an _illegitimate_ daughter.
+- The agency made _illegitimate_ use of public funds.
+
+
+-----
+** TODO /infringe/
+
+*** General
+- *v.* 
+  - If someone infringes a law or a rule, they break it or do something which disobeys it.
+  - If something infringes people's rights, it interferes with these rights and 
+    does not allow people the freedom they are entitled to.
+
+*** Usage
+- The film exploited his image and _infringed_ his copyright.
+- It's starting to _infringe_ on our personal liberties.
+
+
+-----
+** TODO /oblige/
+
+*** General
+- *v.* 
+  - force or compel somebody to do something
+  - provide a service or favor for someone
+
+*** Usage
+- We'd be happy to _oblige_.
+- I was _obliged_ to finish the work by the end of the week.
+
+
+-----
+** TODO /arbitration/
+
+- *n.* Arbitration is the judging of a dispute between people or groups by someone who is not involved.
+
+- The matter is likely to go to _arbitration_.
+
+
+-----
+** TODO /confiscate/
+
+- *vt.* If you confiscate something from someone, you take it away from them, usually as a punishment.
+
+- There is concern that police use the law to _confiscate_ assets from people who have committed minor offences.
+
+
+-----
+** TODO /convict/
+
+*** General
+- *v.* If someone is convicted of a crime, they are found guilty of that crime in a law court.
+- *n.* A convict is someone who is in prison.
+
+*** Usage
+- In 1977 he was _convicted_ of murder and sentenced to life imprisonment.
+- They have brought the escaped _convict_ to bay.
+
+
+-----
+** TODO /indemnity/
+
+- *n.*
+  - An indemnity is an amount of money paid to someone because of some damage or loss they have suffered.
+  - If something provides indemnity, it provides insurance or protection against damage or loss.
+
+- They were charged with failing to have professional _indemnity_ cover.
+- The government paid the family an _indemnity_ for the missing pictures.
+
+
+-----
+** TODO /detain/
+
+- *v.* 
+  - When people such as the police detain someone, they keep them in a place under their control.
+  - To detain someone means to delay them, for example by talking to them.
+
+- The act allows police to _detain_ a suspect for up to 48 hours.
+- Thank you. We won't _detain_ you any further.
 
 
 
