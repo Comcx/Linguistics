@@ -145,7 +145,9 @@ Not ready to push a button, the machine xxx.
 
 
 
-* TODO [16/122] Vocabulary
+* TODO Grammar
+
+* TODO [28/148] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -647,6 +649,8 @@ Not ready to push a button, the machine xxx.
 - She has been _indicted_ for possessing cocaine.
 - I can _indict_ you for abducting high school student.
 
+*** Note
+- [[accuse][syms]]
 
 -----
 ** DONE /interdict/
@@ -848,6 +852,12 @@ Not ready to push a button, the machine xxx.
 *** Usage
 - The next prime minister could _abrogate_ the treaty.
 - When can we _abrogate_ the national boundaries all over the world?
+
+** TODO /abolish/
+
+- *vt.* If someone in authority abolishes a system or practice, they formally put an end to it.
+
+- If I were the king, I would _abolish_ taxes.
 
 
 -----
@@ -1438,7 +1448,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /equivocate/ <2019-08-28 三>
+** DONE /equivocate/ <2019-08-28 三>
 
 - *v.* When someone equivocates, they deliberately use vague language 
   in order to deceive people or to avoid speaking the truth.
@@ -1456,7 +1466,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /convoke/
+** DONE /convoke/
 
 - *v.* call together to start a meeting
 
@@ -1464,7 +1474,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /invoke/
+** DONE /invoke/
 
 *** General
 - *vt*
@@ -1479,7 +1489,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /revoke/
+** DONE /revoke/
 
 - *vt.* When people in authority revoke something such as a licence, a law, or an agreement, they cancel it.
 
@@ -1487,14 +1497,14 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /illicit/
+** DONE /illicit/
 
 - *adj.* An illicit activity or substance is not allowed by law or the social customs of a country.
 
 - She slipped outside for an _illicit_ cigarette.
 - He had an _illicit_ association with Jane.
 
-** TODO /illegitimate/
+** DONE /illegitimate/
 
 - *adj.*
   - A person who is illegitimate was born of parents who were not married to each other.
@@ -1506,7 +1516,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /infringe/
+** DONE /infringe/
 
 *** General
 - *v.* 
@@ -1520,7 +1530,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /oblige/
+** DONE /oblige/
 
 *** General
 - *v.* 
@@ -1533,7 +1543,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /arbitration/
+** DONE /arbitration/
 
 - *n.* Arbitration is the judging of a dispute between people or groups by someone who is not involved.
 
@@ -1541,7 +1551,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /confiscate/
+** DONE /confiscate/
 
 - *vt.* If you confiscate something from someone, you take it away from them, usually as a punishment.
 
@@ -1549,7 +1559,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /convict/
+** DONE /convict/
 
 *** General
 - *v.* If someone is convicted of a crime, they are found guilty of that crime in a law court.
@@ -1561,7 +1571,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /indemnity/
+** DONE /indemnity/
 
 - *n.*
   - An indemnity is an amount of money paid to someone because of some damage or loss they have suffered.
@@ -1580,6 +1590,242 @@ Not ready to push a button, the machine xxx.
 
 - The act allows police to _detain_ a suspect for up to 48 hours.
 - Thank you. We won't _detain_ you any further.
+
+
+-----
+** TODO /extenuate/ <2019-09-01 日>
+
+- *vt.* lessen or to try to lessen the seriousness or extent of
+- The circumstances _extenuate_ the crime.
+
+
+-----
+** TODO /saddle/
+
+*** General
+- *n.* A saddle is a leather seat that you put on the back of an animal so that you can ride the animal.
+- *vt.* 
+  - If you saddle a horse, you put a saddle on it so that you can ride it.
+  - If you saddle someone with a problem or with a responsibility, you put them in a position where they have to deal with it.
+
+*** Usage
+- Why don't we _saddle_ a couple of horses and go for a ride?
+- The war devastated the economy and _saddled_ the country with a huge foreign debt.
+
+
+-----
+** TODO /pledge/
+
+*** General
+- *n.* When someone makes a pledge, they make a serious promise that they will do something.
+- *vt.* When someone pledges to do something, they promise in a serious way to do it. 
+  When they pledge something, they promise to give it.
+
+*** Usage
+- The meeting ended with a _pledge_ to step up cooperation between the six states of the region.
+- Philip _pledges_ support and offers to help in any way that he can.
+
+
+-----
+** TODO /proscribe/
+
+- *vt.* If something is proscribed by people in authority, the existence or the use of that thing is forbidden.
+- They are _proscribed_ by federal law from owning guns.
+
+
+-----
+** TODO /abstinence/
+
+- *n.* Abstinence is the practice of abstaining from something such as 
+  alcoholic drink or sex, often for health or religious reasons.
+
+- total _abstinence_ from alcohol
+
+** TODO /abstain/
+
+*** General
+- *vi.* If you abstain from something, usually something you want to do, you deliberately do not do it.
+
+*** Usage
+- His doctor ordered him to _abstain_ from beer and wine.
+
+
+-----
+** TODO /affirm/
+
+*** General
+- *v.* 
+  - If you affirm that something is true or that something exists, you state firmly and publicly that it is true or exists.
+  - If an event affirms something, it shows that it is true or exists.
+
+*** Usage
+- The House of Lords _affirmed_ that the terms of a contract cannot be rewritten retrospectively.
+- Everything I had accomplished seemed to _affirm_ that opinion.
+
+
+-----
+** TODO /observe/
+
+** TODO /abide/
+
+*** General
+- *vi.* 
+  - If you can't abide someone or something, you dislike them very much.
+  - to observe
+
+*** Usage
+- She can't _abide_ his rudeness.
+- If you join the club, you have to _abide_ by its rules.
+
+
+-----
+** TODO /accuse/ <<accuse>>
+
+** TODO /impeach/
+
+- *vt.* If a court or a group in authority impeaches a president or other senior official, 
+  it charges them with committing a crime which makes them unfit for office.
+
+- The angry congressman wanted to _impeach_ the President.
+
+** TODO /incriminate/
+
+- *vt.* If something incriminates you, it suggests that you are responsible for something bad, especially a crime.
+
+- He claimed that the drugs had been planted to _incriminate_ him.
+
+** TODO /prosecute/
+
+- *v.* If the authorities prosecute someone, they charge them with a crime and put them on trial.
+
+- The police have decided not to _prosecute_ because the evidence is not strong enough.
+
+
+-----
+** TODO /impunity/
+
+- *n.* If you say that someone does something with impunity, 
+  you disapprove of the fact that they are not punished for doing something bad.
+
+- These gangs operate with apparent _impunity_.
+
+** TODO /exempt/
+
+*** General
+- *adj.* If someone or something is exempt from a particular rule, duty, or obligation, 
+  they do not have to follow it or do it.
+
+- *vt.* To exempt a person or thing from a particular rule, duty, or obligation means 
+  to state officially that they are not bound or affected by it.
+
+*** Usage
+- Men in college were _exempt_ from military service.
+- South Carolina claimed the power to _exempt_ its citizens from the obligation to obey federal law.
+
+** TODO /condone/
+
+- *vt.* If someone condones behaviour that is morally wrong, they accept it and allow it to happen.
+
+- I couldn't _condone_ what she was doing.
+
+** TODO /remit/
+
+*** General
+- *n.* Someone's remit is the area of activity which they are expected to deal with, 
+  or which they have authority to deal with.
+
+- *v.* 
+  - If you remit money to someone, you send it to them.
+  - In an appeal court, if a case is remitted to the court where it was originally dealt with, 
+    it is sent back to be dealt with there.
+
+*** Usage
+- That issue is not within the _remit_ of the working group.
+- Many immigrants regularly _remit_ money to their families.
+- The matter was _remitted_ to the justices for a rehearing.
+
+** TODO /acquit/
+
+*** General
+- *vt.*
+  - If someone is acquitted of a crime in a court of law, they are formally declared not to have committed the crime.
+  - If you acquit yourself well or admirably in a particular situation, other people feel 
+    that you have behaved well or admirably.
+
+*** Usage
+- Mr Ling was _acquitted_ of disorderly behaviour by magistrates.
+- Most officers and men _acquitted_ themselves well throughout the action.
+
+
+-----
+** TODO /decree/
+
+- *n.* A decree is an official order or decision, especially one made by the ruler of a country.
+
+- In July he issued a decree _ordering_ all unofficial armed groups in the country to disband.
+
+
+-----
+** TODO /legislate/
+
+- *vi.* When a government or state legislates, it passes a new law.
+
+- Most member countries have already _legislated_ against excessive overtime.
+
+** TODO /legalize/
+
+- *vt.* If something is legalized, a law is passed that makes it legal.
+
+- Divorce was _legalized_ in 1981.
+
+** TODO /enact/
+
+*** General
+- *vt.* 
+  - When a government or authority enacts a proposal, they make it into a law.
+  - If people enact a story or play, they perform it by acting.
+  - If a particular event or situation is enacted, it happens; 
+    used especially to talk about something that has happened before.
+
+*** Usage
+- The authorities have failed so far to _enact_ a law allowing unrestricted emigration.
+- She often _enacted_ the stories told to her by her father.
+- It was a scene which was _enacted_ month after month for eight years.
+
+
+-----
+** TODO /prescribe/
+
+*** General
+- *v.* 
+  - If a doctor prescribes medicine or treatment for you, he or she tells you what medicine or treatment to have.
+  - If a person or set of laws or rules prescribes an action or duty, they state that it must be carried out.
+
+- /note/: carry out = to execute or just carrying out of some place...
+
+*** Usage
+- Our doctor diagnosed a throat infection and _prescribed_ antibiotic and junior aspirin.
+- Alliott told Singleton he was passing the sentence _prescribed_ by law.
+
+
+-----
+** TODO /credential/
+
+- *n.* a document attesting to the truth of certain stated facts
+- The security server send back the user's authentication _credential_, or ticket.
+
+
+-----
+** TODO /hackneyed/
+
+- *adj.* If you describe something such as a saying or an image as hackneyed, you think it is no longer likely to 
+  interest, amuse or affect people because it has been used, seen, or heard many times before.
+
+- Java, one of the most popular language today,  uses many hackneyed features that would be surrogated in the future.
+
+
+
+
 
 
 

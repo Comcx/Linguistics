@@ -5,57 +5,88 @@
 
 * Reading training
 
-** 001 1 HARD
+** 001 2 HARD
 - upside-down problem
+- omission (and) scope??
+
+** 002 2 EASY
+** 003 2 SOSO
 - omission (and)
 
-** 002 1 EASY
-** 003 1 SOSO
-- omission (and)
-
-** 004 1 HARD
+** 004 2 SOSO
 - omission (or)
 
-** 005 1 HARD
+** 005 2 SOSO
 - insert
 
-** 006 1 HARD
+** 006 2 SOSO
 - insert
 
-** 007 1 SOSO
+** 007 2 EASY
 -insert
 
-** 008 1 SOSO
+** 008 2 SOSO
 - double adj clause
 
-** 009 1 HARD
+** 009 2 EASY
 - as usage
 
-** 010 1 HARD
+** 010 2 HARD
 - as usage
 
-** 011 1 HARD
+** 011 2 HARD
 - upside-down
 
-** 012 1 SOSO
+** 012 2 SOSO
 
-** 013 1 EASY
+** 013 2 EASY
 
-** 014 1 HARD
-** 015 1 SOSO
+** 014 2 HARD
+- although
+
+** 015 2 EASY
 - upside-down
 
-** 016 1 EASY
-** 017 1 EASY
-** 018 1 HARD
+** 016 2 EASY
+** 017 2 EASY
+** 018 2 HARD
 - adv clause
 
-** 019 1 EASY
-** 020 1 SOSO
-** 021 1 SOSO
+** 019 2 SOSO
+** 020 2 SOSO
+- so omission
+
+** 021 2 SOSO
 - vocabulary
 
-** 022 1 
+** 022 2 EASY
+
+** 023 2 HARD
+- adj clause and appositive may exist at the same time
+
+** 024 2 HARD
+- upside-down
+
+** 025 2 SOSO
+** 026 1 HARD
+- of usage
+
+** 027 1 HARD
+
+** 028 1 EASY
+** 029 1 SOSO
+** 030 1 EASY
+** 031 1 EASY
+** 032 1 HARD
+- adv clause
+
+** 033 1 SOSO
+** 034 1 SOSO
+** 035 1 SOSO
+** 036 1 EASY
+** 037 1 EASY
+
+
 
 
 
