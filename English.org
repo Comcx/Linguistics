@@ -147,7 +147,7 @@ Not ready to push a button, the machine xxx.
 
 * TODO Grammar
 
-* TODO [28/148] Vocabulary
+* TODO [28/186] Vocabulary
 -----
 
 ** TODO /corpulent/
@@ -1816,12 +1816,322 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /hackneyed/
+** TODO /hackneyed/ <2019-09-02 一>
 
 - *adj.* If you describe something such as a saying or an image as hackneyed, you think it is no longer likely to 
   interest, amuse or affect people because it has been used, seen, or heard many times before.
 
 - Java, one of the most popular language today,  uses many hackneyed features that would be surrogated in the future.
+
+** TODO /caustic/
+
+- *adj.* Caustic chemical substances are very powerful and can dissolve other substances.
+
+- Remember that this is _caustic_; use gloves or a spoon.
+
+
+-----
+** TODO /methane/
+
+- *n.* Methane is a colourless gas that has no smell. Natural gas consists mostly of methane.
+
+- _Methane_ gas does collect in the mines around here.
+
+
+-----
+** TODO /intermediary/
+
+*** General
+- *n.* 
+  - An intermediary is a person who passes messages or proposals between two people or groups.
+  - sth in chemistry
+
+*** Usage
+- She wanted him to act as an _intermediary_ in the dispute with Moscow.
+
+
+-----
+** TODO /catalysis/
+
+-----
+** TODO /adhesive/
+
+*** General
+- *n.* An adhesive is a substance such as glue, which is used to make things stick firmly together.
+- *adj.* An adhesive substance is able to stick firmly to something else.
+
+*** Usage
+- Glue the mirror in with a strong _adhesive_.
+- _adhesive_ tape
+
+
+-----
+** TODO /scorch/
+
+*** General
+- *vt.* 
+  - If something scorches or is scorched, 
+    it becomes marked or changes colour because it is affected by too much heat or by a chemical.
+  - To scorch something means to burn it slightly.
+  - If you scorch round a place, you move round it very quickly, either in a car or on foot.
+
+*** Usage
+- The leaves are inclined to _scorch_ in hot sunshine.
+- The bomb _scorched_ the side of the building.
+- Many people dream of _scorching_ round a racetrack.
+
+** TODO /tint/
+
+*** General
+- *vt.* If something is tinted, it has a small amount of a particular colour or dye in it.
+- *n.* 
+  - A tint is a small amount of colour.
+  - If you put a tint on your hair, you dye it a slightly different colour.
+
+*** Usage
+- Eyebrows can be _tinted_ with the same dye.
+- Its large leaves often show a delicate purple _tint_.
+- You've had a _tint_ on your hair.
+
+** TODO /dye/
+
+- *vt.* If you dye something such as hair or cloth, you change its colour by soaking it in a special liquid.
+
+- She had dyed _black_ hair.
+
+
+-----
+** TODO /molecule/
+
+- *n.* A molecule is the smallest amount of a chemical substance which can exist by itself.
+
+- ... the hydrogen bonds between water _molecules_.
+
+
+-----
+** TODO /solvent/
+
+*** General
+- *adj.* If a person or a company is solvent, they have enough money to pay all their debts.
+- *n.* A solvent is a liquid that can dissolve other substances.
+
+*** Usage
+- They're going to have to show that the company is now _solvent_.
+- a small amount of cleaning _solvent_.
+
+
+-----
+** TODO /blend/
+
+*** General
+- *v.* If you blend substances together or if they blend, you mix them together so that they become one substance.
+
+*** Usage
+- _Blend_ the butter with the sugar and beat until light and creamy.
+
+
+-----
+** TODO /sear/
+
+- *vt.* To sear something means to burn its surface with a sudden intense heat.
+
+- Grass fires have _seared_ the land near the farming village of Basekhai.
+
+
+-----
+** TODO /polymerization/
+
+- *n.* a chemical process that combines several monomers to form a polymer or polymeric compound
+
+** TODO /synthetic/
+
+- *adj.* Synthetic products are made from chemicals or artificial substances rather than from natural ones.
+
+- Boots made from _synthetic_ materials can usually be washed in a machine.
+
+
+-----
+** TODO /contaminate/
+
+- *vt.* If something is contaminated by dirt, chemicals, or radiation, they make it dirty or harmful.
+
+- Have any fish been _contaminated_ in the Arctic Ocean?
+
+
+-----
+** TODO /sewage/
+
+- *n.* Sewage is waste matter such as faeces or dirty water from homes and factories, which flows away through sewers.
+
+- the MPs' call for more treatment of raw _sewage_
+
+
+-----
+** TODO /didactic/
+
+- *adj.*
+  - Something that is didactic is intended to teach people something, especially a moral lesson.
+  - Someone who is didactic tells people things rather than letting them find things out or discussing things.
+
+- In totalitarian societies, art exists for _didactic_ purposes.
+-  He is more _didactic_ in his approach to the learning process.
+
+** TODO /sermon/
+
+- *n.* A sermon is a talk on a religious or moral subject 
+  that is given by a member of the clergy as part of a church service.
+
+- Sometimes the rector came up and preached a _sermon_.
+
+** TODO /preach/
+
+** TODO /instill/
+
+- *vt.* impart gradually
+
+- Her presence _instilled_ faith into the children
+
+** TODO /edify/
+
+- *vt.* make understood
+
+- They tried to _edify_ the child with music.
+
+
+-----
+** TODO /curriculum/
+
+- *n.* 
+  - A curriculum is all the different courses of study that are taught in a school, college, or university.
+  - A particular curriculum is one particular course of study that is taught in a school, college, or university.
+
+- There should be a broader _curriculum_ in schools for post-16-year-old pupils.
+
+** TODO /discipline/
+
+*** General
+- *n.* 
+  - Discipline is the practice of making people obey rules or standards of behaviour, and punishing them when they do not.
+  - A discipline is a particular area of study, especially a subject of study in a college or university.
+
+- *vt.* If you discipline yourself to do something, 
+  you train yourself to behave and work in a strictly controlled and regular way.
+
+*** Usage
+- Order and _discipline_ have been placed in the hands of headmasters and governing bodies.
+- We're looking for people from a wide range of _disciplines_.
+- I'm very good at _disciplining_ myself.
+
+
+-----
+** TODO /prosperous/
+
+- *adj.* Prosperous people, places, and economies are rich and successful.
+
+- The place looks more _prosperous_ than ever.
+
+
+-----
+** TODO /opulence/
+
+- *n.* wealth as evidenced by sumptuous living
+
+- That's what we tried to portray in the book, this feeling of _opulence_ and grandeur.
+
+
+-----
+** TODO /indigent/
+
+- *adj.* Someone who is indigent is very poor.
+
+- His single - mindedness was forged in _indigent_ childhood.
+
+** TODO /penury/
+
+- *n.* Penury is the state of being extremely poor.
+
+- He was brought up in _penury_, without education.
+
+
+-----
+** TODO /ration/
+** TODO /quota/
+
+
+-----
+** TODO /merchandise/
+
+- *n.* Merchandise is goods that are bought, sold, or traded.
+
+- The _merchandise_ is reasonably priced and offers exceptionally good value.
+
+
+-----
+** TODO /inventory/
+
+- *n.* 
+  - An inventory is a written list of all the objects in a particular place.
+  - An inventory is a supply or stock of something.
+
+- Before starting, he made an _inventory_ of everything that was to stay.
+
+
+-----
+** TODO /tariff/
+
+- A tariff is a tax that a government collects on goods coming into a country.
+
+- America wants to eliminate _tariffs_ on items such as electronics.
+
+
+-----
+** TODO /cause/
+
+- *n.* A cause is an aim or principle which a group of people supports or is fighting for.
+
+- Refusing to have one leader has not helped the _cause_.
+
+
+-----
+** TODO /disburse/
+
+- *vt.* To disburse an amount of money means to pay it out, 
+  usually from a fund which has been collected for a particular purpose.
+
+- The bank has _disbursed_ over $350m for the project.
+
+
+-----
+** TODO /residue/
+
+- *n.* A residue of something is a small amount that remains after most of it has gone.
+
+- Always using the same shampoo means that a _residue_ can build up on the hair.
+
+
+-----
+** TODO /collateral/
+
+- *n.* Collateral is money or property which is used as a guarantee that someone will repay a loan.
+
+- Many people use personal assets as _collateral_ for small business loans.
+
+
+-----
+** TODO /depreciate/
+
+- *v.* If something such as a currency depreciates or if something depreciates it, it loses some of its original value.
+
+- Countries may also find their currency is _depreciating_ in foreign markets.
+
+
+-----
+** TODO /reimburse/
+
+
+
+
+
 
 
 
