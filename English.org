@@ -147,10 +147,10 @@ Not ready to push a button, the machine xxx.
 
 * TODO Grammar
 
-* TODO [28/186] Vocabulary
+* TODO [43/208] Vocabulary
 -----
 
-** TODO /corpulent/
+** DONE /corpulent/
 
 *** General
 - *adj.* excessively fat
@@ -165,7 +165,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** NEXT /aerosol/
+** DONE /aerosol/
 
 *** General
 - *n.* a cloud of solid or liquid particles in a gas
@@ -194,7 +194,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /submerge/
+** DONE /submerge/
 
 *** General
 - *v.* sink below the surface, under water
@@ -249,7 +249,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /flock/
+** DONE /flock/
 
 *** General
 - *n.* 
@@ -266,7 +266,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /guise/
+** DONE /guise/
 
 *** General
 - *n.* a way in which sb/sth appears, 
@@ -359,7 +359,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /peerless/
+** DONE /peerless/
 
 *** General
 - *adj.* better than all others of its kind
@@ -372,7 +372,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /peer/
+** DONE /peer/
 <<peer>>
 *** General
 - *n.* a person who is the same age 
@@ -396,7 +396,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /esteem/
+** DONE /esteem/
 
 *** General
 - *vt.* 
@@ -414,7 +414,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /adroit/
+** DONE /adroit/
 
 *** General
 - *adj.* skilful and clever, especially in dealing with people
@@ -545,7 +545,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /nostalgia/
+** DONE /nostalgia/
 
 *** General
 - *n.* a feeling of sadness mixed with pleasure and affection 
@@ -556,7 +556,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /flicker/
+** DONE /flicker/
 
 *** General
 - *v.* 
@@ -578,7 +578,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /oblivious/
+** DONE /oblivious/
 
 *** General
 - *adj.* unwared, inattentive
@@ -592,7 +592,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /forge/
+** DONE /forge/
 
 *** General
 - *vt.*
@@ -940,7 +940,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /peninsula/
+** DONE /peninsula/
 
 *** General
 - *n.* A peninsula is a long narrow piece of land 
@@ -952,7 +952,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /islet/
+** DONE /islet/
 
 *** General
 - *n.* An islet is a small island.
@@ -2128,12 +2128,204 @@ Not ready to push a button, the machine xxx.
 -----
 ** TODO /reimburse/
 
+- *vt.* If you reimburse someone for something, you pay them back the money that they have spent or lost because of it.
+
+- I'll be happy to _reimburse_ you for any expenses you might have incurred.
+
+
+-----
+** TODO /garner/
+
+- *vt.* assemble or get together;
+
+- People began to _garner_ food to prepare for the war.
+
+-----
+** TODO /revenue/
 
 
 
+-----
+** TODO /barter/
+
+- *vt.* If you barter goods, you exchange them for other goods, rather than selling them for money.
+
+- They have been _bartering_ wheat for cotton and timber.
 
 
+-----
+** TODO /deposit/ <2019-09-04 三>
 
+*** General
+- *v.* 
+  - If you deposit a sum of money, you pay it into a bank account or savings account.
+  - If you deposit something somewhere, you put it where it will be safe until it is needed again.
+
+- *n.* 
+  - A deposit is a sum of money which is part of the full price of something, and which you pay when you agree to buy it.
+  - A deposit is a sum of money which you pay when you start renting something.
+    The money is returned to you if you do not damage what you have rented.
+
+*** Usage
+- The customer has to _deposit_ a minimum of £100 monthly.
+- You are advised to _deposit_ valuables in the hotel safe.
+- It is common to ask for the equivalent of a month's rent as a _deposit_.
+
+
+-----
+** TODO /ransom/
+
+*** General
+- *n.* A ransom is the money that has to be paid to someone so that they will set free a person they have kidnapped.
+- *v.* If you ransom someone who has been kidnapped, you pay the money to set them free.
+
+*** Usage
+- Her kidnapper successfully _extorted_ a £75,000 ransom for her release.
+- The same system was used for _ransoming_ or exchanging captives.
+
+
+-----
+** TODO /revenue/
+
+- *n.* Revenue is money that a company, organization, or government receives from people.
+
+- a boom year at the cinema, with record advertising _revenue_ and the highest ticket sales since 1980.
+
+
+-----
+** TODO /dissimulate/
+
+- *v.* When people dissimulate, they hide their true feelings, intentions, or nature.
+
+- This man was too injured to _dissimulate_ well.
+
+
+-----
+** TODO /scout/
+
+*** General
+- *vt.* If you scout somewhere for something, you go through that area searching for it.
+- *n.* A scout is someone who is sent to an area of countryside to find out the position of an enemy army.
+
+*** Usage
+- I wouldn't have time to _scout_ the area for junk.
+- They sent two men out in front as _scouts_.
+
+
+-----
+** TODO /encroach/
+
+- *v.* If something encroaches on a place, it spreads and takes over more and more of that place.
+
+- His new farm buildings _encroach_ on his neighbour's land.
+
+** TODO /despoil/
+
+- *vt.* To despoil a place means to make it less attractive, valuable, 
+  or important by taking things away from it or by destroying it.
+
+- The victorious army _despoil_ the city of all its treasure.
+
+
+-----
+** TODO /assault/
+
+*** General
+- *vt.* To assault someone means to physically attack them.
+- *n.* An assault by an army is a strong attack made on an area held by the enemy.
+
+*** Usage
+- The gang _assaulted_ him with iron bars.
+- The rebels are poised for a new _assault_ on the government garrisons.
+
+** TODO /exterminate/
+
+- *vt.* To exterminate a group of people or animals means to kill all of them.
+
+- A huge effort was made to _exterminate_ the rats.
+
+
+-----
+** TODO /repulse/
+
+- *vt.* If an army or other group repulses a group of people, they drive it back using force.
+
+- The armed forces were prepared to _repulse_ any attacks.
+
+
+-----
+** TODO /siege/
+
+- *n.* A siege is a military or police operation in which soldiers 
+  or police surround a place in order to force the people there to come out or give up control of the place.
+
+- The rebels laid _siege_ to the governor's residence.
+- the _siege_ of Troy
+
+** TODO /besiege/
+
+- *vt.* If soldiers besiege a place, they surround it and wait for the people in it to stop fighting or resisting.
+
+- The main part of the army moved to Sevastopol to _besiege_ the town.
+
+** TODO /beset/
+
+- *vt.* 
+  - besiege
+  - If someone or something is beset by problems or fears, they have many problems or fears which affect them severely.
+
+- The country is _beset_ by severe economic problems.
+
+
+-----
+** TODO /scoop/
+
+*** General
+- *vt.* 
+  - If you scoop a person or thing somewhere, you put your hands or arms under or round them and quickly move them there.
+  - If you scoop something from a container, you remove it with something such as a spoon.
+
+- *n.* You can use scoop to refer to an exciting news story 
+  which is reported in one newspaper or on one television programme before it appears anywhere else.
+
+*** Usage
+- Michael knelt next to her and _scooped_ her into his arms.
+- the sound of a spoon _scooping_ dog food out of a can.
+- one of the biggest _scoops_ in the history of newspapers.
+
+** TODO /exhume/
+
+- *v.* If a dead person's body is exhumed, it is taken out of the ground where it is buried, 
+  especially so that it can be examined in order to find out how the person died.
+
+- His remains have been _exhumed_ from a cemetery in Queens, New York City.
+
+
+-----
+** TODO /archaic/
+
+- *adj* Archaic means extremely old or extremely old-fashioned.
+
+
+-----
+** TODO /remnant/
+
+- *n.* The remnants of something are small parts of it that 
+  are left over when the main part has disappeared or been destroyed.
+
+- Beneath the present church were _remnants_ of Roman flooring.
+
+
+-----
+** TODO /porcelain/
+
+- *n.* Porcelain is a hard, shiny substance made by heating clay. It is used to make delicate cups, plates, and ornaments.
+
+- There were lilies everywhere in tall white _porcelain_ vases.
+
+
+-----
+** TODO /arable/
 
 
 
