@@ -147,7 +147,7 @@ Not ready to push a button, the machine xxx.
 
 * TODO Grammar
 
-* TODO [43/208] Vocabulary
+* TODO [104/217] Vocabulary
 -----
 
 ** DONE /corpulent/
@@ -214,7 +214,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /tow/
+** DONE /tow/
 
 *** General
 - *n.* the act of hauling sth by means of a hitch or rope
@@ -235,7 +235,7 @@ Not ready to push a button, the machine xxx.
 | jerk | drag quickly and suddenly                                   |
 
 -----
-** TODO /perspective/
+** DONE /perspective/
 
 *** General
 - *n.* 
@@ -279,7 +279,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /slump/
+** DONE /slump/
 
 *** General
 - *vi.* 
@@ -294,7 +294,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /rend/
+** DONE /rend/
 
 *** General
 - *v.* to tear sth apart with force or violence
@@ -308,7 +308,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /granary/
+** DONE /granary/
 
 *** General
 - *n.* a building where grain is stored
@@ -318,7 +318,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /midst/
+** DONE /midst/
 
 *** General
 - *n.* middle
@@ -348,7 +348,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /abiding/
+** DONE /abiding/
 
 *** General
 - *adj.* lasting for a long time and not changing
@@ -385,6 +385,7 @@ Not ready to push a button, the machine xxx.
 
 -----
 ** TODO /extravagant/
+
 
 *** General
 - *adj.* spending a lot more money or 
@@ -425,7 +426,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /extant/
+** DONE /extant/
 
 *** General
 - *adj.* still exist
@@ -435,7 +436,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /idyllic/
+** DONE /idyllic/
 
 *** General
 - *adj.* peaceful and beautiful; perfect, without problems
@@ -449,7 +450,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /duvet/
+** DONE /duvet/
 
 *** General
 - *n.* a soft quilt usually filled with the down of the eider
@@ -463,7 +464,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /counsel/
+** DONE /counsel/
 
 *** General
 - *n.*
@@ -482,7 +483,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /exceptional/
+** DONE /exceptional/
 
 *** General
 - *adj.* 
@@ -495,7 +496,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /arduous/
+** DONE /arduous/
 
 *** General
 - *adj.* 
@@ -510,7 +511,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /vesture/
+** DONE /vesture/
 
 *** General
 - *n.* 
@@ -525,7 +526,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /blunt/
+** DONE /blunt/
 
 *** General
 - *adj.* 
@@ -639,7 +640,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /indict/
+** DONE /indict/
 
 *** General
 - *vt.* If someone is indicted for a crime, they are officially charged with it.
@@ -653,7 +654,7 @@ Not ready to push a button, the machine xxx.
 - [[accuse][syms]]
 
 -----
-** DONE /interdict/
+** TODO /interdict/
 
 *** General
 - *v.* If an armed force interdicts something or someone, 
@@ -667,7 +668,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /valediction/
+** DONE /valediction/
 
 *** General
 - *n.* the act of saying goodbye, especially in a formal speech.
@@ -707,7 +708,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /dictate/ <2019-08-20 二>
+** DONE /dictate/ <2019-08-20 二>
 
 *** General
 - *v.* 
@@ -731,7 +732,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /eulogize/
+** DONE /eulogize/
 
 *** General
 - *vt.* 
@@ -744,7 +745,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /monologue/ <2019-08-22 四>
+** DONE /monologue/ <2019-08-22 四>
 
 *** General
 - *n.* 
@@ -772,7 +773,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /epilogue/
+** DONE /epilogue/
 
 *** General
 - *n.* An epilogue is a passage or speech which is added to the end of a book or play as a conclusion.
@@ -783,7 +784,7 @@ Not ready to push a button, the machine xxx.
 
 -----
 ** TODO /grandiloquent/
-   
+
 *** General
 - *adj.* Grandiloquent language or behaviour is very formal, literary, or exaggerated, 
   and is used by people when they want to seem important.
@@ -794,7 +795,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /loquacious/
+** DONE /loquacious/
 
 *** General
 - *adj.* If you describe someone as loquacious, you mean that they talk a lot.
@@ -817,7 +818,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /soliloquy/
+** DONE /soliloquy/
 
 *** General
 - *n.*
@@ -831,7 +832,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /circumlocution/
+** DONE /circumlocution/
 
 *** General
 - *n.* A circumlocution is a way of saying or writing something using more words 
@@ -853,7 +854,7 @@ Not ready to push a button, the machine xxx.
 - The next prime minister could _abrogate_ the treaty.
 - When can we _abrogate_ the national boundaries all over the world?
 
-** TODO /abolish/
+** DONE /abolish/
 
 - *vt.* If someone in authority abolishes a system or practice, they formally put an end to it.
 
@@ -897,7 +898,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /surrogate/
+** DONE /surrogate/
 
 *** General
 - *adj.* You use surrogate to describe a person or thing that is given a particular role 
@@ -973,7 +974,7 @@ Not ready to push a button, the machine xxx.
 - Human beings are not natural enemies of _marine_ mammals.
 - He was a soldier of _Marine_ Corps.
 
-** TODO /maritime/
+** DONE /maritime/
 
 *** General 
 - *adj.* Maritime is used to describe things relating to the sea and to ships.
@@ -1032,19 +1033,19 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /subterrane/
+** DONE /subterrane/
 
 - *n.* the bedrock or the rocks beneath a particular geological formation
   (underground)
 
-** TODO /subterranean/
+** DONE /subterranean/
 
 - *adj.* A subterranean river or tunnel is under the ground.
 - London has 9 miles of such _subterranean_ passages.
 
 
 -----
-** TODO /cavern/
+** DONE /cavern/
 
 - *n.*
   - A cavern is a large deep cave.
@@ -1068,19 +1069,19 @@ Not ready to push a button, the machine xxx.
 - It was a large diamond, but it had a _flaw_.
 - The only _flaw_ is the slightly slow response times when you press the buttons.
 
-** TODO /cleft/
+** DONE /cleft/
 
 - *n.* A cleft in a rock or in the ground is a narrow opening in it.
 - a cleft in the rocks
 
-** TODO /crevice/
+** DONE /crevice/
 
 - *n.* A crevice is a narrow crack or gap, especially in a rock.
 - I saw a plant growing out of a _crevice_ in the wall.
 
 
 -----
-** TODO /meridian/
+** TODO /meridian/ <2019-09-08 日>
 
 - *n.* A meridian is an imaginary line from the North Pole to the South Pole. 
   Meridians are drawn on maps to help you describe the position of a place.
@@ -1103,17 +1104,17 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /Antarctic/
+** DONE /Antarctic/
 
 - *adj.* The Antarctic is the area around the South Pole.
 - He measured the distance to the nearest _Antarctic_ coast.
 
-** TODO /Antarctica/
+** DONE /Antarctica/
 
 - *n.* an extremely cold continent at the south pole almost entirely below the Antarctic Circle
 - _Antarctica_ is the earth's coldest landmass.
 
-** TODO /Arctic/
+** DONE /Arctic/
 
 - *n.* The Arctic is the area of the world around the North Pole. 
   It is extremely cold and there is very little light in winter and very little darkness in summer.
@@ -1152,14 +1153,14 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /salinity/
+** DONE /salinity/
 
 - *n.* the relative proportion of salt in a solution
 - The Atlantic Ocean had undergone changes in temperature and _salinity_.
 
 
 -----
-** TODO /elevation/
+** DONE /elevation/
 
 *** General
 - *n.* 
@@ -1186,7 +1187,7 @@ Not ready to push a button, the machine xxx.
 - *n.* Terrain is used to refer to an area of land or a type of land when you are considering its physical features.
 - The _terrain_ changed quickly from arable land to desert.
 
-** TODO /topography/
+** DONE /topography/
 
 - *n.* 
   - Topography is the study and description of the physical features of an area, 
@@ -1220,7 +1221,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /emerald/ <2019-08-25 日>
+** DONE /emerald/ <2019-08-25 日>
 
 - *n.* 
   - An emerald is a precious stone which is clear and bright green.
@@ -1229,7 +1230,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /bonanza/
+** DONE /bonanza/
 
 - *n.* 
   - You can refer to a sudden great increase in wealth, success, or luck as a bonanza.
@@ -1252,22 +1253,22 @@ Not ready to push a button, the machine xxx.
 - News of 160 redundancies had sent _tremors_ through the community.
 - He felt a _tremor_ of apprehension.
 
-** TODO /seism/
+** DONE /seism/
 
 - *n.* shaking and vibration at the surface of the earth
 
-** TODO /seismic/ <2019-08-26 一>
+** DONE /seismic/ <2019-08-28 三>
 
 - *adj.* subject to or caused by an earthquake or earth vibration
 - Earthquakes produce two types of _seismic_ waves.
 
-** TODO /seismology/
+** DONE /seismology/
 
 
 
 -----
 
-** TODO /cataclysm/
+** DONE /cataclysm/
 
 - *n.* A cataclysm is an event that causes great change or harm.
 - The floods were a _cataclysm_ from which the local people never recovered.
@@ -1285,12 +1286,12 @@ Not ready to push a button, the machine xxx.
 - It was an enormous task that affected every _stratum_ of society.
 - Contained within the rock _strata_ is evidence that the region was intensely dry 15,000 years ago.
 
-** TODO /mantle/
+** DONE /mantle/
 
 
 
 -----
-** TODO /lithogenous/
+** DONE /lithogenous/
 
 
 -----
@@ -1307,7 +1308,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /magma/
+** DONE /magma/
 
 - Magma is molten rock that is formed in very hot conditions inside the earth.
 - The volcano threw new showers of _magma_ and ash into the air.
@@ -1326,7 +1327,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /gregarious/
+** DONE /gregarious/
 
 *** General
 - *adj.*
@@ -1339,7 +1340,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /swarm/
+** DONE /swarm/
 
 *** General
 - *n.* A _swarm_ of bees or other insects is a large group of them flying together.
@@ -1348,7 +1349,7 @@ Not ready to push a button, the machine xxx.
 *** Usage
 - A dark cloud of bees comes _swarming_ out of the hive.
 
-** TODO /herd/
+** DONE /herd/
 
 *** General
 - *n.* A herd is a large group of animals of one kind that live together.
@@ -1370,7 +1371,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /amphibian/
+** DONE /amphibian/
 
 - *n.*
   - Amphibians are animals such as frogs and toads that can live both on land and in water.
@@ -1395,7 +1396,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /hatch/
+** DONE /hatch/
 
 *** General
 - *v.* 
@@ -1409,14 +1410,14 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /hibernate/
+** DONE /hibernate/
 
 - *v.* Animals that hibernate spend the winter in a state like a deep sleep.
 - In winter bears usually _hibernate_ in their dens.
 
 
 -----
-** TODO /camouflage/
+** DONE /camouflage/
 
 *** General
 - *n.* 
@@ -1431,7 +1432,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /penal/
+** DONE /penal/
 ** TODO /soak/
 
 *** General
@@ -1466,7 +1467,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /convoke/
+** TODO /convoke/
 
 - *v.* call together to start a meeting
 
@@ -1489,7 +1490,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /revoke/
+** TODO /revoke/
 
 - *vt.* When people in authority revoke something such as a licence, a law, or an agreement, they cancel it.
 
@@ -1600,7 +1601,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /saddle/
+** DONE /saddle/
 
 *** General
 - *n.* A saddle is a leather seat that you put on the back of an animal so that you can ride the animal.
@@ -1614,7 +1615,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /pledge/
+** DONE /pledge/
 
 *** General
 - *n.* When someone makes a pledge, they make a serious promise that they will do something.
@@ -1679,16 +1680,16 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /accuse/ <<accuse>>
+** DONE /accuse/ <<accuse>>
 
-** TODO /impeach/
+** DONE /impeach/
 
 - *vt.* If a court or a group in authority impeaches a president or other senior official, 
   it charges them with committing a crime which makes them unfit for office.
 
 - The angry congressman wanted to _impeach_ the President.
 
-** TODO /incriminate/
+** DONE /incriminate/
 
 - *vt.* If something incriminates you, it suggests that you are responsible for something bad, especially a crime.
 
@@ -2085,7 +2086,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /cause/
+** DONE /cause/
 
 - *n.* A cause is an aim or principle which a group of people supports or is fighting for.
 
@@ -2146,7 +2147,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /barter/
+** DONE /barter/
 
 - *vt.* If you barter goods, you exchange them for other goods, rather than selling them for money.
 
@@ -2173,7 +2174,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /ransom/
+** DONE /ransom/
 
 *** General
 - *n.* A ransom is the money that has to be paid to someone so that they will set free a person they have kidnapped.
@@ -2201,7 +2202,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /scout/
+** DONE /scout/
 
 *** General
 - *vt.* If you scout somewhere for something, you go through that area searching for it.
@@ -2325,10 +2326,71 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** TODO /arable/
+** TODO /arable/ <2019-09-08 日>
+
+- *adj.* Arable farming involves growing crops such as wheat and barley 
+  rather than keeping animals or growing fruit and vegetables. Arable land is land that is used for arable farming.
 
 
+-----
+** TODO /indigenous/
 
+- *adj.* Indigenous people or things belong to the country in which they are found, 
+  rather than coming there or being brought there from another country.
+
+- Indians were the _indigenous_ inhabitants of America.
+
+
+-----
+** TODO /silt/
+
+** TODO /squash/
+
+*** General
+- *v.* If someone or something is squashed, 
+  they are pressed or crushed with such force that they become injured or lose their shape.
+
+*** Usage
+- Robert was lucky to escape with just a broken foot after being _squashed_ against a fence by a car.
+
+
+-----
+** TODO /ethnic/
+
+- *adj.* Ethnic means connected with or relating to different racial or cultural groups of people.
+
+- a survey of Britain's _ethnic_ minorities.
+
+** TODO /ethnology/
+
+
+-----
+** TODO /descent/
+
+- *n.*
+  - A descent is a movement from a higher to a lower level or position.
+  - You use descent to talk about a person's family background, for example their nationality or social status.
+
+- Sixteen of the youngsters set off for help, but during the _descent_ three collapsed in the cold and rain.
+- All the contributors were of African _descent_.
+
+
+-----
+** TODO /hominid/
+
+- *n.* a primate of the family Hominidae
+
+
+-----
+** TODO /cranial/
+
+- *n.* Cranial means relating to your cranium.
+
+- However, the tiger has bigger _cranial_ volume than the lion.
+
+
+-----
+** TODO //
 
 
 
