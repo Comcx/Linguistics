@@ -147,7 +147,7 @@ Not ready to push a button, the machine xxx.
 
 * TODO Grammar
 
-* TODO [104/217] Vocabulary
+* TODO [88/217] Vocabulary
 -----
 
 ** DONE /corpulent/
@@ -165,7 +165,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /aerosol/
+** NEXT /aerosol/
 
 *** General
 - *n.* a cloud of solid or liquid particles in a gas
@@ -214,7 +214,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /tow/
+** TODO /tow/
 
 *** General
 - *n.* the act of hauling sth by means of a hitch or rope
@@ -235,7 +235,7 @@ Not ready to push a button, the machine xxx.
 | jerk | drag quickly and suddenly                                   |
 
 -----
-** DONE /perspective/
+** NEXT /perspective/
 
 *** General
 - *n.* 
@@ -266,7 +266,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /guise/
+** NEXT /guise/
 
 *** General
 - *n.* a way in which sb/sth appears, 
@@ -279,7 +279,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /slump/
+** NEXT /slump/
 
 *** General
 - *vi.* 
@@ -308,7 +308,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /granary/
+** TODO /granary/
 
 *** General
 - *n.* a building where grain is stored
@@ -318,7 +318,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /midst/
+** TODO /midst/
 
 *** General
 - *n.* middle
@@ -348,7 +348,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /abiding/
+** TODO /abiding/
 
 *** General
 - *adj.* lasting for a long time and not changing
@@ -359,7 +359,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /peerless/
+** TODO /peerless/
 
 *** General
 - *adj.* better than all others of its kind
@@ -372,7 +372,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /peer/
+** TODO /peer/
 <<peer>>
 *** General
 - *n.* a person who is the same age 
@@ -397,7 +397,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /esteem/
+** TODO /esteem/
 
 *** General
 - *vt.* 
@@ -415,7 +415,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /adroit/
+** TODO /adroit/
 
 *** General
 - *adj.* skilful and clever, especially in dealing with people
@@ -426,7 +426,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /extant/
+** TODO /extant/
 
 *** General
 - *adj.* still exist
@@ -436,7 +436,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /idyllic/
+** TODO /idyllic/
 
 *** General
 - *adj.* peaceful and beautiful; perfect, without problems
@@ -450,7 +450,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /duvet/
+** TODO /duvet/
 
 *** General
 - *n.* a soft quilt usually filled with the down of the eider
@@ -464,7 +464,7 @@ Not ready to push a button, the machine xxx.
 
 
 -----
-** DONE /counsel/
+** TODO /counsel/
 
 *** General
 - *n.*
@@ -2391,7 +2391,7 @@ Not ready to push a button, the machine xxx.
 
 -----
 ** TODO //
-
+   
 
 
 
