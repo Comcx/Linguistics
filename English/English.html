@@ -1,0 +1,2174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2019-08-20 二 23:14 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>English learning Scripts</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Comcx" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">English learning Scripts</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgc919dd8">1. <span class="todo TODO">TODO</span> Story</a></li>
+<li><a href="#org29cb6b3">2. <span class="todo TODO">TODO</span> <code>[0/0]</code> Cluster</a>
+<ul>
+<li><a href="#orgdbe5c9f">2.1. Character</a></li>
+<li><a href="#orga49285c">2.2. Vesture</a></li>
+<li><a href="#orgffe6309">2.3. _</a></li>
+<li><a href="#org4686f5b">2.4. _</a></li>
+<li><a href="#org0af68ea">2.5. _</a></li>
+<li><a href="#orgefe745c">2.6. eminent</a></li>
+<li><a href="#orgaac4617">2.7. savage</a></li>
+<li><a href="#orge00e938">2.8. decieve</a></li>
+<li><a href="#org414653e">2.9. feat</a></li>
+<li><a href="#org0e51b70">2.10. astute</a></li>
+<li><a href="#org87266f5">2.11. busy</a></li>
+<li><a href="#orga598d47">2.12. careful</a></li>
+<li><a href="#org73d9760">2.13. confuse, surprise</a></li>
+<li><a href="#org38cc01b">2.14. exacting</a></li>
+<li><a href="#org9e61ab7">2.15. eternal</a></li>
+<li><a href="#orgff9d146">2.16. hungry</a></li>
+<li><a href="#org14af94c">2.17. _</a></li>
+<li><a href="#orgaa621fb">2.18. erase</a></li>
+<li><a href="#org5e71dd8">2.19. sway</a></li>
+</ul>
+</li>
+<li><a href="#orge31a0c2">3. <span class="todo TODO">TODO</span> <code>[1/40]</code> Vocabulary</a>
+<ul>
+<li><a href="#org596834c">3.1. <span class="todo TODO">TODO</span> <i>corpulent</i></a>
+<ul>
+<li><a href="#org7f9d59e">3.1.1. General</a></li>
+<li><a href="#orgc5fc18c">3.1.2. Usage</a></li>
+<li><a href="#orgfa68fdb">3.1.3. Story</a></li>
+</ul>
+</li>
+<li><a href="#org868ebee">3.2. <span class="todo NEXT">NEXT</span> <i>aerosol</i></a>
+<ul>
+<li><a href="#org5adec18">3.2.1. General</a></li>
+<li><a href="#orgdcb2294">3.2.2. Usage</a></li>
+<li><a href="#orgb44afc1">3.2.3. Story</a></li>
+</ul>
+</li>
+<li><a href="#org555a050">3.3. <span class="done DONE">DONE</span> <i>reflective</i></a>
+<ul>
+<li><a href="#orge29af11">3.3.1. General</a></li>
+<li><a href="#orgf012b49">3.3.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orgd9f0ae9">3.4. <span class="todo TODO">TODO</span> <i>submerge</i></a>
+<ul>
+<li><a href="#orgcbf6643">3.4.1. General</a></li>
+<li><a href="#orgaa95013">3.4.2. Usage</a></li>
+<li><a href="#org7951270">3.4.3. Note</a></li>
+</ul>
+</li>
+<li><a href="#orgdbc2e46">3.5. <span class="todo TODO">TODO</span> <i>tow</i></a>
+<ul>
+<li><a href="#org12ed53f">3.5.1. General</a></li>
+<li><a href="#orgc54c66f">3.5.2. Usage</a></li>
+<li><a href="#orgb4fe7ea">3.5.3. Note</a></li>
+</ul>
+</li>
+<li><a href="#orga072a1a">3.6. <span class="todo TODO">TODO</span> <i>perspective</i></a>
+<ul>
+<li><a href="#org99e86c1">3.6.1. General</a></li>
+<li><a href="#orge61262f">3.6.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org13e518d">3.7. <span class="todo TODO">TODO</span> <i>flock</i></a>
+<ul>
+<li><a href="#org7166c23">3.7.1. General</a></li>
+<li><a href="#org9092f29">3.7.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org067fc4e">3.8. <span class="todo TODO">TODO</span> <i>guise</i></a>
+<ul>
+<li><a href="#org4d8eb90">3.8.1. General</a></li>
+<li><a href="#org1be93c6">3.8.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org9a03b8c">3.9. <span class="todo TODO">TODO</span> <i>slump</i></a>
+<ul>
+<li><a href="#orgfa0cdda">3.9.1. General</a></li>
+<li><a href="#orgf616191">3.9.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orge8e8c75">3.10. <span class="todo TODO">TODO</span> <i>rend</i></a>
+<ul>
+<li><a href="#orgda21288">3.10.1. General</a></li>
+<li><a href="#org222ba9e">3.10.2. Usage</a></li>
+<li><a href="#org79442e8">3.10.3. Note</a></li>
+</ul>
+</li>
+<li><a href="#orgb656ee6">3.11. <span class="todo TODO">TODO</span> <i>granary</i></a>
+<ul>
+<li><a href="#org234d0fb">3.11.1. General</a></li>
+<li><a href="#orgfeca4fd">3.11.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org5c225ef">3.12. <span class="todo TODO">TODO</span> <i>midst</i></a>
+<ul>
+<li><a href="#org4d52a5f">3.12.1. General</a></li>
+<li><a href="#org29fc3f8">3.12.2. Usage</a></li>
+<li><a href="#org26370cd">3.12.3. Note</a></li>
+</ul>
+</li>
+<li><a href="#org89de19e">3.13. <span class="todo TODO">TODO</span> <i>prodigal</i></a>
+<ul>
+<li><a href="#org1fcebbf">3.13.1. General</a></li>
+<li><a href="#org62d8533">3.13.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orgb0477f6">3.14. <span class="todo TODO">TODO</span> <i>abiding</i></a>
+<ul>
+<li><a href="#org088634a">3.14.1. General</a></li>
+<li><a href="#org0690bff">3.14.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orgfa43c8a">3.15. <span class="todo TODO">TODO</span> <i>peerless</i></a>
+<ul>
+<li><a href="#org58121b0">3.15.1. General</a></li>
+<li><a href="#org908cb57">3.15.2. Usage</a></li>
+<li><a href="#org8aacdfc">3.15.3. Story</a></li>
+</ul>
+</li>
+<li><a href="#orgf3de9b6">3.16. <span class="todo TODO">TODO</span> <i>peer</i></a>
+<ul>
+<li><a href="#org845fd60">3.16.1. General</a></li>
+<li><a href="#org46bbf13">3.16.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org8de5dc1">3.17. <span class="todo TODO">TODO</span> <i>extravagant</i></a>
+<ul>
+<li><a href="#org83f6da0">3.17.1. General</a></li>
+<li><a href="#org1199ae8">3.17.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org7978b60">3.18. <span class="todo TODO">TODO</span> <i>esteem</i></a>
+<ul>
+<li><a href="#org32077a4">3.18.1. General</a></li>
+<li><a href="#org0a636fa">3.18.2. Usage</a></li>
+<li><a href="#org52711f0">3.18.3. Story</a></li>
+</ul>
+</li>
+<li><a href="#orgb73405e">3.19. <span class="todo TODO">TODO</span> <i>adroit</i></a>
+<ul>
+<li><a href="#org34ec923">3.19.1. General</a></li>
+<li><a href="#org177bcec">3.19.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org50f1818">3.20. <span class="todo TODO">TODO</span> <i>extant</i></a>
+<ul>
+<li><a href="#org70bbc61">3.20.1. General</a></li>
+<li><a href="#orgba68381">3.20.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org715e5ad">3.21. <span class="todo TODO">TODO</span> <i>idyllic</i></a>
+<ul>
+<li><a href="#orge2b932b">3.21.1. General</a></li>
+<li><a href="#org5b2eab8">3.21.2. Usage</a></li>
+<li><a href="#orgbbb1a27">3.21.3. Note</a></li>
+</ul>
+</li>
+<li><a href="#org74e1e47">3.22. <span class="todo TODO">TODO</span> <i>duvet</i></a>
+<ul>
+<li><a href="#org3bb3a43">3.22.1. General</a></li>
+<li><a href="#org135e181">3.22.2. Usage</a></li>
+<li><a href="#orgcc74b9c">3.22.3. Story</a></li>
+</ul>
+</li>
+<li><a href="#orgd64e812">3.23. <span class="todo TODO">TODO</span> <i>counsel</i></a>
+<ul>
+<li><a href="#org2dabb8d">3.23.1. General</a></li>
+<li><a href="#org2834f63">3.23.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orge281386">3.24. <span class="todo TODO">TODO</span> <i>exceptional</i></a>
+<ul>
+<li><a href="#orga75b51c">3.24.1. General</a></li>
+<li><a href="#orgdab9635">3.24.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org50e3226">3.25. <span class="todo TODO">TODO</span> <i>arduous</i></a>
+<ul>
+<li><a href="#org647e264">3.25.1. General</a></li>
+<li><a href="#org83fba92">3.25.2. Usage</a></li>
+<li><a href="#org0b98f8f">3.25.3. Story</a></li>
+</ul>
+</li>
+<li><a href="#orgdfbf66b">3.26. <span class="todo TODO">TODO</span> <i>vesture</i></a>
+<ul>
+<li><a href="#orgf057d86">3.26.1. General</a></li>
+<li><a href="#org0251ca9">3.26.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org812fc56">3.27. <span class="todo TODO">TODO</span> <i>blunt</i></a>
+<ul>
+<li><a href="#orgd5210a7">3.27.1. General</a></li>
+<li><a href="#org21840ad">3.27.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org64bdf28">3.28. <span class="todo TODO">TODO</span> <i>nostalgia</i></a>
+<ul>
+<li><a href="#orgb687778">3.28.1. General</a></li>
+<li><a href="#org420fc89">3.28.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org61b2816">3.29. <span class="todo TODO">TODO</span> <i>flicker</i></a>
+<ul>
+<li><a href="#orgaef41bd">3.29.1. General</a></li>
+<li><a href="#orgc565390">3.29.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org5ec3d45">3.30. <span class="todo TODO">TODO</span> <i>oblivious</i></a>
+<ul>
+<li><a href="#orgbb07c69">3.30.1. General</a></li>
+<li><a href="#orgaf87ba3">3.30.2. Usage</a></li>
+<li><a href="#org9c5377a">3.30.3. Story</a></li>
+</ul>
+</li>
+<li><a href="#org6cbe210">3.31. <span class="todo TODO">TODO</span> <i>forge</i></a>
+<ul>
+<li><a href="#org7e0224a">3.31.1. General</a></li>
+<li><a href="#orge4bf63e">3.31.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org57fa857">3.32. <span class="todo TODO">TODO</span> <i>abdicate</i> <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-08-19 一&gt;</span></span></a>
+<ul>
+<li><a href="#orgedb1e33">3.32.1. General</a></li>
+<li><a href="#org19ee3aa">3.32.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org2261235">3.33. <span class="todo TODO">TODO</span> <i>addict</i></a>
+<ul>
+<li><a href="#orgc76ec31">3.33.1. General</a></li>
+<li><a href="#org9e12d2e">3.33.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org14c1dab">3.34. <span class="todo TODO">TODO</span> <i>indict</i></a>
+<ul>
+<li><a href="#orgdf4645e">3.34.1. General</a></li>
+<li><a href="#org754dd6e">3.34.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org11e7413">3.35. <span class="todo TODO">TODO</span> <i>interdict</i></a>
+<ul>
+<li><a href="#org90e83a1">3.35.1. General</a></li>
+<li><a href="#orgdfa7698">3.35.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orgba50994">3.36. <span class="todo TODO">TODO</span> <i>valediction</i></a>
+<ul>
+<li><a href="#org398778f">3.36.1. General</a></li>
+<li><a href="#org090ccfd">3.36.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orgc21625c">3.37. <span class="todo TODO">TODO</span> <i>vindicate</i></a>
+<ul>
+<li><a href="#org1c8801b">3.37.1. General</a></li>
+<li><a href="#org52c4be0">3.37.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#orge82548e">3.38. <span class="todo TODO">TODO</span> <i>contradict</i></a>
+<ul>
+<li><a href="#org35d3694">3.38.1. General</a></li>
+<li><a href="#org8affe45">3.38.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org7419ffa">3.39. <span class="todo TODO">TODO</span> <i>dictate</i> <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-08-20 二&gt;</span></span></a>
+<ul>
+<li><a href="#orgbbe160e">3.39.1. General</a></li>
+<li><a href="#orgbe52cbe">3.39.2. Usage</a></li>
+</ul>
+</li>
+<li><a href="#org13ff65c">3.40. <span class="todo TODO">TODO</span> <i>eulogize</i></a>
+<ul>
+<li><a href="#org5d3dd32">3.40.1. General</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<p>
+
+</p>
+
+<p>
+Currently planning to organize this script by words.
+Only vocabulary right now!
+</p>
+
+<ul class="org-ul">
+<li>Learning method
+<ol class="org-ol">
+<li>Look at word meaning in English</li>
+<li>Read example sentences to understand</li>
+<li>Choose a simple sentence</li>
+<li>Read sentence        =&gt; Imagine scenes</li>
+<li>Desire of Expressing =&gt; Write sentences</li>
+<li>Listen sentence      =&gt; Imagine scenes</li>
+<li>Desire of Expressing =&gt; Speak sentences</li>
+<li>Modify the sentence  =&gt; Repeat &#x2026;</li>
+</ol></li>
+</ul>
+
+
+<p>
+Still underwork &#x2026; :)
+</p>
+
+<div id="outline-container-orgc919dd8" class="outline-2">
+<h2 id="orgc919dd8"><span class="section-number-2">1</span> <span class="todo TODO">TODO</span> Story</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Seeing <span class="underline">hinges</span> insecure on the door, We arrived at the core of SOS.
+It <span class="underline">abruptly</span> ran into my eyes when I opened the door that there was another
+world inside the star! I was <span class="underline">awed</span> by its <span class="underline">spectacular</span> decorations, "<sub>Awesome</sub>_!",
+I sighed <span class="underline">spontaneously</span>.
+</p>
+
+<p>
+It was too late when I realized that Tom somewhat had already disappeared.
+I took steps into the world with fear. All of a sudden, I saw bloody liquid <span class="underline">spouted</span>
+out of the center of hall, which, reminded me old experiences of <span class="underline">homicide</span> I ran into.
+<span class="underline">Trepidly</span>, I kept moving. Hearing <span class="underline">dismal</span> melody with soft chuckles <span class="underline">haunted</span> around, 
+I stopped when I discovered a strange contemporary <span class="underline">vendor</span> lain in the corner. 
+Not ready to push a button, the machine xxx. 
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org29cb6b3" class="outline-2">
+<h2 id="org29cb6b3"><span class="section-number-2">2</span> <span class="todo TODO">TODO</span> <code>[0/0]</code> Cluster</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgdbe5c9f" class="outline-3">
+<h3 id="orgdbe5c9f"><span class="section-number-3">2.1</span> Character</h3>
+<div class="outline-text-3" id="text-2-1">
+<ul class="org-ul">
+<li><i>n.</i>
+<ul class="org-ul">
+<li><b>fortitude</b></li>
+<li><b>avarice</b></li>
+<li><b>hardy</b></li>
+<li><b>_</b></li>
+</ul></li>
+<li><i>adj.</i>
+<ul class="org-ul">
+<li><b>courteous</b></li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orga49285c" class="outline-3">
+<h3 id="orga49285c"><span class="section-number-3">2.2</span> Vesture</h3>
+<div class="outline-text-3" id="text-2-2">
+<ul class="org-ul">
+<li><b>vesture</b></li>
+<li><b>clothes</b></li>
+<li><b>costume</b></li>
+<li><b>coat</b></li>
+<li><b>garb</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgffe6309" class="outline-3">
+<h3 id="orgffe6309"><span class="section-number-3">2.3</span> _</h3>
+<div class="outline-text-3" id="text-2-3">
+<ul class="org-ul">
+<li><b>pensive</b></li>
+<li><b>dismal</b></li>
+<li><b>doleful</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4686f5b" class="outline-3">
+<h3 id="org4686f5b"><span class="section-number-3">2.4</span> _</h3>
+<div class="outline-text-3" id="text-2-4">
+<ul class="org-ul">
+<li><b>dampen</b></li>
+<li><b>frustrate</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0af68ea" class="outline-3">
+<h3 id="org0af68ea"><span class="section-number-3">2.5</span> _</h3>
+<div class="outline-text-3" id="text-2-5">
+<ul class="org-ul">
+<li><b>dampen</b></li>
+<li><b>moisten</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgefe745c" class="outline-3">
+<h3 id="orgefe745c"><span class="section-number-3">2.6</span> eminent</h3>
+<div class="outline-text-3" id="text-2-6">
+<ul class="org-ul">
+<li><b>eminent</b></li>
+<li><b>preeminent</b></li>
+<li><b>prominent</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgaac4617" class="outline-3">
+<h3 id="orgaac4617"><span class="section-number-3">2.7</span> savage</h3>
+<div class="outline-text-3" id="text-2-7">
+<ul class="org-ul">
+<li><b>savage</b></li>
+<li><b>ferocious</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge00e938" class="outline-3">
+<h3 id="orge00e938"><span class="section-number-3">2.8</span> decieve</h3>
+<div class="outline-text-3" id="text-2-8">
+<ul class="org-ul">
+<li><b>decieve</b></li>
+<li><b>cheat</b></li>
+<li><b>trick</b></li>
+<li><b>fool</b></li>
+<li><b>delude</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org414653e" class="outline-3">
+<h3 id="org414653e"><span class="section-number-3">2.9</span> feat</h3>
+<div class="outline-text-3" id="text-2-9">
+<ul class="org-ul">
+<li><b>feat</b></li>
+<li><b>stunt</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0e51b70" class="outline-3">
+<h3 id="org0e51b70"><span class="section-number-3">2.10</span> astute</h3>
+<div class="outline-text-3" id="text-2-10">
+<ul class="org-ul">
+<li><b>astute</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org87266f5" class="outline-3">
+<h3 id="org87266f5"><span class="section-number-3">2.11</span> busy</h3>
+<div class="outline-text-3" id="text-2-11">
+<ul class="org-ul">
+<li><b>busy</b></li>
+<li><b>hectic</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orga598d47" class="outline-3">
+<h3 id="orga598d47"><span class="section-number-3">2.12</span> careful</h3>
+<div class="outline-text-3" id="text-2-12">
+<ul class="org-ul">
+<li><b>careful</b></li>
+<li><b>discreet</b></li>
+<li><b>prudent</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org73d9760" class="outline-3">
+<h3 id="org73d9760"><span class="section-number-3">2.13</span> confuse, surprise</h3>
+<div class="outline-text-3" id="text-2-13">
+<ul class="org-ul">
+<li><b>daze</b></li>
+<li><b>freak</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org38cc01b" class="outline-3">
+<h3 id="org38cc01b"><span class="section-number-3">2.14</span> exacting</h3>
+<div class="outline-text-3" id="text-2-14">
+<ul class="org-ul">
+<li><b>stringent</b></li>
+<li><b>demanding</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9e61ab7" class="outline-3">
+<h3 id="org9e61ab7"><span class="section-number-3">2.15</span> eternal</h3>
+<div class="outline-text-3" id="text-2-15">
+<ul class="org-ul">
+<li><b>eternal</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgff9d146" class="outline-3">
+<h3 id="orgff9d146"><span class="section-number-3">2.16</span> hungry</h3>
+<div class="outline-text-3" id="text-2-16">
+<ul class="org-ul">
+<li><b>hungry</b></li>
+<li><b>ravenous</b></li>
+<li><b>famished</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org14af94c" class="outline-3">
+<h3 id="org14af94c"><span class="section-number-3">2.17</span> _</h3>
+<div class="outline-text-3" id="text-2-17">
+<ul class="org-ul">
+<li><b>surmise</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgaa621fb" class="outline-3">
+<h3 id="orgaa621fb"><span class="section-number-3">2.18</span> erase</h3>
+<div class="outline-text-3" id="text-2-18">
+<ul class="org-ul">
+<li><b>efface</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org5e71dd8" class="outline-3">
+<h3 id="org5e71dd8"><span class="section-number-3">2.19</span> sway</h3>
+<div class="outline-text-3" id="text-2-19">
+<ul class="org-ul">
+<li><b>sway</b></li>
+<li><b>jolt</b></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-orge31a0c2" class="outline-2">
+<h2 id="orge31a0c2"><span class="section-number-2">3</span> <span class="todo TODO">TODO</span> <code>[1/40]</code> Vocabulary</h2>
+<div class="outline-text-2" id="text-3">
+<hr />
+</div>
+
+<div id="outline-container-org596834c" class="outline-3">
+<h3 id="org596834c"><span class="section-number-3">3.1</span> <span class="todo TODO">TODO</span> <i>corpulent</i></h3>
+<div class="outline-text-3" id="text-3-1">
+</div>
+<div id="outline-container-org7f9d59e" class="outline-4">
+<h4 id="org7f9d59e"><span class="section-number-4">3.1.1</span> General</h4>
+<div class="outline-text-4" id="text-3-1-1">
+<ul class="org-ul">
+<li><b>adj.</b> excessively fat</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc5fc18c" class="outline-4">
+<h4 id="orgc5fc18c"><span class="section-number-4">3.1.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-1-2">
+<ul class="org-ul">
+<li>Her father is too <span class="underline">corpulent</span> to play handball.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgfa68fdb" class="outline-4">
+<h4 id="orgfa68fdb"><span class="section-number-4">3.1.3</span> Story</h4>
+<div class="outline-text-4" id="text-3-1-3">
+<ul class="org-ul">
+<li><i>corp-</i> = body</li>
+<li><i>-ent</i>  = being adj.</li>
+</ul>
+
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org868ebee" class="outline-3">
+<h3 id="org868ebee"><span class="section-number-3">3.2</span> <span class="todo NEXT">NEXT</span> <i>aerosol</i></h3>
+<div class="outline-text-3" id="text-3-2">
+</div>
+<div id="outline-container-org5adec18" class="outline-4">
+<h4 id="org5adec18"><span class="section-number-4">3.2.1</span> General</h4>
+<div class="outline-text-4" id="text-3-2-1">
+<ul class="org-ul">
+<li><b>n.</b> a cloud of solid or liquid particles in a gas</li>
+<li><b>adj.</b> sth about n. meaning</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdcb2294" class="outline-4">
+<h4 id="orgdcb2294"><span class="section-number-4">3.2.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-2-2">
+<ul class="org-ul">
+<li>an <span class="underline">aerosol</span> can.</li>
+<li>They sprayed <span class="underline">aerosol</span> insect repellent into the faces of police.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgb44afc1" class="outline-4">
+<h4 id="orgb44afc1"><span class="section-number-4">3.2.3</span> Story</h4>
+<div class="outline-text-4" id="text-3-2-3">
+<ul class="org-ul">
+<li><i>aero-</i> = air</li>
+<li><i>sol[uv(ut)]</i> = loosen</li>
+</ul>
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org555a050" class="outline-3">
+<h3 id="org555a050"><span class="section-number-3">3.3</span> <span class="done DONE">DONE</span> <i>reflective</i></h3>
+<div class="outline-text-3" id="text-3-3">
+</div>
+<div id="outline-container-orge29af11" class="outline-4">
+<h4 id="orge29af11"><span class="section-number-4">3.3.1</span> General</h4>
+<div class="outline-text-4" id="text-3-3-1">
+<ul class="org-ul">
+<li><b>adj.</b> think carefully | can reflect sth</li>
+<li><b>adv.</b> think before you leap!</li>
+<li><b>n.</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf012b49" class="outline-4">
+<h4 id="orgf012b49"><span class="section-number-4">3.3.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-3-2">
+<ul class="org-ul">
+<li><span class="underline">reflective</span> glass</li>
+<li>a quiet, <span class="underline">reflective</span>, astute man.</li>
+</ul>
+
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgd9f0ae9" class="outline-3">
+<h3 id="orgd9f0ae9"><span class="section-number-3">3.4</span> <span class="todo TODO">TODO</span> <i>submerge</i></h3>
+<div class="outline-text-3" id="text-3-4">
+</div>
+<div id="outline-container-orgcbf6643" class="outline-4">
+<h4 id="orgcbf6643"><span class="section-number-4">3.4.1</span> General</h4>
+<div class="outline-text-4" id="text-3-4-1">
+<ul class="org-ul">
+<li><b>v.</b> sink below the surface, under water</li>
+<li><b>vt.</b> cover completely</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgaa95013" class="outline-4">
+<h4 id="orgaa95013"><span class="section-number-4">3.4.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-4-2">
+<ul class="org-ul">
+<li><span class="underline">submerged</span> leaves</li>
+<li>be <span class="underline">submerged</span> in the mighty torrent of history.</li>
+<li>Who has submerged the fireplace with coom?</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org7951270" class="outline-4">
+<h4 id="org7951270"><span class="section-number-4">3.4.3</span> Note</h4>
+<div class="outline-text-4" id="text-3-4-3">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><i>immerse</i></td>
+<td class="org-left">being covered completely in water</td>
+</tr>
+
+<tr>
+<td class="org-left"><i>dip</i></td>
+<td class="org-left">put into water temporarily</td>
+</tr>
+
+<tr>
+<td class="org-left"><i>duck</i></td>
+<td class="org-left">put one's head into water</td>
+</tr>
+
+<tr>
+<td class="org-left"><i>plunge</i></td>
+<td class="org-left">expeditiously</td>
+</tr>
+
+<tr>
+<td class="org-left"><i>submerge</i></td>
+<td class="org-left">deep into water for a long time</td>
+</tr>
+</tbody>
+</table>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgdbc2e46" class="outline-3">
+<h3 id="orgdbc2e46"><span class="section-number-3">3.5</span> <span class="todo TODO">TODO</span> <i>tow</i></h3>
+<div class="outline-text-3" id="text-3-5">
+</div>
+<div id="outline-container-org12ed53f" class="outline-4">
+<h4 id="org12ed53f"><span class="section-number-4">3.5.1</span> General</h4>
+<div class="outline-text-4" id="text-3-5-1">
+<ul class="org-ul">
+<li><b>n.</b> the act of hauling sth by means of a hitch or rope</li>
+<li><b>v.</b> drag behind</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc54c66f" class="outline-4">
+<h4 id="orgc54c66f"><span class="section-number-4">3.5.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-5-2">
+<ul class="org-ul">
+<li>The truck used a cable to <span class="underline">tow</span> the car.</li>
+<li>I can give you a <span class="underline">tow</span> if you want.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgb4fe7ea" class="outline-4">
+<h4 id="orgb4fe7ea"><span class="section-number-4">3.5.3</span> Note</h4>
+<div class="outline-text-4" id="text-3-5-3">
+<p>
+<a id="orgc30e538"></a>
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">drag</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">draw</td>
+<td class="org-left">drag to the drawing person</td>
+</tr>
+
+<tr>
+<td class="org-left">pull</td>
+<td class="org-left">most general</td>
+</tr>
+
+<tr>
+<td class="org-left">haul</td>
+<td class="org-left">with force, not related to direction, mostly used in voyage</td>
+</tr>
+
+<tr>
+<td class="org-left">tug</td>
+<td class="org-left">drag from time to time, may not move at all</td>
+</tr>
+
+<tr>
+<td class="org-left">tow</td>
+<td class="org-left">drag with tools</td>
+</tr>
+
+<tr>
+<td class="org-left">jerk</td>
+<td class="org-left">drag quickly and suddenly</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orga072a1a" class="outline-3">
+<h3 id="orga072a1a"><span class="section-number-3">3.6</span> <span class="todo TODO">TODO</span> <i>perspective</i></h3>
+<div class="outline-text-3" id="text-3-6">
+</div>
+<div id="outline-container-org99e86c1" class="outline-4">
+<h4 id="org99e86c1"><span class="section-number-4">3.6.1</span> General</h4>
+<div class="outline-text-4" id="text-3-6-1">
+<ul class="org-ul">
+<li><b>n.</b> 
+<ul class="org-ul">
+<li>a way of regarding situations or topics etc</li>
+<li>the appearance of things relative to one another 
+as determined by their distance from the viewer</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge61262f" class="outline-4">
+<h4 id="orge61262f"><span class="section-number-4">3.6.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-6-2">
+<ul class="org-ul">
+<li>Try to see the issue from a different <span class="underline">perspective</span>.</li>
+<li>We may get a clear <span class="underline">perspective</span> of the people's happy lives.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org13e518d" class="outline-3">
+<h3 id="org13e518d"><span class="section-number-3">3.7</span> <span class="todo TODO">TODO</span> <i>flock</i></h3>
+<div class="outline-text-3" id="text-3-7">
+</div>
+<div id="outline-container-org7166c23" class="outline-4">
+<h4 id="org7166c23"><span class="section-number-4">3.7.1</span> General</h4>
+<div class="outline-text-4" id="text-3-7-1">
+<ul class="org-ul">
+<li><b>n.</b> 
+<ul class="org-ul">
+<li>a group of sth</li>
+<li>small pieces of soft material 
+used for filling cushions , chairs, etc.</li>
+</ul></li>
+<li><b>vi.</b> group together</li>
+<li><b>vt.</b> fill with sth</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9092f29" class="outline-4">
+<h4 id="org9092f29"><span class="section-number-4">3.7.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-7-2">
+<ul class="org-ul">
+<li>a <span class="underline">flock</span> of sheep</li>
+<li>Birds of a feather <span class="underline">flock</span> together</li>
+<li><span class="underline">flock</span> dusted paper</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org067fc4e" class="outline-3">
+<h3 id="org067fc4e"><span class="section-number-3">3.8</span> <span class="todo TODO">TODO</span> <i>guise</i></h3>
+<div class="outline-text-3" id="text-3-8">
+</div>
+<div id="outline-container-org4d8eb90" class="outline-4">
+<h4 id="org4d8eb90"><span class="section-number-4">3.8.1</span> General</h4>
+<div class="outline-text-4" id="text-3-8-1">
+<ul class="org-ul">
+<li><b>n.</b> a way in which sb/sth appears, 
+often in a way that is different from usual or 
+that hides the truth about them/it</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org1be93c6" class="outline-4">
+<h4 id="org1be93c6"><span class="section-number-4">3.8.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-8-2">
+<ul class="org-ul">
+<li>They got into the school in the <span class="underline">guise</span> of inspectors</li>
+<li>under the <span class="underline">guise</span> of friendship.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org9a03b8c" class="outline-3">
+<h3 id="org9a03b8c"><span class="section-number-3">3.9</span> <span class="todo TODO">TODO</span> <i>slump</i></h3>
+<div class="outline-text-3" id="text-3-9">
+</div>
+<div id="outline-container-orgfa0cdda" class="outline-4">
+<h4 id="orgfa0cdda"><span class="section-number-4">3.9.1</span> General</h4>
+<div class="outline-text-4" id="text-3-9-1">
+<ul class="org-ul">
+<li><b>vi.</b> 
+<ul class="org-ul">
+<li>to fall in price, value, number, etc., 
+suddenly and by a large amount</li>
+<li>to sit or fall down heavily</li>
+</ul></li>
+<li><b>n.</b> a long time of state characterized by low spirit</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf616191" class="outline-4">
+<h4 id="orgf616191"><span class="section-number-4">3.9.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-9-2">
+<ul class="org-ul">
+<li>Sales have <span class="underline">slumped</span> this year.</li>
+<li>The old man <span class="underline">slumped</span> down in his chair.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orge8e8c75" class="outline-3">
+<h3 id="orge8e8c75"><span class="section-number-3">3.10</span> <span class="todo TODO">TODO</span> <i>rend</i></h3>
+<div class="outline-text-3" id="text-3-10">
+</div>
+<div id="outline-container-orgda21288" class="outline-4">
+<h4 id="orgda21288"><span class="section-number-4">3.10.1</span> General</h4>
+<div class="outline-text-4" id="text-3-10-1">
+<ul class="org-ul">
+<li><b>v.</b> to tear sth apart with force or violence</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org222ba9e" class="outline-4">
+<h4 id="org222ba9e"><span class="section-number-4">3.10.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-10-2">
+<ul class="org-ul">
+<li>They <span class="underline">rent</span> their clothes in grief.</li>
+<li>a country <span class="underline">rent</span> in two by civil war.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org79442e8" class="outline-4">
+<h4 id="org79442e8"><span class="section-number-4">3.10.3</span> Note</h4>
+<div class="outline-text-4" id="text-3-10-3">
+<ul class="org-ul">
+<li>Clovis's line in Leluch the anime</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgb656ee6" class="outline-3">
+<h3 id="orgb656ee6"><span class="section-number-3">3.11</span> <span class="todo TODO">TODO</span> <i>granary</i></h3>
+<div class="outline-text-3" id="text-3-11">
+</div>
+<div id="outline-container-org234d0fb" class="outline-4">
+<h4 id="org234d0fb"><span class="section-number-4">3.11.1</span> General</h4>
+<div class="outline-text-4" id="text-3-11-1">
+<ul class="org-ul">
+<li><b>n.</b> a building where grain is stored</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgfeca4fd" class="outline-4">
+<h4 id="orgfeca4fd"><span class="section-number-4">3.11.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-11-2">
+<ul class="org-ul">
+<li>The grain is already in the <span class="underline">granary</span>.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org5c225ef" class="outline-3">
+<h3 id="org5c225ef"><span class="section-number-3">3.12</span> <span class="todo TODO">TODO</span> <i>midst</i></h3>
+<div class="outline-text-3" id="text-3-12">
+</div>
+<div id="outline-container-org4d52a5f" class="outline-4">
+<h4 id="org4d52a5f"><span class="section-number-4">3.12.1</span> General</h4>
+<div class="outline-text-4" id="text-3-12-1">
+<ul class="org-ul">
+<li><b>n.</b> middle</li>
+<li><b>prep.</b></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org29fc3f8" class="outline-4">
+<h4 id="org29fc3f8"><span class="section-number-4">3.12.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-12-2">
+<ul class="org-ul">
+<li>in the <span class="underline">midst</span> of the desert.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org26370cd" class="outline-4">
+<h4 id="org26370cd"><span class="section-number-4">3.12.3</span> Note</h4>
+<div class="outline-text-4" id="text-3-12-3">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">center</td>
+<td class="org-left">abstract</td>
+</tr>
+
+<tr>
+<td class="org-left">middle</td>
+<td class="org-left">middle in length of time/space</td>
+</tr>
+
+<tr>
+<td class="org-left">heart</td>
+<td class="org-left">core</td>
+</tr>
+
+<tr>
+<td class="org-left">core</td>
+<td class="org-left">most important</td>
+</tr>
+
+<tr>
+<td class="org-left">midst</td>
+<td class="org-left">in a group or event</td>
+</tr>
+</tbody>
+</table>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org89de19e" class="outline-3">
+<h3 id="org89de19e"><span class="section-number-3">3.13</span> <span class="todo TODO">TODO</span> <i>prodigal</i></h3>
+<div class="outline-text-3" id="text-3-13">
+</div>
+<div id="outline-container-org1fcebbf" class="outline-4">
+<h4 id="org1fcebbf"><span class="section-number-4">3.13.1</span> General</h4>
+<div class="outline-text-4" id="text-3-13-1">
+<ul class="org-ul">
+<li><b>adj.</b> too willing to spend money or waste time, energy or materials</li>
+<li><b>n.</b> have been corrected</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org62d8533" class="outline-4">
+<h4 id="org62d8533"><span class="section-number-4">3.13.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-13-2">
+<ul class="org-ul">
+<li>How careless they had been of food then, what <span class="underline">prodigal</span> waste!</li>
+<li>A <span class="underline">prodigal</span> who returns is more precious than gold.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgb0477f6" class="outline-3">
+<h3 id="orgb0477f6"><span class="section-number-3">3.14</span> <span class="todo TODO">TODO</span> <i>abiding</i></h3>
+<div class="outline-text-3" id="text-3-14">
+</div>
+<div id="outline-container-org088634a" class="outline-4">
+<h4 id="org088634a"><span class="section-number-4">3.14.1</span> General</h4>
+<div class="outline-text-4" id="text-3-14-1">
+<ul class="org-ul">
+<li><b>adj.</b> lasting for a long time and not changing</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0690bff" class="outline-4">
+<h4 id="org0690bff"><span class="section-number-4">3.14.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-14-2">
+<ul class="org-ul">
+<li>an <span class="underline">biding</span> love of music.</li>
+<li>I'm tired of your <span class="underline">abiding</span> complaints.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgfa43c8a" class="outline-3">
+<h3 id="orgfa43c8a"><span class="section-number-3">3.15</span> <span class="todo TODO">TODO</span> <i>peerless</i></h3>
+<div class="outline-text-3" id="text-3-15">
+</div>
+<div id="outline-container-org58121b0" class="outline-4">
+<h4 id="org58121b0"><span class="section-number-4">3.15.1</span> General</h4>
+<div class="outline-text-4" id="text-3-15-1">
+<ul class="org-ul">
+<li><b>adj.</b> better than all others of its kind</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org908cb57" class="outline-4">
+<h4 id="org908cb57"><span class="section-number-4">3.15.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-15-2">
+<ul class="org-ul">
+<li>His Chinese kung fu is <span class="underline">peerless</span>.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org8aacdfc" class="outline-4">
+<h4 id="org8aacdfc"><span class="section-number-4">3.15.3</span> Story</h4>
+<div class="outline-text-4" id="text-3-15-3">
+<ul class="org-ul">
+<li><a href="#orge8fd888">peer</a></li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgf3de9b6" class="outline-3">
+<h3 id="orgf3de9b6"><span class="section-number-3">3.16</span> <span class="todo TODO">TODO</span> <i>peer</i></h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+<a id="orge8fd888"></a>
+</p>
+</div>
+<div id="outline-container-org845fd60" class="outline-4">
+<h4 id="org845fd60"><span class="section-number-4">3.16.1</span> General</h4>
+<div class="outline-text-4" id="text-3-16-1">
+<ul class="org-ul">
+<li><b>n.</b> a person who is the same age 
+or who has the same social status as you</li>
+<li><b>vi.</b> look searchingly</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org46bbf13" class="outline-4">
+<h4 id="org46bbf13"><span class="section-number-4">3.16.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-16-2">
+<ul class="org-ul">
+<li>She gets on well with her <span class="underline">peer</span> group.</li>
+<li>Children are worried about failing in front of their <span class="underline">peers</span>.</li>
+</ul>
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org8de5dc1" class="outline-3">
+<h3 id="org8de5dc1"><span class="section-number-3">3.17</span> <span class="todo TODO">TODO</span> <i>extravagant</i></h3>
+<div class="outline-text-3" id="text-3-17">
+</div>
+<div id="outline-container-org83f6da0" class="outline-4">
+<h4 id="org83f6da0"><span class="section-number-4">3.17.1</span> General</h4>
+<div class="outline-text-4" id="text-3-17-1">
+<ul class="org-ul">
+<li><b>adj.</b> spending a lot more money or 
+using a lot more of sth than you can afford or than is necessary</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org1199ae8" class="outline-4">
+<h4 id="org1199ae8"><span class="section-number-4">3.17.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-17-2">
+<ul class="org-ul">
+<li>I felt very <span class="underline">extravagant</span> spending $100 on a dress.</li>
+<li>She's got very <span class="underline">extravagant</span> tastes.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org7978b60" class="outline-3">
+<h3 id="org7978b60"><span class="section-number-3">3.18</span> <span class="todo TODO">TODO</span> <i>esteem</i></h3>
+<div class="outline-text-3" id="text-3-18">
+</div>
+<div id="outline-container-org32077a4" class="outline-4">
+<h4 id="org32077a4"><span class="section-number-4">3.18.1</span> General</h4>
+<div class="outline-text-4" id="text-3-18-1">
+<ul class="org-ul">
+<li><b>vt.</b> 
+<ul class="org-ul">
+<li>to respect and admire sb/sth very much</li>
+<li>to think of sb/sth in a particular way</li>
+</ul></li>
+<li><b>n.</b> great respect and admiration; a good opinion of sb</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0a636fa" class="outline-4">
+<h4 id="org0a636fa"><span class="section-number-4">3.18.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-18-2">
+<ul class="org-ul">
+<li>a highly <span class="underline">esteemed</span> scientist</li>
+<li>She was <span class="underline">esteemed</span> the perfect novelist.</li>
+<li>She is held in high <span class="underline">esteem</span> by her colleagues.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org52711f0" class="outline-4">
+<h4 id="org52711f0"><span class="section-number-4">3.18.3</span> Story</h4>
+<div class="outline-text-4" id="text-3-18-3">
+<ul class="org-ul">
+<li><i>esteem</i> = value</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgb73405e" class="outline-3">
+<h3 id="orgb73405e"><span class="section-number-3">3.19</span> <span class="todo TODO">TODO</span> <i>adroit</i></h3>
+<div class="outline-text-3" id="text-3-19">
+</div>
+<div id="outline-container-org34ec923" class="outline-4">
+<h4 id="org34ec923"><span class="section-number-4">3.19.1</span> General</h4>
+<div class="outline-text-4" id="text-3-19-1">
+<ul class="org-ul">
+<li><b>adj.</b> skilful and clever, especially in dealing with people</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org177bcec" class="outline-4">
+<h4 id="org177bcec"><span class="section-number-4">3.19.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-19-2">
+<ul class="org-ul">
+<li>an <span class="underline">adroit</span> negotiator</li>
+<li>He was <span class="underline">adroit</span> at tax avoidance.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org50f1818" class="outline-3">
+<h3 id="org50f1818"><span class="section-number-3">3.20</span> <span class="todo TODO">TODO</span> <i>extant</i></h3>
+<div class="outline-text-3" id="text-3-20">
+</div>
+<div id="outline-container-org70bbc61" class="outline-4">
+<h4 id="org70bbc61"><span class="section-number-4">3.20.1</span> General</h4>
+<div class="outline-text-4" id="text-3-20-1">
+<ul class="org-ul">
+<li><b>adj.</b> still exist</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgba68381" class="outline-4">
+<h4 id="orgba68381"><span class="section-number-4">3.20.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-20-2">
+<ul class="org-ul">
+<li><span class="underline">extant</span> manuscripts</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org715e5ad" class="outline-3">
+<h3 id="org715e5ad"><span class="section-number-3">3.21</span> <span class="todo TODO">TODO</span> <i>idyllic</i></h3>
+<div class="outline-text-3" id="text-3-21">
+</div>
+<div id="outline-container-orge2b932b" class="outline-4">
+<h4 id="orge2b932b"><span class="section-number-4">3.21.1</span> General</h4>
+<div class="outline-text-4" id="text-3-21-1">
+<ul class="org-ul">
+<li><b>adj.</b> peaceful and beautiful; perfect, without problems</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org5b2eab8" class="outline-4">
+<h4 id="org5b2eab8"><span class="section-number-4">3.21.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-21-2">
+<ul class="org-ul">
+<li>a house set in <span class="underline">idyllic</span> surroundings</li>
+<li>to lead an <span class="underline">idyllic</span> existence</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgbbb1a27" class="outline-4">
+<h4 id="orgbbb1a27"><span class="section-number-4">3.21.3</span> Note</h4>
+<div class="outline-text-4" id="text-3-21-3">
+<ul class="org-ul">
+<li><i>idyll</i></li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org74e1e47" class="outline-3">
+<h3 id="org74e1e47"><span class="section-number-3">3.22</span> <span class="todo TODO">TODO</span> <i>duvet</i></h3>
+<div class="outline-text-3" id="text-3-22">
+</div>
+<div id="outline-container-org3bb3a43" class="outline-4">
+<h4 id="org3bb3a43"><span class="section-number-4">3.22.1</span> General</h4>
+<div class="outline-text-4" id="text-3-22-1">
+<ul class="org-ul">
+<li><b>n.</b> a soft quilt usually filled with the down of the eider</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org135e181" class="outline-4">
+<h4 id="org135e181"><span class="section-number-4">3.22.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-22-2">
+<ul class="org-ul">
+<li>a <span class="underline">duvet</span> cover</li>
+<li><span class="underline">duvets</span> with synthetic fillings.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgcc74b9c" class="outline-4">
+<h4 id="orgcc74b9c"><span class="section-number-4">3.22.3</span> Story</h4>
+<div class="outline-text-4" id="text-3-22-3">
+<ul class="org-ul">
+<li><b>Let's all love Lain!</b></li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgd64e812" class="outline-3">
+<h3 id="orgd64e812"><span class="section-number-3">3.23</span> <span class="todo TODO">TODO</span> <i>counsel</i></h3>
+<div class="outline-text-3" id="text-3-23">
+</div>
+<div id="outline-container-org2dabb8d" class="outline-4">
+<h4 id="org2dabb8d"><span class="section-number-4">3.23.1</span> General</h4>
+<div class="outline-text-4" id="text-3-23-1">
+<ul class="org-ul">
+<li><b>n.</b>
+<ul class="org-ul">
+<li>advice, especially given by older people or experts;</li>
+<li>a lawyer or group of lawyers representing sb in court</li>
+</ul></li>
+
+<li><b>v.</b> 
+<ul class="org-ul">
+<li>to listen to and give support or professional advice to sb who needs help</li>
+<li>to advise sb to do sth</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org2834f63" class="outline-4">
+<h4 id="org2834f63"><span class="section-number-4">3.23.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-23-2">
+<ul class="org-ul">
+<li>Listen to the <span class="underline">counsel</span> of your elders.</li>
+<li>the <span class="underline">counsel</span> for the defence/prosecution</li>
+<li>Therapists were brought in to <span class="underline">counsel</span> the bereaved.</li>
+<li>He <span class="underline">counselled</span> them to give up the plan.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orge281386" class="outline-3">
+<h3 id="orge281386"><span class="section-number-3">3.24</span> <span class="todo TODO">TODO</span> <i>exceptional</i></h3>
+<div class="outline-text-3" id="text-3-24">
+</div>
+<div id="outline-container-orga75b51c" class="outline-4">
+<h4 id="orga75b51c"><span class="section-number-4">3.24.1</span> General</h4>
+<div class="outline-text-4" id="text-3-24-1">
+<ul class="org-ul">
+<li><b>adj.</b> 
+<ul class="org-ul">
+<li>unusually good</li>
+<li>very unusual</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdab9635" class="outline-4">
+<h4 id="orgdab9635"><span class="section-number-4">3.24.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-24-2">
+<ul class="org-ul">
+<li>At the age of five he showed <span class="underline">exceptional</span> talent as a musician.</li>
+<li>This deadline will be extended only in <span class="underline">exceptional</span> circumstances.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org50e3226" class="outline-3">
+<h3 id="org50e3226"><span class="section-number-3">3.25</span> <span class="todo TODO">TODO</span> <i>arduous</i></h3>
+<div class="outline-text-3" id="text-3-25">
+</div>
+<div id="outline-container-org647e264" class="outline-4">
+<h4 id="org647e264"><span class="section-number-4">3.25.1</span> General</h4>
+<div class="outline-text-4" id="text-3-25-1">
+<ul class="org-ul">
+<li><b>adj.</b> 
+involving a lot of effort and energy, especially over a period of time</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org83fba92" class="outline-4">
+<h4 id="org83fba92"><span class="section-number-4">3.25.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-25-2">
+<ul class="org-ul">
+<li>an <span class="underline">arduous</span> journey across the Andes</li>
+<li>The work was <span class="underline">arduous</span>.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0b98f8f" class="outline-4">
+<h4 id="org0b98f8f"><span class="section-number-4">3.25.3</span> Story</h4>
+<div class="outline-text-4" id="text-3-25-3">
+<ul class="org-ul">
+<li><i>ardu-</i> = difficult</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgdfbf66b" class="outline-3">
+<h3 id="orgdfbf66b"><span class="section-number-3">3.26</span> <span class="todo TODO">TODO</span> <i>vesture</i></h3>
+<div class="outline-text-3" id="text-3-26">
+</div>
+<div id="outline-container-orgf057d86" class="outline-4">
+<h4 id="orgf057d86"><span class="section-number-4">3.26.1</span> General</h4>
+<div class="outline-text-4" id="text-3-26-1">
+<ul class="org-ul">
+<li><b>n.</b> 
+<ul class="org-ul">
+<li>something that covers or cloaks like a garment</li>
+<li>a covering designed to be worn on a person's body</li>
+</ul></li>
+
+<li><b>v.</b> provide or cover with a cloak</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0251ca9" class="outline-4">
+<h4 id="org0251ca9"><span class="section-number-4">3.26.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-26-2">
+<ul class="org-ul">
+<li>a <span class="underline">vesture</span> of verdure</li>
+<li>She is <span class="underline">vestured</span> in silk.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org812fc56" class="outline-3">
+<h3 id="org812fc56"><span class="section-number-3">3.27</span> <span class="todo TODO">TODO</span> <i>blunt</i></h3>
+<div class="outline-text-3" id="text-3-27">
+</div>
+<div id="outline-container-orgd5210a7" class="outline-4">
+<h4 id="orgd5210a7"><span class="section-number-4">3.27.1</span> General</h4>
+<div class="outline-text-4" id="text-3-27-1">
+<ul class="org-ul">
+<li><b>adj.</b> 
+<ul class="org-ul">
+<li>without a sharp edge or point</li>
+<li>(of a person or remark) very direct; 
+saying exactly what you think without trying to be polite</li>
+</ul></li>
+
+<li><b>vt.</b> 
+<ul class="org-ul">
+<li>to make sth weaker or less effective</li>
+<li>to make a point or an edge less sharp</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org21840ad" class="outline-4">
+<h4 id="org21840ad"><span class="section-number-4">3.27.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-27-2">
+<ul class="org-ul">
+<li>a <span class="underline">blunt</span> knife</li>
+<li>She has a reputation for <span class="underline">blunt</span> speaking.</li>
+<li>To be <span class="underline">blunt</span>, your work is appalling.</li>
+<li>Age hadn't <span class="underline">blunted</span> his passion for adventure.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org64bdf28" class="outline-3">
+<h3 id="org64bdf28"><span class="section-number-3">3.28</span> <span class="todo TODO">TODO</span> <i>nostalgia</i></h3>
+<div class="outline-text-3" id="text-3-28">
+</div>
+<div id="outline-container-orgb687778" class="outline-4">
+<h4 id="orgb687778"><span class="section-number-4">3.28.1</span> General</h4>
+<div class="outline-text-4" id="text-3-28-1">
+<ul class="org-ul">
+<li><b>n.</b> a feeling of sadness mixed with pleasure and affection 
+when you think of happy times in the past</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org420fc89" class="outline-4">
+<h4 id="org420fc89"><span class="section-number-4">3.28.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-28-2">
+<ul class="org-ul">
+<li>She is filled with <span class="underline">nostalgia</span> for her own college days.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org61b2816" class="outline-3">
+<h3 id="org61b2816"><span class="section-number-3">3.29</span> <span class="todo TODO">TODO</span> <i>flicker</i></h3>
+<div class="outline-text-3" id="text-3-29">
+</div>
+<div id="outline-container-orgaef41bd" class="outline-4">
+<h4 id="orgaef41bd"><span class="section-number-4">3.29.1</span> General</h4>
+<div class="outline-text-4" id="text-3-29-1">
+<ul class="org-ul">
+<li><b>v.</b> 
+<ul class="org-ul">
+<li>(of a light or a flame) to keep going on and off as it shines or burns</li>
+<li>(of an emotion, a thought, etc) to be expressed or appear somewhere for a short time</li>
+</ul></li>
+
+<li><b>n.</b>
+<ul class="org-ul">
+<li>a light that shines in an unsteady way</li>
+<li>a small, sudden movement with part of the body</li>
+<li>a feeling or an emotion that lasts for only a very short time</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc565390" class="outline-4">
+<h4 id="orgc565390"><span class="section-number-4">3.29.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-29-2">
+<ul class="org-ul">
+<li>The lights <span class="underline">flickered</span> and went out.</li>
+<li>Anger <span class="underline">flickered</span> in his eyes.</li>
+<li>Her eyelids <span class="underline">flickered</span> as she slept.</li>
+<li>the <span class="underline">flicker</span> of a television/candle</li>
+<li>the <span class="underline">flicker</span> of an eyelid</li>
+<li>A <span class="underline">flicker</span> of a smile crossed her face.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org5ec3d45" class="outline-3">
+<h3 id="org5ec3d45"><span class="section-number-3">3.30</span> <span class="todo TODO">TODO</span> <i>oblivious</i></h3>
+<div class="outline-text-3" id="text-3-30">
+</div>
+<div id="outline-container-orgbb07c69" class="outline-4">
+<h4 id="orgbb07c69"><span class="section-number-4">3.30.1</span> General</h4>
+<div class="outline-text-4" id="text-3-30-1">
+<ul class="org-ul">
+<li><b>adj.</b> unwared, inattentive</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgaf87ba3" class="outline-4">
+<h4 id="orgaf87ba3"><span class="section-number-4">3.30.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-30-2">
+<ul class="org-ul">
+<li>He was quite <span class="underline">oblivious</span> of the danger.</li>
+<li>She was <span class="underline">oblivious</span> to our warnings.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9c5377a" class="outline-4">
+<h4 id="org9c5377a"><span class="section-number-4">3.30.3</span> Story</h4>
+<div class="outline-text-4" id="text-3-30-3">
+<ul class="org-ul">
+<li>the garden of sinners</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org6cbe210" class="outline-3">
+<h3 id="org6cbe210"><span class="section-number-3">3.31</span> <span class="todo TODO">TODO</span> <i>forge</i></h3>
+<div class="outline-text-3" id="text-3-31">
+</div>
+<div id="outline-container-org7e0224a" class="outline-4">
+<h4 id="org7e0224a"><span class="section-number-4">3.31.1</span> General</h4>
+<div class="outline-text-4" id="text-3-31-1">
+<ul class="org-ul">
+<li><b>vt.</b>
+<ul class="org-ul">
+<li>to put a lot of effort into making sth successful or strong so that it will last</li>
+<li>to make an illegal copy of sth in order to cheat people</li>
+<li>to shape metal by heating it in a fire and hitting it with a hammer; to make an object in this way</li>
+</ul></li>
+
+<li><b>n.</b>
+a large piece of equipment used for heating metals in; 
+a building or part of a factory where this is found</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge4bf63e" class="outline-4">
+<h4 id="orge4bf63e"><span class="section-number-4">3.31.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-31-2">
+<ul class="org-ul">
+<li>a move to <span class="underline">forge</span> new links between management and workers</li>
+<li>to <span class="underline">forge</span> a passport/banknote/cheque</li>
+<li>swords <span class="underline">forged</span> from steel</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org57fa857" class="outline-3">
+<h3 id="org57fa857"><span class="section-number-3">3.32</span> <span class="todo TODO">TODO</span> <i>abdicate</i> <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-08-19 一&gt;</span></span></h3>
+<div class="outline-text-3" id="text-3-32">
+</div>
+<div id="outline-container-orgedb1e33" class="outline-4">
+<h4 id="orgedb1e33"><span class="section-number-4">3.32.1</span> General</h4>
+<div class="outline-text-4" id="text-3-32-1">
+<ul class="org-ul">
+<li><b>v.</b>
+<ul class="org-ul">
+<li>If a king or queen abdicates, he or she gives up being king or queen.</li>
+<li>If you say that someone has abdicated responsibility for something, 
+you disapprove of them because they have refused to accept responsibility for it any longer.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org19ee3aa" class="outline-4">
+<h4 id="org19ee3aa"><span class="section-number-4">3.32.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-32-2">
+<ul class="org-ul">
+<li>The last French king was Louis Philippe, who <span class="underline">abdicated</span> in 1848.</li>
+<li>Many parents simply <span class="underline">abdicate</span> all responsibility for their children.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org2261235" class="outline-3">
+<h3 id="org2261235"><span class="section-number-3">3.33</span> <span class="todo TODO">TODO</span> <i>addict</i></h3>
+<div class="outline-text-3" id="text-3-33">
+</div>
+<div id="outline-container-orgc76ec31" class="outline-4">
+<h4 id="orgc76ec31"><span class="section-number-4">3.33.1</span> General</h4>
+<div class="outline-text-4" id="text-3-33-1">
+<ul class="org-ul">
+<li><b>n.</b>
+<ul class="org-ul">
+<li>An addict is someone who takes harmful drugs and cannot stop taking them.</li>
+<li>If you say that someone is an addict, 
+you mean that they like a particular activity very much and spend as much time doing it as they can.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9e12d2e" class="outline-4">
+<h4 id="org9e12d2e"><span class="section-number-4">3.33.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-33-2">
+<ul class="org-ul">
+<li>He's only 24 years old and a drug <span class="underline">addict</span>.</li>
+<li>She is a TV <span class="underline">addict</span> and watches as much as she can.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org14c1dab" class="outline-3">
+<h3 id="org14c1dab"><span class="section-number-3">3.34</span> <span class="todo TODO">TODO</span> <i>indict</i></h3>
+<div class="outline-text-3" id="text-3-34">
+</div>
+<div id="outline-container-orgdf4645e" class="outline-4">
+<h4 id="orgdf4645e"><span class="section-number-4">3.34.1</span> General</h4>
+<div class="outline-text-4" id="text-3-34-1">
+<ul class="org-ul">
+<li><b>vt.</b> If someone is indicted for a crime, they are officially charged with it.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org754dd6e" class="outline-4">
+<h4 id="org754dd6e"><span class="section-number-4">3.34.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-34-2">
+<ul class="org-ul">
+<li>He was later <span class="underline">indicted</span> on corruption charges&#x2026;</li>
+<li>She has been <span class="underline">indicted</span> for possessing cocaine.</li>
+<li>I can <span class="underline">indict</span> you for abducting high school student.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org11e7413" class="outline-3">
+<h3 id="org11e7413"><span class="section-number-3">3.35</span> <span class="todo TODO">TODO</span> <i>interdict</i></h3>
+<div class="outline-text-3" id="text-3-35">
+</div>
+<div id="outline-container-org90e83a1" class="outline-4">
+<h4 id="org90e83a1"><span class="section-number-4">3.35.1</span> General</h4>
+<div class="outline-text-4" id="text-3-35-1">
+<ul class="org-ul">
+<li><b>v.</b> If an armed force interdicts something or someone, 
+they stop them and prevent them from moving. If they interdict a route, they block it or cut it off.</li>
+
+<li><b>n.</b> An interdict is an official order that something must not be done or used.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdfa7698" class="outline-4">
+<h4 id="orgdfa7698"><span class="section-number-4">3.35.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-35-2">
+<ul class="org-ul">
+<li>Troops could be ferried in to <span class="underline">interdict</span> drug shipments.</li>
+<li>The National Trust has placed an <span class="underline">interdict</span> on jet-skis in Dorset, Devon and Cornwall.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgba50994" class="outline-3">
+<h3 id="orgba50994"><span class="section-number-3">3.36</span> <span class="todo TODO">TODO</span> <i>valediction</i></h3>
+<div class="outline-text-3" id="text-3-36">
+</div>
+<div id="outline-container-org398778f" class="outline-4">
+<h4 id="org398778f"><span class="section-number-4">3.36.1</span> General</h4>
+<div class="outline-text-4" id="text-3-36-1">
+<ul class="org-ul">
+<li><b>n.</b> the act of saying goodbye, especially in a formal speech</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org090ccfd" class="outline-4">
+<h4 id="org090ccfd"><span class="section-number-4">3.36.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-36-2">
+<ul class="org-ul">
+<li>He gave a touching <span class="underline">valediction</span> at graduation.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orgc21625c" class="outline-3">
+<h3 id="orgc21625c"><span class="section-number-3">3.37</span> <span class="todo TODO">TODO</span> <i>vindicate</i></h3>
+<div class="outline-text-3" id="text-3-37">
+</div>
+<div id="outline-container-org1c8801b" class="outline-4">
+<h4 id="org1c8801b"><span class="section-number-4">3.37.1</span> General</h4>
+<div class="outline-text-4" id="text-3-37-1">
+<ul class="org-ul">
+<li><b>vt.</b> If a person or their decisions, actions, or ideas are vindicated, 
+they are proved to be correct, after people have said that they were wrong.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org52c4be0" class="outline-4">
+<h4 id="org52c4be0"><span class="section-number-4">3.37.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-37-2">
+<ul class="org-ul">
+<li>The director said he had been <span class="underline">vindicated</span> by the experts' report</li>
+<li>How would you <span class="underline">vindicate</span> your failure to your family?</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-orge82548e" class="outline-3">
+<h3 id="orge82548e"><span class="section-number-3">3.38</span> <span class="todo TODO">TODO</span> <i>contradict</i></h3>
+<div class="outline-text-3" id="text-3-38">
+</div>
+<div id="outline-container-org35d3694" class="outline-4">
+<h4 id="org35d3694"><span class="section-number-4">3.38.1</span> General</h4>
+<div class="outline-text-4" id="text-3-38-1">
+<ul class="org-ul">
+<li><b>v.</b>
+<ul class="org-ul">
+<li>If you contradict someone, you say that what they have just said is wrong, 
+or suggest that it is wrong by saying something different.</li>
+<li>If one statement or piece of evidence contradicts another, 
+the first one makes the second one appear to be wrong.</li>
+<li>If one policy or situation contradicts another, 
+there is a conflict between them, and they cannot both exist or be successful.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org8affe45" class="outline-4">
+<h4 id="org8affe45"><span class="section-number-4">3.38.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-38-2">
+<ul class="org-ul">
+<li>She dared not <span class="underline">contradict</span> him.</li>
+<li>The result seems to <span class="underline">contradict</span> a major U.S. study reported last November.</li>
+<li>Mr Grant feels that the cutbacks <span class="underline">contradict</span> the Government's commitment to better educational standards.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org7419ffa" class="outline-3">
+<h3 id="org7419ffa"><span class="section-number-3">3.39</span> <span class="todo TODO">TODO</span> <i>dictate</i> <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-08-20 二&gt;</span></span></h3>
+<div class="outline-text-3" id="text-3-39">
+</div>
+<div id="outline-container-orgbbe160e" class="outline-4">
+<h4 id="orgbbe160e"><span class="section-number-4">3.39.1</span> General</h4>
+<div class="outline-text-4" id="text-3-39-1">
+<ul class="org-ul">
+<li><b>v.</b> 
+<ul class="org-ul">
+<li>If you dictate something, you say or read it aloud for someone else to write down.</li>
+<li>If someone dictates to someone else, they tell them what they should do or can do.</li>
+<li>If one thing dictates another, the first thing causes or influences the second thing.</li>
+<li>You say that reason or common sense dictates that a particular thing is the case 
+when you believe strongly that it is the case and that reason or common sense will cause other people to agree.</li>
+</ul></li>
+
+<li><b>n.</b>
+<ul class="org-ul">
+<li>A dictate is an order which you have to obey.</li>
+<li>Dictates are principles or rules which you consider to be extremely important.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgbe52cbe" class="outline-4">
+<h4 id="orgbe52cbe"><span class="section-number-4">3.39.2</span> Usage</h4>
+<div class="outline-text-4" id="text-3-39-2">
+<ul class="org-ul">
+<li>Sheldon writes every day of the week, <span class="underline">dictating</span> his novels in the morning.</li>
+<li>What right has one country to <span class="underline">dictate</span> the environmental standards of another?</li>
+<li>The film's budget <span class="underline">dictated</span> a tough schedule.</li>
+<li>Commonsense now <span class="underline">dictates</span> that it would be wise to sell a few shares.</li>
+<li>Their job is to ensure that the <span class="underline">dictates</span> of the Party are followed.</li>
+<li>We have followed the <span class="underline">dictates</span> of our consciences and have done our duty.</li>
+</ul>
+
+
+<hr />
+</div>
+</div>
+</div>
+<div id="outline-container-org13ff65c" class="outline-3">
+<h3 id="org13ff65c"><span class="section-number-3">3.40</span> <span class="todo TODO">TODO</span> <i>eulogize</i></h3>
+<div class="outline-text-3" id="text-3-40">
+</div>
+<div id="outline-container-org5d3dd32" class="outline-4">
+<h4 id="org5d3dd32"><span class="section-number-4">3.40.1</span> General</h4>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2019-07-27 六 00:00</p>
+<p class="author">Author: Comcx</p>
+<p class="date">Created: 2019-08-20 二 23:14</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

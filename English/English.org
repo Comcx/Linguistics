@@ -1,0 +1,2406 @@
+#+TITLE:  English learning Scripts
+#+AUTHOR: Comcx
+#+DATE:   <2019-07-27 六>
+
+:IDEAS:
+
+Currently planning to organize this script by words.
+Only vocabulary right now!
+
+- Learning method
+#+BEGIN_SRC scala
+  1. Look at word meaning in English
+  2. Read example sentences to understand
+  3. Choose a simple sentence
+  4. Read sentence        => Imagine scenes
+  5. Desire of Expressing => Write sentences
+  6. Listen sentence      => Imagine scenes
+  7. Desire of Expressing => Speak sentences
+  8. Modify the sentence  => Repeat ...
+#+END_SRC
+
+- Listening method
+
+1. *Finish* one exercise directly, never try to look up solutions.
+2. *Read* listening scripts, mark logical words inside.
+3. Find all *positions* related to questions in the script based on following questions(mostly behind logical words).
+4. *Analyse* options and finish the questions again(like working on a reading), finally find which sentence is misunderstood during listening.
+5. *Check* answers, see amount of mistakes during listening and reading respectively, analyse reasons carefully.
+6. *Read* listening script carefully, ensuring that we understand the content totally.
+7. *Speak* after the audio => imitate pronunciations sentence after sentence => para after para => speak without material
+8. Listen material with great care. Pay most attention on logical points and question points => repeat until we feel OK.
+
+
+
+
+
+Still underwork ... :)
+
+:END:
+
+* TODO Story
+
+Seeing _hinges_ insecure on the door, We arrived at the core of SOS.
+It _abruptly_ ran into my eyes when I opened the door that there was another
+world inside the star! I was _awed_ by its _spectacular_ decorations, "_Awesome_!",
+I sighed _spontaneously_.
+
+It was too late when I realized that Tom somewhat had already disappeared.
+I took steps into the world with fear. All of a sudden, I saw bloody liquid _spouted_
+out of the center of hall, which, reminded me old experiences of _homicide_ I ran into.
+_Trepidly_, I kept moving. Hearing _dismal_ melody with soft chuckles _haunted_ around, 
+I stopped when I discovered a strange contemporary _vendor_ lain in the corner. 
+Not ready to push a button, the machine xxx. 
+
+
+* TODO [0/0] Cluster
+
+** Character
+- /n./
+  - *fortitude*
+  - *avarice*
+  - *hardy*
+  - *_*
+- /adj./
+  - *courteous*
+
+** Vesture
+- *vesture*
+- *clothes*
+- *costume*
+- *coat*
+- *garb*
+
+** _
+- *pensive*
+- *dismal*
+- *doleful*
+
+** _
+- *dampen*
+- *frustrate*
+
+** _
+- *dampen*
+- *moisten*
+
+** eminent
+- *eminent*
+- *preeminent*
+- *prominent*
+
+** savage
+- *savage*
+- *ferocious*
+
+** decieve
+- *decieve*
+- *cheat*
+- *trick*
+- *fool*
+- *delude*
+
+** feat
+- *feat*
+- *stunt*
+
+** astute
+- *astute*
+
+** busy
+- *busy*
+- *hectic*
+
+** careful
+- *careful*
+- *discreet*
+- *prudent*
+
+** confuse, surprise
+- *daze*
+- *freak*
+
+** exacting
+- *stringent*
+- *demanding*
+
+** eternal
+- *eternal*
+
+** hungry
+- *hungry*
+- *ravenous*
+- *famished*
+
+** _
+- *surmise*
+
+** erase
+- *efface*
+
+** sway
+- *sway*
+- *jolt*
+
+
+
+
+* TODO Grammar
+
+* TODO [120/218] Vocabulary
+-----
+
+** DONE /corpulent/
+
+*** General
+- *adj.* excessively fat
+
+*** Usage
+- Her father is too _corpulent_ to play handball.
+
+*** Story
+- /corp-/ = body
+- /-ent/  = being adj.
+
+
+
+-----
+** DONE /aerosol/
+
+*** General
+- *n.* a cloud of solid or liquid particles in a gas
+- *adj.* sth about n. meaning
+
+*** Usage
+- an _aerosol_ can.
+- They sprayed _aerosol_ insect repellent into the faces of police.
+
+*** Story
+- /aero-/ = air
+- /sol[uv(ut)]/ = loosen
+
+-----
+** DONE /reflective/
+
+*** General
+- *adj.* think carefully | can reflect sth
+- *adv.* think before you leap!
+- *n.*
+
+*** Usage
+- _reflective_ glass
+- a quiet, _reflective_, astute man.
+
+
+
+-----
+** DONE /submerge/
+
+*** General
+- *v.* sink below the surface, under water
+- *vt.* cover completely
+
+*** Usage
+- _submerged_ leaves
+- be _submerged_ in the mighty torrent of history.
+- Who has submerged the fireplace with coom?
+
+*** Note
+| /immerse/  | being covered completely in water |
+| /dip/      | put into water temporarily        |
+| /duck/     | put one's head into water         |
+| /plunge/   | expeditiously                     |
+| /submerge/ | deep into water for a long time   |
+
+
+-----
+** DONE /tow/
+
+*** General
+- *n.* the act of hauling sth by means of a hitch or rope
+- *v.* drag behind
+
+*** Usage
+- The truck used a cable to _tow_ the car.
+- I can give you a _tow_ if you want.
+
+*** Note 
+<<test>>
+| drag |                                                             |
+| draw | drag to the drawing person                                  |
+| pull | most general                                                |
+| haul | with force, not related to direction, mostly used in voyage |
+| tug  | drag from time to time, may not move at all                 |
+| tow  | drag with tools                                             |
+| jerk | drag quickly and suddenly                                   |
+
+-----
+** DONE /perspective/
+
+*** General
+- *n.* 
+  - a way of regarding situations or topics etc
+  - the appearance of things relative to one another 
+    as determined by their distance from the viewer
+
+*** Usage
+- Try to see the issue from a different _perspective_.
+- We may get a clear _perspective_ of the people's happy lives.
+
+
+-----
+** DONE /flock/
+
+*** General
+- *n.* 
+  - a group of sth
+  - small pieces of soft material 
+    used for filling cushions , chairs, etc. 
+- *vi.* group together
+- *vt.* fill with sth
+
+*** Usage
+- a _flock_ of sheep
+- Birds of a feather _flock_ together
+- _flock_ dusted paper
+
+
+-----
+** DONE /guise/
+
+*** General
+- *n.* a way in which sb/sth appears, 
+       often in a way that is different from usual or 
+       that hides the truth about them/it
+
+*** Usage
+- They got into the school in the _guise_ of inspectors
+- under the _guise_ of friendship.
+
+
+-----
+** DONE /slump/
+
+*** General
+- *vi.* 
+  - to fall in price, value, number, etc., 
+    suddenly and by a large amount 
+  - to sit or fall down heavily
+- *n.* a long time of state characterized by low spirit
+
+*** Usage
+- Sales have _slumped_ this year.
+- The old man _slumped_ down in his chair.
+
+
+-----
+** DONE /rend/
+
+*** General
+- *v.* to tear sth apart with force or violence
+
+*** Usage
+- They _rent_ their clothes in grief.
+- a country _rent_ in two by civil war.
+
+*** Note
+- Clovis's line in Leluch the anime 
+
+
+-----
+** DONE /granary/
+
+*** General
+- *n.* a building where grain is stored
+
+*** Usage
+- The grain is already in the _granary_.
+
+
+-----
+** DONE /midst/
+
+*** General
+- *n.* middle
+- *prep.*
+
+*** Usage
+- in the _midst_ of the desert.
+
+*** Note
+| center | abstract                       |
+| middle | middle in length of time/space |
+| heart  | core                           |
+| core   | most important                 |
+| midst  | in a group or event            |
+
+
+-----
+** DONE /prodigal/
+
+*** General
+- *adj.* too willing to spend money or waste time, energy or materials
+- *n.* have been corrected
+
+*** Usage
+- How careless they had been of food then, what _prodigal_ waste!
+- A _prodigal_ who returns is more precious than gold.
+
+
+-----
+** DONE /abiding/
+
+*** General
+- *adj.* lasting for a long time and not changing
+
+*** Usage
+- an _biding_ love of music.
+- I'm tired of your _abiding_ complaints.
+
+
+-----
+** DONE /peerless/
+
+*** General
+- *adj.* better than all others of its kind
+
+*** Usage
+- His Chinese kung fu is _peerless_.
+
+*** Story
+- [[peer][peer]]
+
+
+-----
+** DONE /peer/
+<<peer>>
+*** General
+- *n.* a person who is the same age 
+       or who has the same social status as you
+- *vi.* look searchingly
+
+*** Usage
+- She gets on well with her _peer_ group.
+- Children are worried about failing in front of their _peers_.
+
+-----
+** DONE /extravagant/
+
+*** General
+- *adj.* spending a lot more money or 
+  using a lot more of sth than you can afford or than is necessary
+
+*** Usage
+- I felt very _extravagant_ spending $100 on a dress.
+- She's got very _extravagant_ tastes.
+
+
+-----
+** DONE /esteem/
+
+*** General
+- *vt.* 
+  - to respect and admire sb/sth very much
+  - to think of sb/sth in a particular way
+- *n.* great respect and admiration; a good opinion of sb
+
+*** Usage
+- a highly _esteemed_ scientist
+- She was _esteemed_ the perfect novelist.
+- She is held in high _esteem_ by her colleagues.
+
+*** Story
+- /esteem/ = value
+
+
+-----
+** DONE /adroit/
+
+*** General
+- *adj.* skilful and clever, especially in dealing with people
+
+*** Usage
+- an _adroit_ negotiator
+- He was _adroit_ at tax avoidance.
+
+
+-----
+** DONE /extant/
+
+*** General
+- *adj.* still exist
+
+*** Usage
+- _extant_ manuscripts
+
+
+-----
+** DONE /idyllic/
+
+*** General
+- *adj.* peaceful and beautiful; perfect, without problems
+
+*** Usage
+- a house set in _idyllic_ surroundings
+- to lead an _idyllic_ existence
+
+*** Note
+- /idyll/
+
+
+-----
+** DONE /duvet/
+
+*** General
+- *n.* a soft quilt usually filled with the down of the eider
+
+*** Usage
+- a _duvet_ cover
+- _duvets_ with synthetic fillings.
+
+*** Story
+- *Let's all love Lain!*
+
+
+-----
+** DONE /counsel/
+
+*** General
+- *n.*
+  - advice, especially given by older people or experts; 
+  - a lawyer or group of lawyers representing sb in court
+
+- *v.* 
+  - to listen to and give support or professional advice to sb who needs help
+  - to advise sb to do sth
+
+*** Usage
+- Listen to the _counsel_ of your elders.
+- the _counsel_ for the defence/prosecution
+- Therapists were brought in to _counsel_ the bereaved.
+- He _counselled_ them to give up the plan.
+
+
+-----
+** DONE /exceptional/
+
+   - State "DONE"       from "WAITING"    [2020-05-22 Fri 21:08]
+*** General
+- *adj.* 
+  - unusually good
+  - very unusual
+
+*** Usage
+- At the age of five he showed _exceptional_ talent as a musician.
+- This deadline will be extended only in _exceptional_ circumstances.
+
+
+-----
+** DONE /arduous/
+
+*** General
+- *adj.* 
+  involving a lot of effort and energy, especially over a period of time
+
+*** Usage
+- an _arduous_ journey across the Andes
+- The work was _arduous_.
+
+*** Story
+- /ardu-/ = difficult
+
+
+-----
+** DONE /vesture/
+
+*** General
+- *n.* 
+  - something that covers or cloaks like a garment
+  - a covering designed to be worn on a person's body
+
+- *v.* provide or cover with a cloak
+
+*** Usage
+- a _vesture_ of verdure
+- She is _vestured_ in silk.
+
+
+-----
+** DONE garment
+
+
+-----
+** DONE /blunt/
+
+*** General
+- *adj.* 
+  - without a sharp edge or point
+  - (of a person or remark) very direct; 
+    saying exactly what you think without trying to be polite
+
+- *vt.* 
+  - to make sth weaker or less effective
+  - to make a point or an edge less sharp
+
+*** Usage
+- a _blunt_ knife
+- She has a reputation for _blunt_ speaking.
+- To be _blunt_, your work is appalling.
+- Age hadn't _blunted_ his passion for adventure.
+
+
+-----
+** DONE /nostalgia/
+
+*** General
+- *n.* a feeling of sadness mixed with pleasure and affection 
+       when you think of happy times in the past
+
+*** Usage
+- She is filled with _nostalgia_ for her own college days.
+
+
+-----
+** DONE /flicker/
+
+*** General
+- *v.* 
+  - (of a light or a flame) to keep going on and off as it shines or burns
+  - (of an emotion, a thought, etc) to be expressed or appear somewhere for a short time
+
+- *n.*
+  - a light that shines in an unsteady way
+  - a small, sudden movement with part of the body
+  - a feeling or an emotion that lasts for only a very short time
+
+*** Usage
+- The lights _flickered_ and went out.
+- Anger _flickered_ in his eyes.
+- Her eyelids _flickered_ as she slept.
+- the _flicker_ of a television/candle
+- the _flicker_ of an eyelid
+- A _flicker_ of a smile crossed her face.
+
+
+-----
+** DONE /oblivious/
+
+*** General
+- *adj.* unwared, inattentive
+
+*** Usage
+- He was quite _oblivious_ of the danger.
+- She was _oblivious_ to our warnings.
+
+*** Story
+- the garden of sinners
+
+
+-----
+** DONE /forge/
+
+*** General
+- *vt.*
+  - to put a lot of effort into making sth successful or strong so that it will last
+  - to make an illegal copy of sth in order to cheat people
+  - to shape metal by heating it in a fire and hitting it with a hammer; to make an object in this way
+
+- *n.*
+  a large piece of equipment used for heating metals in; 
+  a building or part of a factory where this is found
+
+*** Usage
+- a move to _forge_ new links between management and workers
+- to _forge_ a passport/banknote/cheque
+- swords _forged_ from steel
+
+
+-----
+** DONE /abdicate/ <2019-08-19 一>
+
+*** General
+- *v.*
+  - If a king or queen abdicates, he or she gives up being king or queen.
+  - If you say that someone has abdicated responsibility for something, 
+    you disapprove of them because they have refused to accept responsibility for it any longer.
+
+*** Usage
+- The last French king was Louis Philippe, who _abdicated_ in 1848.
+- Many parents simply _abdicate_ all responsibility for their children.
+
+
+-----
+** DONE /addict/
+
+*** General
+- *n.*
+  - An addict is someone who takes harmful drugs and cannot stop taking them.
+  - If you say that someone is an addict, 
+    you mean that they like a particular activity very much and spend as much time doing it as they can.
+
+*** Usage
+- He's only 24 years old and a drug _addict_.
+- She is a TV _addict_ and watches as much as she can.
+
+
+-----
+** DONE /indict/
+
+*** General
+- *vt.* If someone is indicted for a crime, they are officially charged with it.
+
+*** Usage
+- He was later _indicted_ on corruption charges...
+- She has been _indicted_ for possessing cocaine.
+- I can _indict_ you for abducting high school student.
+
+*** Note
+- [[accuse][syms]]
+
+-----
+** DONE /interdict/
+
+*** General
+- *v.* If an armed force interdicts something or someone, 
+  they stop them and prevent them from moving. If they interdict a route, they block it or cut it off.
+
+- *n.* An interdict is an official order that something must not be done or used.
+
+*** Usage
+- Troops could be ferried in to _interdict_ drug shipments.
+- The National Trust has placed an _interdict_ on jet-skis in Dorset, Devon and Cornwall.
+
+
+-----
+** DONE /valediction/
+
+*** General
+- *n.* the act of saying goodbye, especially in a formal speech.
+
+*** Usage
+- He gave a touching _valediction_ at graduation.
+
+
+-----
+** DONE /vindicate/
+
+*** General
+- *vt.* If a person or their decisions, actions, or ideas are vindicated, 
+  they are proved to be correct, after people have said that they were wrong.
+
+*** Usage
+- The director said he had been _vindicated_ by the experts' report.
+- How would you _vindicate_ your failure to your family?
+
+
+-----
+** DONE /contradict/
+
+*** General
+- *v.*
+  - If you contradict someone, you say that what they have just said is wrong, 
+    or suggest that it is wrong by saying something different.
+  - If one statement or piece of evidence contradicts another, 
+    the first one makes the second one appear to be wrong.
+  - If one policy or situation contradicts another, 
+    there is a conflict between them, and they cannot both exist or be successful.
+
+*** Usage
+- She dared not _contradict_ him.
+- The result seems to _contradict_ a major U.S. study reported last November.
+- Mr Grant feels that the cutbacks _contradict_ the Government's commitment to better educational standards.
+
+
+-----
+** DONE /dictate/ <2019-08-20 二>
+
+*** General
+- *v.* 
+  - If you dictate something, you say or read it aloud for someone else to write down.
+  - If someone dictates to someone else, they tell them what they should do or can do.
+  - If one thing dictates another, the first thing causes or influences the second thing.
+  - You say that reason or common sense dictates that a particular thing is the case 
+    when you believe strongly that it is the case and that reason or common sense will cause other people to agree.
+
+- *n.*
+  - A dictate is an order which you have to obey.
+  - Dictates are principles or rules which you consider to be extremely important.
+
+*** Usage
+- Sheldon writes every day of the week, _dictating_ his novels in the morning.
+- What right has one country to _dictate_ the environmental standards of another?
+- The film's budget _dictated_ a tough schedule.
+- Commonsense now _dictates_ that it would be wise to sell a few shares.
+- Their job is to ensure that the _dictates_ of the Party are followed.
+- We have followed the _dictates_ of our consciences and have done our duty.
+
+
+-----
+** DONE /eulogize/
+
+*** General
+- *vt.* 
+  - If you eulogize someone or something, you praise them very highly.
+  - If you eulogize someone who has died, you make a speech praising them, usually at their funeral.
+
+*** Usage
+- Taylor _eulogised_ about Steven's versatility.
+- Leaders from around the world _eulogized_ the Egyptian president.
+
+
+-----
+** DONE /monologue/ <2019-08-22 四>
+
+*** General
+- *n.* 
+  - If you refer to a long speech by one person during a conversation as a monologue, 
+    you mean it prevents other people from talking or expressing their opinions.
+  - A monologue is a long speech which is spoken by one person as an entertainment, 
+    or as part of an entertainment such as a play.
+
+*** Usage
+- Morris ignored the question and continued his _monologue_.
+- a _monologue_ based on the writing of Quentin Crisp.
+
+
+-----
+** DONE /prologue/
+
+*** General
+- *n.*
+  - A prologue is a speech or section of text that introduces a play or book.
+  - If one event is a prologue to another event, it leads to it.
+
+*** Usage
+- The _prologue_ to the novel is written in the form of a newspaper account.
+- This was a _prologue_ to today's bloodless revolution.
+
+
+-----
+** DONE /epilogue/
+
+*** General
+- *n.* An epilogue is a passage or speech which is added to the end of a book or play as a conclusion.
+
+*** Usage
+- The play ended with a humorous _epilogue_.
+
+
+-----
+** DONE /grandiloquent/
+
+*** General
+- *adj.* Grandiloquent language or behaviour is very formal, literary, or exaggerated, 
+  and is used by people when they want to seem important.
+
+*** Usage
+- She attacked her colleagues for indulging in 'grandiose and _grandiloquent_ language'.
+- Indeed, no eulogy could be more _grandiloquent_ than this.
+
+
+-----
+** DONE /loquacious/
+
+*** General
+- *adj.* If you describe someone as loquacious, you mean that they talk a lot.
+
+*** Usage
+- The normally _loquacious_ Mr O'Reilly has said little.
+
+
+-----
+** DONE /obloquy/
+
+*** General
+- *n.*
+  - a strongly condemnatory utterance : abusive language
+  - the condition of one that is discredited : bad repute
+
+*** Usage
+- a victim of hatred and _obloquy_.
+- unable to mount a rational defense of her position, she unleashed a torrent of _obloquy_ on her opponent.
+
+
+-----
+** DONE /soliloquy/
+
+*** General
+- *n.*
+  - speech you make to yourself 
+  - A soliloquy is a speech in a play in which an actor or 
+    actress speaks to himself or herself and to the audience, rather than to another actor.
+
+*** Usage
+- As he made this dreary _soliloquy_, he had cantered out of Rotten Row into the park.
+- Hamlet's _soliloquy_ is probably the most famous in English drama.
+
+
+-----
+** DONE /circumlocution/
+
+*** General
+- *n.* A circumlocution is a way of saying or writing something using more words 
+  than are necessary instead of being clear and direct.
+
+*** Usage
+- It was always when you most wanted a direct answer that Greenfield came up with a _circumlocution_.
+- This sort of ritual _circumlocution_ is common to many parts of mathematics.
+
+
+-----
+** DONE /abrogate/ <2019-08-23 五>
+
+*** General
+- *vt.* If someone in a position of authority abrogates something such as 
+  a law, agreement, or practice, they put an end to it.
+
+*** Usage
+- The next prime minister could _abrogate_ the treaty.
+- When can we _abrogate_ the national boundaries all over the world?
+
+** DONE /abolish/
+
+- *vt.* If someone in authority abolishes a system or practice, they formally put an end to it.
+
+- If I were the king, I would _abolish_ taxes.
+
+
+-----
+** DONE /arrogance/
+
+*** General
+- *n.* Someone who is arrogant behaves in a proud, 
+  unpleasant way towards other people because they believe that they are more important than others.
+
+*** Usage
+- He has never exhibited the self-confidence, bordering on _arrogance_, of his predecessor.
+- I can't stand that man and his _arrogance_.
+
+
+-----
+** DONE /interrogate/
+
+*** General
+- *v.* If someone, especially a police officer, interrogates someone, 
+  they question them thoroughly for a long time in order to get some information from them.
+
+*** Usage
+- Police _interrogate_ his name and address.
+- You wish to _interrogate_ the prisoner?
+
+
+-----
+** DONE /prerogative/
+
+*** General
+- *adj.* If something is the prerogative of a particular person or group, 
+  it is a privilege or a power that only they have.
+
+*** Usage
+- Constitutional changes are exclusively the _prerogative_ of the parliament.
+- It is your _prerogative_ to stop seeing that particular therapist and find another one.
+
+
+-----
+** DONE /surrogate/
+
+*** General
+- *adj.* You use surrogate to describe a person or thing that is given a particular role 
+  because the person or thing that should have the role is not available.
+
+- *n.* A thing used to replace another.
+
+*** Usage
+- For some people, reading travel books is a _surrogate_ for actual travel.
+- Martin had become Howard Cosell's _surrogate_ son.
+
+
+-----
+** DONE /advocate/
+
+*** General
+- *vt.* If you advocate a particular action or plan, you recommend it publicly.
+- *n.*
+  - An advocate of a particular action or plan is someone who recommends it publicly.
+  - An advocate is a lawyer who speaks in favour of someone or defends them in a court of law.
+
+*** Usage
+- Mr Williams is a conservative who _advocates_ fewer government controls on business.
+- He was a strong _advocate_ of free market policies and a multi-party system.
+- I do not _advocate_ building large factories.
+
+
+-----
+** DONE /insular/
+
+*** General
+- *adj.*
+  - of, relating to, or constituting an island
+  - If you say that someone is insular, you are being critical of them 
+    because they are unwilling to meet new people or to consider new ideas.
+
+*** Usage
+- _insular_ residents
+- an _insular_ community that is not receptive of new ideas, especially from outsiders.
+
+
+-----
+** DONE /peninsula/
+
+*** General
+- *n.* A peninsula is a long narrow piece of land 
+  which sticks out from a larger piece of land and is almost completely surrounded by water.
+
+*** Usage
+- the political situation in the Korean _peninsula_.
+- Dalian is in the south of the Liaodong _Peninsula_.
+
+
+-----
+** DONE /islet/
+
+*** General
+- *n.* An islet is a small island.
+
+*** Usage
+- You can find whole regiments of birds on the _islet_.
+
+
+-----
+** DONE /marine/
+
+*** General
+- *adj.* Marine is used to describe things relating to the sea or to the animals and plants that live in the sea.
+- *n.* A marine is a member of an armed force, for example the US Marine Corps or the Royal Marines, 
+  who is specially trained for military duties at sea as well as on land.
+
+*** Usage
+- Human beings are not natural enemies of _marine_ mammals.
+- He was a soldier of _Marine_ Corps.
+
+** DONE /maritime/
+
+*** General 
+- *adj.* Maritime is used to describe things relating to the sea and to ships.
+
+*** Usage
+- the largest _maritime_ museum of its kind.
+- This research work could be the reference of _maritime_ affairs investigation.
+
+
+-----
+** DONE /terrestrial/
+
+*** General
+- *adj.* 
+  - A terrestrial animal or plant lives on land or on the ground rather than in the sea, in trees, or in the air.
+  - Terrestrial means relating to the planet Earth rather than to some other part of the universe.
+
+*** Usage
+- _Terrestrial_ and aquatic fauna may sometimes be found resting together under a loose stone.
+- Newton proposed that heavenly and _terrestrial_ motion could be unified with the idea of gravity.
+
+
+-----
+** DONE /outskirts/
+
+- *n.* a part of the city far removed from the center.
+- The hotel is situated in the _outskirts_ of the city.
+
+
+-----
+** DONE /endemic/
+
+*** General
+- *adj.*
+  - If a disease or illness is endemic in a place, it is frequently found among the people who live there.
+  - If you say that a condition or problem is endemic, 
+    you mean that it is very common and strong, and cannot be dealt with easily.
+
+*** Usage
+- Polio was then _endemic_ among children my age.
+- Street crime is virtually _endemic_ in large cities.
+
+
+-----
+** DONE /cosmopolitan/ <2020-05-10 Sun>
+
+*** General
+- *adj.*
+  - A cosmopolitan place or society is full of people from many different countries and cultures.
+  - Someone who is cosmopolitan has had a lot of contact with people and things from many different countries 
+    and as a result is very open to different ideas and ways of doing things.
+
+*** Usage
+- The family are rich, and extremely sophisticated and _cosmopolitan_.
+- Alexandria's population was _cosmopolitan_, but mainly Greek.
+
+
+-----
+** DONE /subterrane/
+
+- *n.* the bedrock or the rocks beneath a particular geological formation
+  (underground)
+
+** DONE /subterranean/
+
+- *adj.* A subterranean river or tunnel is under the ground.
+- London has 9 miles of such _subterranean_ passages.
+
+
+-----
+** DONE /cavern/
+
+- *n.*
+  - A cavern is a large deep cave.
+  - If you describe the inside of a building or a room as a cavern, 
+    you mean that it is very large and, usually, dark or without much furniture.
+
+- The kitchen now is a dark _cavern_, with an antiquated black stove in a corner.
+
+
+-----
+** DONE /flaw/
+
+*** General
+- *n.* 
+  - A flaw in something such as a theory or argument is a mistake in it, which causes it to be less effective or valid.
+  - A flaw in someone's character is an undesirable quality that they have.
+  - A flaw in something such as a pattern or material is a fault in it that should not be there.
+
+*** Usage
+- The only _flaw_ in his character seems to be a short temper.
+- It was a large diamond, but it had a _flaw_.
+- The only _flaw_ is the slightly slow response times when you press the buttons.
+
+** DONE /cleft/
+
+- *n.* A cleft in a rock or in the ground is a narrow opening in it.
+- a cleft in the rocks
+
+** DONE /crevice/
+
+- *n.* A crevice is a narrow crack or gap, especially in a rock.
+- I saw a plant growing out of a _crevice_ in the wall.
+
+
+-----
+** NEXT /meridian/ <2019-09-08 日>
+
+- *n.* A meridian is an imaginary line from the North Pole to the South Pole. 
+  Meridians are drawn on maps to help you describe the position of a place.
+
+- All places on the same _meridian_ have the same longitude.
+- He is now at the _meridian_ of his intellectual power.
+
+
+-----
+** DONE /subsidiary/
+
+*** General
+- *n.* A subsidiary or a subsidiary company is a company which is part of a larger and more important company.
+  (branch)
+- *adj.* If something is subsidiary, it is less important than something else with which it is connected.
+
+*** Usage
+- The company placed much money in its foreign _subsidiary_.
+- We offer accounting as a _subsidiary_ course.
+
+
+-----
+** DONE /Antarctic/
+
+- *adj.* The Antarctic is the area around the South Pole.
+- He measured the distance to the nearest _Antarctic_ coast.
+
+** DONE /Antarctica/
+
+- *n.* an extremely cold continent at the south pole almost entirely below the Antarctic Circle
+- _Antarctica_ is the earth's coldest landmass.
+
+** DONE /Arctic/
+
+- *n.* The Arctic is the area of the world around the North Pole. 
+  It is extremely cold and there is very little light in winter and very little darkness in summer.
+
+- *adj.* If you describe a place or the weather as arctic, you are emphasizing that it is extremely cold.
+
+- This ship was designed expressly for exploring the _Arctic_ waters.
+- TV pictures showed the _arctic_ conditions.
+
+
+-----
+** NEXT /contour/
+
+*** General
+- *n.* 
+  - You can refer to the general shape or outline of an object as its contours.
+  - A contour on a map is a line joining points of equal height and indicating hills, valleys, and the steepness of slopes.
+
+*** Usage
+- the texture and colour of the skin, the _contours_ of the body
+- There is a close correlation between _contour_ lines and lithology.
+
+
+-----
+** DONE /plateau/
+
+*** General
+- *n.* 
+  - A plateau is a large area of high and fairly flat land.
+  - If you say that an activity or process has reached a plateau, 
+    you mean that it has reached a stage where there is no further change or development.
+
+*** Usage
+- A broad valley opened up leading to a high, flat _plateau_ of cultivated land.
+- I think the economy is stuck on a kind of _plateau_ of slow growth.
+
+
+-----
+** DONE /salinity/
+
+- *n.* the relative proportion of salt in a solution
+- The Atlantic Ocean had undergone changes in temperature and _salinity_.
+
+
+-----
+** DONE /elevation/
+
+*** General
+- *n.* 
+  - The elevation of a place is its height above sea level.
+  - In architecture, an elevation is the front, back, or side of a building, or a drawing of one of these.
+  - An elevation is a piece of ground that is higher than the area around it.
+
+*** Usage
+- We're probably at an _elevation_ of about 13,000 feet above sea level.
+- The _elevation_ or side view is known as a dendrogram.
+- his elevation to the presidency
+
+
+-----
+** DONE /geothermal/
+
+- *adj.* of, relating to, or utilizing the heat of the earth's interior
+- geothermal energy
+
+
+-----
+** NEXT /terrain/
+
+- *n.* Terrain is used to refer to an area of land or a type of land when you are considering its physical features.
+- The _terrain_ changed quickly from arable land to desert.
+
+** DONE /topography/
+
+- *n.* 
+  - Topography is the study and description of the physical features of an area, 
+    for example its hills, valleys, or rivers, or the representation of these features on maps.
+  - The topography of a particular area is its physical shape, including its hills, valleys, and rivers.
+
+- a map showing the _topography_ of the island
+
+
+-----
+** DONE /tropics/
+
+- *n.* The tropics are the parts of the world that lie between two lines of latitude
+  (tropical area)
+
+- He had always wanted an adventurous life in the _tropics_.
+
+
+-----
+** DONE /temperate/
+
+*** General
+- *adj.* 
+  - Temperate is used to describe a climate or a place which is never extremely hot or extremely cold.
+  - If a person's behaviour is temperate, it is calm and reasonable, 
+    so that they do not get angry or lose their temper easily.
+
+*** Usage
+- The Nile Valley keeps a _temperate_ climate throughout the year.
+- He spoke in a _temperate_ manner, not favoring either side especially.
+
+
+-----
+** DONE /emerald/ <2019-08-25 日>
+
+- *n.* 
+  - An emerald is a precious stone which is clear and bright green.
+  - Something that is emerald is bright green in colour.
+- Alice has an _emerald_ necklace.
+
+
+-----
+** DONE /bonanza/
+
+- *n.* 
+  - You can refer to a sudden great increase in wealth, success, or luck as a bonanza.
+  - an especially rich vein of precious ore
+
+- a cash bonanza for investors
+
+
+-----
+** NEXT /tremor/
+
+*** General
+- *n.* 
+  - A tremor is a small earthquake.
+  - If an event causes a tremor in a group or organization, 
+    it threatens to make the group or organization less strong or stable.
+  - A tremor is a shaking of your body or voice that you cannot control.
+
+*** Usage
+- News of 160 redundancies had sent _tremors_ through the community.
+- He felt a _tremor_ of apprehension.
+
+** DONE /seism/
+
+- *n.* shaking and vibration at the surface of the earth
+
+** DONE /seismic/ <2019-08-28 三>
+
+- *adj.* subject to or caused by an earthquake or earth vibration
+- Earthquakes produce two types of _seismic_ waves.
+
+** DONE /seismology/
+
+
+
+-----
+
+** DONE /cataclysm/
+
+- *n.* A cataclysm is an event that causes great change or harm.
+- The floods were a _cataclysm_ from which the local people never recovered.
+
+
+-----
+** DONE /stratum/
+
+*** General
+- *n.* 
+  - A stratum of society is a group of people in it who are similar in their education, income, or social status.
+  - Strata are different layers of rock.
+
+*** Usage
+- It was an enormous task that affected every _stratum_ of society.
+- Contained within the rock _strata_ is evidence that the region was intensely dry 15,000 years ago.
+
+** DONE /mantle/
+
+
+
+-----
+** DONE /lithogenous/
+
+
+-----
+** DONE /crust/
+
+*** General
+- *n.* 
+  - The earth's crust is its outer layer.
+  - A crust is a hard layer of something, especially on top of a softer or wetter substance.
+
+*** Usage
+- Earthquakes leave scars in the earth's _crust_.
+- As the water evaporates, a _crust_ of salt is left on the surface of the soil.
+
+
+-----
+** DONE /magma/
+
+- Magma is molten rock that is formed in very hot conditions inside the earth.
+- The volcano threw new showers of _magma_ and ash into the air.
+
+-----
+** DONE /squirt/
+
+*** General
+- *v.* 
+  - If you squirt a liquid somewhere or if it squirts somewhere, the liquid comes out of a narrow opening in a thin fast stream.
+  - If you squirt something with a liquid, you squirt the liquid at it.
+
+*** Usage
+- Norman cut open his pie and _squirted_ tomato sauce into it.
+- I _squirted_ him with water.
+
+
+-----
+** DONE /gregarious/
+
+*** General
+- *adj.*
+  - Someone who is gregarious enjoys being with other people.
+  - Gregarious animals or birds normally live in large groups.
+
+*** Usage
+- She is such a _gregarious_ and outgoing person.
+- Snow geese are very _gregarious_ birds.
+
+
+-----
+** DONE /swarm/
+
+*** General
+- *n.* A _swarm_ of bees or other insects is a large group of them flying together.
+- *v.* When bees or other insects _swarm_, they move or fly in a large group.
+
+*** Usage
+- A dark cloud of bees comes _swarming_ out of the hive.
+
+** DONE /herd/
+
+*** General
+- *n.* A herd is a large group of animals of one kind that live together.
+- *v.* If you herd people somewhere, you make them move there in a group.
+
+*** Usage
+- large _herds_ of elephant and buffalo
+- He began to _herd_ the prisoners out.
+
+
+-----
+** DONE /finch/
+
+- *n.* A finch is a small bird with a short strong beak.
+
+** DONE /fowl/
+
+- *n.* A fowl is a bird, especially one that can be eaten as food, such as a duck or a chicken.
+
+
+-----
+** DONE /amphibian/
+
+- *n.*
+  - Amphibians are animals such as frogs and toads that can live both on land and in water.
+  - An amphibian is a vehicle which is able to move on both land and water, 
+    or an aeroplane which can land on both land and water.
+
+- Both the toad and frog are _amphibian_.
+
+
+-----
+** NEXT /graze/
+
+*** General
+- *v.* 
+  - When animals graze or are grazed, they eat the grass or other plants that are growing in a particular place. 
+    You can also say that a field is grazed by animals.
+  - If you graze a part of your body, you injure your skin by scraping against something.
+
+*** Usage
+- The hills have been _grazed_ by sheep because they were too steep to be ploughed.
+- I had _grazed_ my knees a little.
+
+
+-----
+** DONE /hatch/
+
+*** General
+- *v.* 
+  - When a baby bird, insect, or other animal hatches, or when it is hatched, it comes out of its egg by breaking the shell.
+  - A hatch is an opening in a ceiling or a wall, especially between a kitchen and a dining room, 
+    which you can pass something such as food through.
+
+*** Usage
+- As soon as the two chicks _hatch_, they leave the nest burrow.
+- He stuck his head up through the _hatch_.
+
+
+-----
+** DONE /hibernate/
+
+- *v.* Animals that hibernate spend the winter in a state like a deep sleep.
+- In winter bears usually _hibernate_ in their dens.
+
+
+-----
+** DONE /camouflage/
+
+*** General
+- *n.* 
+  - Camouflage consists of things such as leaves, branches, or brown and green paint, 
+    which are used to make it difficult for an enemy to see military forces and equipment.
+  - Camouflage is the way in which some animals are coloured and shaped so that 
+    they cannot easily be seen in their natural surroundings.
+
+*** Usage
+- They were dressed in _camouflage_ and carried automatic rifles.
+- Confident in its _camouflage_, being the same colour as the rocks, the lizard stands still when it feels danger.
+
+
+-----
+** DONE /penal/
+** TODO /soak/
+
+*** General
+- *vt.* 
+  - If you soak something or leave it to soak, you put it into a liquid and leave it there.
+  - If a liquid soaks something or if you soak something with a liquid, the liquid makes the thing very wet.
+
+- *v.* If someone soaks, they spend a long time in a hot bath, because they enjoy it.
+
+*** Usage
+- _Soak_ the beans for 2 hours.
+- The water had _soaked_ his jacket and shirt.
+- What I need is to _soak_ in a hot tub.
+
+
+-----
+** DONE /equivocate/ <2020-05-23 Sat>
+
+- *v.* When someone equivocates, they deliberately use vague language 
+  in order to deceive people or to avoid speaking the truth.
+
+- Don't _equivocate_ with me I want a straight answer to a straight question!
+
+
+-----
+** NEXT /vociferous/
+
+- *adj.* If you describe someone as vociferous, 
+  you mean that they speak with great energy and determination, because they want their views to be heard.
+
+- He was a _vociferous_ opponent of Conservatism.
+
+
+-----
+** NEXT /convoke/
+
+- *v.* call together to start a meeting
+
+- The king _convoke_ parliament to cope with the impending danger.
+
+
+-----
+** DONE /invoke/
+
+*** General
+- *vt*
+  - If something such as a piece of music invokes a feeling or an image, 
+    it causes someone to have the feeling or to see the image. Many people consider this use to be incorrect.
+  - If you invoke something such as a principle, a saying, or a famous person, 
+    you refer to them in order to support your argument.
+
+*** Usage
+- The music _invoked_ the wide open spaces of the prairies.
+- He _invoked_ memories of Britain's near-disastrous disarmament in the 1930s.
+
+
+-----
+** NEXT /revoke/
+
+- *vt.* When people in authority revoke something such as a licence, a law, or an agreement, they cancel it.
+
+- The government _revoked_ her husband's license to operate migrant labor crews.
+
+
+-----
+** NEXT /illicit/
+
+- *adj.* An illicit activity or substance is not allowed by law or the social customs of a country.
+
+- She slipped outside for an _illicit_ cigarette.
+- He had an _illicit_ association with Jane.
+
+** DONE /illegitimate/
+
+- *adj.*
+  - A person who is illegitimate was born of parents who were not married to each other.
+  - Illegitimate is used to describe activities and institutions 
+    that are not in accordance with the law or with accepted standards of what is right.
+
+- Perhaps she was an _illegitimate_ daughter.
+- The agency made _illegitimate_ use of public funds.
+
+
+-----
+** DONE /infringe/
+
+*** General
+- *v.* 
+  - If someone infringes a law or a rule, they break it or do something which disobeys it.
+  - If something infringes people's rights, it interferes with these rights and 
+    does not allow people the freedom they are entitled to.
+
+*** Usage
+- The film exploited his image and _infringed_ his copyright.
+- It's starting to _infringe_ on our personal liberties.
+
+
+-----
+** TODO /oblige/
+
+*** General
+- *v.* 
+  - force or compel somebody to do something
+  - provide a service or favor for someone
+
+*** Usage
+- We'd be happy to _oblige_.
+- I was _obliged_ to finish the work by the end of the week.
+
+
+-----
+** TODO /arbitration/
+
+- *n.* Arbitration is the judging of a dispute between people or groups by someone who is not involved.
+
+- The matter is likely to go to _arbitration_.
+
+
+-----
+** TODO /confiscate/
+
+- *vt.* If you confiscate something from someone, you take it away from them, usually as a punishment.
+
+- There is concern that police use the law to _confiscate_ assets from people who have committed minor offences.
+
+
+-----
+** TODO /convict/
+
+*** General
+- *v.* If someone is convicted of a crime, they are found guilty of that crime in a law court.
+- *n.* A convict is someone who is in prison.
+
+*** Usage
+- In 1977 he was _convicted_ of murder and sentenced to life imprisonment.
+- They have brought the escaped _convict_ to bay.
+
+
+-----
+** TODO /indemnity/
+
+- *n.*
+  - An indemnity is an amount of money paid to someone because of some damage or loss they have suffered.
+  - If something provides indemnity, it provides insurance or protection against damage or loss.
+
+- They were charged with failing to have professional _indemnity_ cover.
+- The government paid the family an _indemnity_ for the missing pictures.
+
+
+-----
+** NEXT /detain/
+
+- *v.* 
+  - When people such as the police detain someone, they keep them in a place under their control.
+  - To detain someone means to delay them, for example by talking to them.
+
+- The act allows police to _detain_ a suspect for up to 48 hours.
+- Thank you. We won't _detain_ you any further.
+
+
+-----
+** TODO /extenuate/ <2019-09-01 日>
+
+- *vt.* lessen or to try to lessen the seriousness or extent of
+- The circumstances _extenuate_ the crime.
+
+
+-----
+** DONE /saddle/
+
+*** General
+- *n.* A saddle is a leather seat that you put on the back of an animal so that you can ride the animal.
+- *vt.* 
+  - If you saddle a horse, you put a saddle on it so that you can ride it.
+  - If you saddle someone with a problem or with a responsibility, you put them in a position where they have to deal with it.
+
+*** Usage
+- Why don't we _saddle_ a couple of horses and go for a ride?
+- The war devastated the economy and _saddled_ the country with a huge foreign debt.
+
+
+-----
+** DONE /pledge/
+
+*** General
+- *n.* When someone makes a pledge, they make a serious promise that they will do something.
+- *vt.* When someone pledges to do something, they promise in a serious way to do it. 
+  When they pledge something, they promise to give it.
+
+*** Usage
+- The meeting ended with a _pledge_ to step up cooperation between the six states of the region.
+- Philip _pledges_ support and offers to help in any way that he can.
+
+
+-----
+** TODO /proscribe/
+
+- *vt.* If something is proscribed by people in authority, the existence or the use of that thing is forbidden.
+- They are _proscribed_ by federal law from owning guns.
+
+
+-----
+** TODO /abstinence/
+
+- *n.* Abstinence is the practice of abstaining from something such as 
+  alcoholic drink or sex, often for health or religious reasons.
+
+- total _abstinence_ from alcohol
+
+** TODO /abstain/
+
+*** General
+- *vi.* If you abstain from something, usually something you want to do, you deliberately do not do it.
+
+*** Usage
+- His doctor ordered him to _abstain_ from beer and wine.
+
+
+-----
+** TODO /affirm/
+
+*** General
+- *v.* 
+  - If you affirm that something is true or that something exists, you state firmly and publicly that it is true or exists.
+  - If an event affirms something, it shows that it is true or exists.
+
+*** Usage
+- The House of Lords _affirmed_ that the terms of a contract cannot be rewritten retrospectively.
+- Everything I had accomplished seemed to _affirm_ that opinion.
+
+
+-----
+** DONE /observe/
+
+** NEXT /abide/
+
+*** General
+- *vi.* 
+  - If you can't abide someone or something, you dislike them very much.
+  - to observe
+
+*** Usage
+- She can't _abide_ his rudeness.
+- If you join the club, you have to _abide_ by its rules.
+
+
+-----
+** NEXT /accuse/ <<accuse>>
+
+** DONE /impeach/
+
+- *vt.* If a court or a group in authority impeaches a president or other senior official, 
+  it charges them with committing a crime which makes them unfit for office.
+
+- The angry congressman wanted to _impeach_ the President.
+
+** DONE /incriminate/
+
+- *vt.* If something incriminates you, it suggests that you are responsible for something bad, especially a crime.
+
+- He claimed that the drugs had been planted to _incriminate_ him.
+
+** TODO /prosecute/
+
+- *v.* If the authorities prosecute someone, they charge them with a crime and put them on trial.
+
+- The police have decided not to _prosecute_ because the evidence is not strong enough.
+
+
+-----
+** NEXT /impunity/
+
+- *n.* If you say that someone does something with impunity, 
+  you disapprove of the fact that they are not punished for doing something bad.
+
+- These gangs operate with apparent _impunity_.
+
+** TODO /exempt/
+
+*** General
+- *adj.* If someone or something is exempt from a particular rule, duty, or obligation, 
+  they do not have to follow it or do it.
+
+- *vt.* To exempt a person or thing from a particular rule, duty, or obligation means 
+  to state officially that they are not bound or affected by it.
+
+*** Usage
+- Men in college were _exempt_ from military service.
+- South Carolina claimed the power to _exempt_ its citizens from the obligation to obey federal law.
+
+** TODO /condone/
+
+- *vt.* If someone condones behaviour that is morally wrong, they accept it and allow it to happen.
+
+- I couldn't _condone_ what she was doing.
+
+** NEXT /remit/
+
+*** General
+- *n.* Someone's remit is the area of activity which they are expected to deal with, 
+  or which they have authority to deal with.
+
+- *v.* 
+  - If you remit money to someone, you send it to them.
+  - In an appeal court, if a case is remitted to the court where it was originally dealt with, 
+    it is sent back to be dealt with there.
+
+*** Usage
+- That issue is not within the _remit_ of the working group.
+- Many immigrants regularly _remit_ money to their families.
+- The matter was _remitted_ to the justices for a rehearing.
+
+** TODO /acquit/
+
+*** General
+- *vt.*
+  - If someone is acquitted of a crime in a court of law, they are formally declared not to have committed the crime.
+  - If you acquit yourself well or admirably in a particular situation, other people feel 
+    that you have behaved well or admirably.
+
+*** Usage
+- Mr Ling was _acquitted_ of disorderly behaviour by magistrates.
+- Most officers and men _acquitted_ themselves well throughout the action.
+
+
+-----
+** TODO /decree/
+
+- *n.* A decree is an official order or decision, especially one made by the ruler of a country.
+
+- In July he issued a decree _ordering_ all unofficial armed groups in the country to disband.
+
+
+-----
+** DONE /legislate/
+
+- *vi.* When a government or state legislates, it passes a new law.
+
+- Most member countries have already _legislated_ against excessive overtime.
+
+** NEXT /legalize/
+
+- *vt.* If something is legalized, a law is passed that makes it legal.
+
+- Divorce was _legalized_ in 1981.
+
+** TODO /enact/
+
+*** General
+- *vt.* 
+  - When a government or authority enacts a proposal, they make it into a law.
+  - If people enact a story or play, they perform it by acting.
+  - If a particular event or situation is enacted, it happens; 
+    used especially to talk about something that has happened before.
+
+*** Usage
+- The authorities have failed so far to _enact_ a law allowing unrestricted emigration.
+- She often _enacted_ the stories told to her by her father.
+- It was a scene which was _enacted_ month after month for eight years.
+
+
+-----
+** NEXT /prescribe/
+
+*** General
+- *v.* 
+  - If a doctor prescribes medicine or treatment for you, he or she tells you what medicine or treatment to have.
+  - If a person or set of laws or rules prescribes an action or duty, they state that it must be carried out.
+
+- /note/: carry out = to execute or just carrying out of some place...
+
+*** Usage
+- Our doctor diagnosed a throat infection and _prescribed_ antibiotic and junior aspirin.
+- Alliott told Singleton he was passing the sentence _prescribed_ by law.
+
+
+-----
+** DONE /credential/
+
+- *n.* a document attesting to the truth of certain stated facts
+- The security server send back the user's authentication _credential_, or ticket.
+
+
+-----
+** DONE /hackneyed/ <2020-05-25 Mon>
+
+- *adj.* If you describe something such as a saying or an image as hackneyed, you think it is no longer likely to 
+  interest, amuse or affect people because it has been used, seen, or heard many times before.
+
+- Java, one of the most popular language today, uses many hackneyed features that would be surrogated in the future.
+
+** TODO /caustic/
+
+- *adj.* Caustic chemical substances are very powerful and can dissolve other substances.
+
+- Remember that this is _caustic_; use gloves or a spoon.
+
+
+-----
+** TODO /methane/
+
+- *n.* Methane is a colourless gas that has no smell. Natural gas consists mostly of methane.
+
+- _Methane_ gas does collect in the mines around here.
+
+
+-----
+** TODO /intermediary/
+
+*** General
+- *n.* 
+  - An intermediary is a person who passes messages or proposals between two people or groups.
+  - sth in chemistry
+
+*** Usage
+- She wanted him to act as an _intermediary_ in the dispute with Moscow.
+
+
+-----
+** TODO /catalysis/
+
+-----
+** TODO /adhesive/
+
+*** General
+- *n.* An adhesive is a substance such as glue, which is used to make things stick firmly together.
+- *adj.* An adhesive substance is able to stick firmly to something else.
+
+*** Usage
+- Glue the mirror in with a strong _adhesive_.
+- _adhesive_ tape
+
+
+-----
+** TODO /scorch/
+
+*** General
+- *vt.* 
+  - If something scorches or is scorched, 
+    it becomes marked or changes colour because it is affected by too much heat or by a chemical.
+  - To scorch something means to burn it slightly.
+  - If you scorch round a place, you move round it very quickly, either in a car or on foot.
+
+*** Usage
+- The leaves are inclined to _scorch_ in hot sunshine.
+- The bomb _scorched_ the side of the building.
+- Many people dream of _scorching_ round a racetrack.
+
+** TODO /tint/
+
+*** General
+- *vt.* If something is tinted, it has a small amount of a particular colour or dye in it.
+- *n.* 
+  - A tint is a small amount of colour.
+  - If you put a tint on your hair, you dye it a slightly different colour.
+
+*** Usage
+- Eyebrows can be _tinted_ with the same dye.
+- Its large leaves often show a delicate purple _tint_.
+- You've had a _tint_ on your hair.
+
+** TODO /dye/
+
+- *vt.* If you dye something such as hair or cloth, you change its colour by soaking it in a special liquid.
+
+- She had dyed _black_ hair.
+
+
+-----
+** TODO /molecule/
+
+- *n.* A molecule is the smallest amount of a chemical substance which can exist by itself.
+
+- ... the hydrogen bonds between water _molecules_.
+
+
+-----
+** TODO /solvent/
+
+*** General
+- *adj.* If a person or a company is solvent, they have enough money to pay all their debts.
+- *n.* A solvent is a liquid that can dissolve other substances.
+
+*** Usage
+- They're going to have to show that the company is now _solvent_.
+- a small amount of cleaning _solvent_.
+
+
+-----
+** TODO /blend/
+
+*** General
+- *v.* If you blend substances together or if they blend, you mix them together so that they become one substance.
+
+*** Usage
+- _Blend_ the butter with the sugar and beat until light and creamy.
+
+
+-----
+** TODO /sear/
+
+- *vt.* To sear something means to burn its surface with a sudden intense heat.
+
+- Grass fires have _seared_ the land near the farming village of Basekhai.
+
+
+-----
+** TODO /polymerization/
+
+- *n.* a chemical process that combines several monomers to form a polymer or polymeric compound
+
+** TODO /synthetic/
+
+- *adj.* Synthetic products are made from chemicals or artificial substances rather than from natural ones.
+
+- Boots made from _synthetic_ materials can usually be washed in a machine.
+
+
+-----
+** TODO /contaminate/
+
+- *vt.* If something is contaminated by dirt, chemicals, or radiation, they make it dirty or harmful.
+
+- Have any fish been _contaminated_ in the Arctic Ocean?
+
+
+-----
+** TODO /sewage/
+
+- *n.* Sewage is waste matter such as faeces or dirty water from homes and factories, which flows away through sewers.
+
+- the MPs' call for more treatment of raw _sewage_
+
+
+-----
+** TODO /didactic/
+
+- *adj.*
+  - Something that is didactic is intended to teach people something, especially a moral lesson.
+  - Someone who is didactic tells people things rather than letting them find things out or discussing things.
+
+- In totalitarian societies, art exists for _didactic_ purposes.
+-  He is more _didactic_ in his approach to the learning process.
+
+** TODO /sermon/
+
+- *n.* A sermon is a talk on a religious or moral subject 
+  that is given by a member of the clergy as part of a church service.
+
+- Sometimes the rector came up and preached a _sermon_.
+
+** TODO /preach/
+
+** TODO /instill/
+
+- *vt.* impart gradually
+
+- Her presence _instilled_ faith into the children
+
+** TODO /edify/
+
+- *vt.* make understood
+
+- They tried to _edify_ the child with music.
+
+
+-----
+** TODO /curriculum/
+
+- *n.* 
+  - A curriculum is all the different courses of study that are taught in a school, college, or university.
+  - A particular curriculum is one particular course of study that is taught in a school, college, or university.
+
+- There should be a broader _curriculum_ in schools for post-16-year-old pupils.
+
+** TODO /discipline/
+
+*** General
+- *n.* 
+  - Discipline is the practice of making people obey rules or standards of behaviour, and punishing them when they do not.
+  - A discipline is a particular area of study, especially a subject of study in a college or university.
+
+- *vt.* If you discipline yourself to do something, 
+  you train yourself to behave and work in a strictly controlled and regular way.
+
+*** Usage
+- Order and _discipline_ have been placed in the hands of headmasters and governing bodies.
+- We're looking for people from a wide range of _disciplines_.
+- I'm very good at _disciplining_ myself.
+
+
+-----
+** TODO /prosperous/
+
+- *adj.* Prosperous people, places, and economies are rich and successful.
+
+- The place looks more _prosperous_ than ever.
+
+
+-----
+** TODO /opulence/
+
+- *n.* wealth as evidenced by sumptuous living
+
+- That's what we tried to portray in the book, this feeling of _opulence_ and grandeur.
+
+
+-----
+** TODO /indigent/
+
+- *adj.* Someone who is indigent is very poor.
+
+- His single - mindedness was forged in _indigent_ childhood.
+
+** TODO /penury/
+
+- *n.* Penury is the state of being extremely poor.
+
+- He was brought up in _penury_, without education.
+
+
+-----
+** TODO /ration/
+** TODO /quota/
+
+
+-----
+** TODO /merchandise/
+
+- *n.* Merchandise is goods that are bought, sold, or traded.
+
+- The _merchandise_ is reasonably priced and offers exceptionally good value.
+
+
+-----
+** TODO /inventory/
+
+- *n.* 
+  - An inventory is a written list of all the objects in a particular place.
+  - An inventory is a supply or stock of something.
+
+- Before starting, he made an _inventory_ of everything that was to stay.
+
+
+-----
+** TODO /tariff/
+
+- A tariff is a tax that a government collects on goods coming into a country.
+
+- America wants to eliminate _tariffs_ on items such as electronics.
+
+
+-----
+** DONE /cause/
+
+- *n.* A cause is an aim or principle which a group of people supports or is fighting for.
+
+- Refusing to have one leader has not helped the _cause_.
+
+
+-----
+** TODO /disburse/
+
+- *vt.* To disburse an amount of money means to pay it out, 
+  usually from a fund which has been collected for a particular purpose.
+
+- The bank has _disbursed_ over $350m for the project.
+
+
+-----
+** TODO /residue/
+
+- *n.* A residue of something is a small amount that remains after most of it has gone.
+
+- Always using the same shampoo means that a _residue_ can build up on the hair.
+
+
+-----
+** TODO /collateral/
+
+- *n.* Collateral is money or property which is used as a guarantee that someone will repay a loan.
+
+- Many people use personal assets as _collateral_ for small business loans.
+
+
+-----
+** TODO /depreciate/
+
+- *v.* If something such as a currency depreciates or if something depreciates it, it loses some of its original value.
+
+- Countries may also find their currency is _depreciating_ in foreign markets.
+
+
+-----
+** TODO /reimburse/
+
+- *vt.* If you reimburse someone for something, you pay them back the money that they have spent or lost because of it.
+
+- I'll be happy to _reimburse_ you for any expenses you might have incurred.
+
+
+-----
+** TODO /garner/
+
+- *vt.* assemble or get together;
+
+- People began to _garner_ food to prepare for the war.
+
+-----
+** TODO /revenue/
+
+
+
+-----
+** DONE /barter/
+
+- *vt.* If you barter goods, you exchange them for other goods, rather than selling them for money.
+
+- They have been _bartering_ wheat for cotton and timber.
+
+
+-----
+** TODO /deposit/ <2019-09-04 三>
+
+*** General
+- *v.* 
+  - If you deposit a sum of money, you pay it into a bank account or savings account.
+  - If you deposit something somewhere, you put it where it will be safe until it is needed again.
+
+- *n.* 
+  - A deposit is a sum of money which is part of the full price of something, and which you pay when you agree to buy it.
+  - A deposit is a sum of money which you pay when you start renting something.
+    The money is returned to you if you do not damage what you have rented.
+
+*** Usage
+- The customer has to _deposit_ a minimum of £100 monthly.
+- You are advised to _deposit_ valuables in the hotel safe.
+- It is common to ask for the equivalent of a month's rent as a _deposit_.
+
+
+-----
+** DONE /ransom/
+
+*** General
+- *n.* A ransom is the money that has to be paid to someone so that they will set free a person they have kidnapped.
+- *v.* If you ransom someone who has been kidnapped, you pay the money to set them free.
+
+*** Usage
+- Her kidnapper successfully _extorted_ a £75,000 ransom for her release.
+- The same system was used for _ransoming_ or exchanging captives.
+
+
+-----
+** TODO /revenue/
+
+- *n.* Revenue is money that a company, organization, or government receives from people.
+
+- a boom year at the cinema, with record advertising _revenue_ and the highest ticket sales since 1980.
+
+
+-----
+** TODO /dissimulate/
+
+- *v.* When people dissimulate, they hide their true feelings, intentions, or nature.
+
+- This man was too injured to _dissimulate_ well.
+
+
+-----
+** DONE /scout/
+
+*** General
+- *vt.* If you scout somewhere for something, you go through that area searching for it.
+- *n.* A scout is someone who is sent to an area of countryside to find out the position of an enemy army.
+
+*** Usage
+- I wouldn't have time to _scout_ the area for junk.
+- They sent two men out in front as _scouts_.
+
+
+-----
+** TODO /encroach/
+
+- *v.* If something encroaches on a place, it spreads and takes over more and more of that place.
+
+- His new farm buildings _encroach_ on his neighbour's land.
+
+** TODO /despoil/
+
+- *vt.* To despoil a place means to make it less attractive, valuable, 
+  or important by taking things away from it or by destroying it.
+
+- The victorious army _despoil_ the city of all its treasure.
+
+
+-----
+** TODO /assault/
+
+*** General
+- *vt.* To assault someone means to physically attack them.
+- *n.* An assault by an army is a strong attack made on an area held by the enemy.
+
+*** Usage
+- The gang _assaulted_ him with iron bars.
+- The rebels are poised for a new _assault_ on the government garrisons.
+
+** TODO /exterminate/
+
+- *vt.* To exterminate a group of people or animals means to kill all of them.
+
+- A huge effort was made to _exterminate_ the rats.
+
+
+-----
+** TODO /repulse/
+
+- *vt.* If an army or other group repulses a group of people, they drive it back using force.
+
+- The armed forces were prepared to _repulse_ any attacks.
+
+
+-----
+** TODO /siege/
+
+- *n.* A siege is a military or police operation in which soldiers 
+  or police surround a place in order to force the people there to come out or give up control of the place.
+
+- The rebels laid _siege_ to the governor's residence.
+- the _siege_ of Troy
+
+** TODO /besiege/
+
+- *vt.* If soldiers besiege a place, they surround it and wait for the people in it to stop fighting or resisting.
+
+- The main part of the army moved to Sevastopol to _besiege_ the town.
+
+** TODO /beset/
+
+- *vt.* 
+  - besiege
+  - If someone or something is beset by problems or fears, they have many problems or fears which affect them severely.
+
+- The country is _beset_ by severe economic problems.
+
+
+-----
+** TODO /scoop/
+
+*** General
+- *vt.* 
+  - If you scoop a person or thing somewhere, you put your hands or arms under or round them and quickly move them there.
+  - If you scoop something from a container, you remove it with something such as a spoon.
+
+- *n.* You can use scoop to refer to an exciting news story 
+  which is reported in one newspaper or on one television programme before it appears anywhere else.
+
+*** Usage
+- Michael knelt next to her and _scooped_ her into his arms.
+- the sound of a spoon _scooping_ dog food out of a can.
+- one of the biggest _scoops_ in the history of newspapers.
+
+** TODO /exhume/
+
+- *v.* If a dead person's body is exhumed, it is taken out of the ground where it is buried, 
+  especially so that it can be examined in order to find out how the person died.
+
+- His remains have been _exhumed_ from a cemetery in Queens, New York City.
+
+
+-----
+** TODO /archaic/
+
+- *adj* Archaic means extremely old or extremely old-fashioned.
+
+
+-----
+** TODO /remnant/
+
+- *n.* The remnants of something are small parts of it that 
+  are left over when the main part has disappeared or been destroyed.
+
+- Beneath the present church were _remnants_ of Roman flooring.
+
+
+-----
+** TODO /porcelain/
+
+- *n.* Porcelain is a hard, shiny substance made by heating clay. It is used to make delicate cups, plates, and ornaments.
+
+- There were lilies everywhere in tall white _porcelain_ vases.
+
+
+-----
+** TODO /arable/ <2019-09-08 日>
+
+- *adj.* Arable farming involves growing crops such as wheat and barley 
+  rather than keeping animals or growing fruit and vegetables. Arable land is land that is used for arable farming.
+
+
+-----
+** TODO /indigenous/
+
+- *adj.* Indigenous people or things belong to the country in which they are found, 
+  rather than coming there or being brought there from another country.
+
+- Indians were the _indigenous_ inhabitants of America.
+
+
+-----
+** TODO /silt/
+
+** TODO /squash/
+
+*** General
+- *v.* If someone or something is squashed, 
+  they are pressed or crushed with such force that they become injured or lose their shape.
+
+*** Usage
+- Robert was lucky to escape with just a broken foot after being _squashed_ against a fence by a car.
+
+
+-----
+** TODO /ethnic/
+
+- *adj.* Ethnic means connected with or relating to different racial or cultural groups of people.
+
+- a survey of Britain's _ethnic_ minorities.
+
+** TODO /ethnology/
+
+
+-----
+** TODO /descent/
+
+- *n.*
+  - A descent is a movement from a higher to a lower level or position.
+  - You use descent to talk about a person's family background, for example their nationality or social status.
+
+- Sixteen of the youngsters set off for help, but during the _descent_ three collapsed in the cold and rain.
+- All the contributors were of African _descent_.
+
+
+-----
+** TODO /hominid/
+
+- *n.* a primate of the family Hominidae
+
+
+-----
+** TODO /cranial/
+
+- *n.* Cranial means relating to your cranium.
+
+- However, the tiger has bigger _cranial_ volume than the lion.
+
+
+-----
+** TODO //
+   
+
+
+
+
+
+
+
+
