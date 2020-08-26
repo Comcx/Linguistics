@@ -1,0 +1,28 @@
+#+Title:  Japanese Vocabulary
+#+Author: Comcx
+#+Date:   <2020-08-26 Wed>
+
+
+* Totally [0/21]
+
+** TODO 数学　すうがく
+** TODO 専門　せんもん
+** TODO 女優　じょゆう
+** TODO 市街　しがい
+** TODO 道路　どうろ
+** TODO 空港　くうこう
+** TODO エレベーター
+** TODO 絵本　えほん
+** TODO 自然　しぜん
+** TODO 給料　きゅうりょう
+** TODO 怪我　けが
+** TODO 時差　じさ
+** TODO 泊まる　とまる
+** TODO 結ぶ　むすぶ
+** TODO 取る　とる
+** TODO 生まれる　うまれる
+** TODO 倒産する　とうさんする
+** TODO 豊か　ゆたか
+** TODO 大きな　おおきな
+** TODO 小さな　ちいさな
+** TODO 別に　べつに
