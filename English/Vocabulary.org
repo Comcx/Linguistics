@@ -3,9 +3,13 @@
 #+Date:   <2020-08-26 Wed>
 
 
-* Totally [0/10]
+* Totally [18/31]
 
-** TODO crumple
+** DONE crumple
+   CLOSED: [2020-09-08 Tue 09:19]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:19]
+   :END:
 *** General
 - v. fall apart | fold, collapse
 *** Usage
@@ -15,27 +19,43 @@
 - She _crumpled to_ the floor in a dead faint.
 - The enemy _crumpled_ under our attack.
 
-** TODO bewilder
+** DONE bewilder
+   CLOSED: [2020-09-08 Tue 09:19]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:19]
+   :END:
 *** General
 - vt. be a mystery | cause to be confused
 *** Usage
 - His reaction has _bewildered_ her.
 - A _bewildering_ maze.
 
-** TODO negligence
+** DONE negligence
+   CLOSED: [2020-08-30 Sun 09:58]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-08-30 Sun 09:58]
+   :END:
 *** General
 - n.
 *** Usage
 - They charged him with _negligence_ of duty.
 
-** TODO etiquette
+** DONE etiquette
+   CLOSED: [2020-09-08 Tue 09:20]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:20]
+   :END:
 *** General
 - n. rules governing socially acceptable behavior
 *** Usage
 - The rules of _etiquette_ are not so strict nowadays.
 - The Japanese have a rigid code of _etiquette_, which seem artificial to foreigners.
 
-** TODO curb
+** DONE curb
+   CLOSED: [2020-09-08 Tue 09:20]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:20]
+   :END:
 *** General
 - n.
   + An edge between a sidewalk and a roadway consisting of a line of curb stones.
@@ -47,13 +67,21 @@
 - a taxi that shaved the _curb_.
 - We can _curb_ juvenile delinquency by education.
 
-** TODO impassioned
+** DONE impassioned
+   CLOSED: [2020-09-08 Tue 09:20]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:20]
+   :END:
 *** General
 - adj.
 *** Usage
 - an _impassioned_ plea for justice.
 
-** TODO doze
+** DONE doze
+   CLOSED: [2020-09-08 Tue 09:20]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:20]
+   :END:
 *** General
 - vi. a light fitful sleep
 *** Usage
@@ -61,14 +89,22 @@
 - _doze_ over a stupid book.
 - He _dozed_ away the afternoon.
 
-** TODO gratify
+** DONE gratify
+   CLOSED: [2020-08-30 Sun 09:58]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-08-30 Sun 09:58]
+   :END:
 *** General
 - vt. make happy or satisfied
 *** Usage
 - To gratify a child's thrist for knowledge.
 - How to Sexually Gratify a Woman?
 
-** TODO consonant
+** DONE consonant
+   CLOSED: [2020-08-30 Sun 09:58]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-08-30 Sun 09:58]
+   :END:
 *** General
 - adj. in harmony
 - n.
@@ -76,9 +112,215 @@
 - a consonant phoneme
 - the findings are consonant with other research.
 
-** TODO bereave
+** NEXT bereave
 *** General
 - vt. deprive through death
 *** Usage
 - the _bereaved_ family
 - He was _bereaved_ of his wife last year.
+
+** DONE demolish
+   CLOSED: [2020-09-08 Tue 13:55]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 13:55]
+   :END:
+*** General
+- vt. destory completely
+*** Usage
+- The fire _demolished_ the town.
+- He was busy _demolishing_ a sausage roll.
+
+** DONE conceive
+   CLOSED: [2020-09-08 Tue 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:22]
+   :END:
+*** General
+- v[ti]. have the idea for | become pregnant
+*** Usage
+- _conceive_ a plan to increase profits.
+- The woman _conceived_ a child.
+
+** DONE satiate
+   CLOSED: [2020-09-08 Tue 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:22]
+   :END:
+*** General
+- vt. fill to satisfaction | overeat
+*** Usage
+- The actor is so vain that he can never be _satiated_ with adulation.
+
+** DONE inevitable
+   CLOSED: [2020-09-08 Tue 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:22]
+   :END:
+*** General
+- adj. unavoidable
+*** Usage
+- the _inevitable_ course of history.
+- It's an _inevitable_ gamble!
+
+** DONE elicit
+   CLOSED: [2020-09-08 Tue 13:55]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 13:55]
+   :END:
+*** General
+- v. call forth | deduce or construe
+*** Usage
+- _elicit_ the truth from a witness.
+
+** DONE absent
+   CLOSED: [2020-09-08 Tue 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:22]
+   :END:
+
+** NEXT adorn
+*** General
+- vt.
+  + make more attractive by adding ornament
+  + furnish with power or authority
+
+*** Usage
+- _adorn_ oneself with jewels
+- Their house is _adorned_ with beautiful antique ornaments
+
+** DONE diploma
+   CLOSED: [2020-09-08 Tue 13:55]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 13:55]
+   :END:
+*** General
+- n. a document certifying the successful comletion of a course of study.
+
+*** Usage
+- a higher _diploma_ in fine art.
+
+** NEXT tamper
+*** General
+- n. a tool for tamping
+- v.
+  + play around with or alter or falsify usually dishonestly.
+  + intrude in other people's affairs or bussiness.
+
+*** Usage
+- clear-cut evidence of _tempering_.
+- Don't _temper_ with my feelings.
+- _tamper_ with a jury.
+- He had no business _tempering_ with social services.
+
+** NEXT begrudge
+*** General
+- vt. be envious of | allow unwillingly
+
+*** Usage
+- _begrudge_ every penny spent
+- She _begrudge_ her friend the award.
+
+** DONE fertile
+   CLOSED: [2020-09-08 Tue 09:25]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 09:25]
+   :END:
+*** General
+- adj. capable of reproducing | intellectually productive
+
+*** Usage
+- _fertile_ soil.
+- a _fertile_ imagination
+- He is _fertile_ of skills.
+
+** NEXT venerate
+*** General
+- vt. regard with feelings of respect and reverence.
+
+*** Usage
+- Most Italians _venerate_ the name of Dante.
+
+** TODO concede
+*** General
+- v.
+  + admit, make a clean breast of
+  + give over, surrender
+
+*** Usage
+- He _concede_ defeat.
+- I am not about to _concede_ the point.
+
+** NEXT accredit
+*** General
+- v. grant credentials to
+*** Usage
+- He was _accredited_ with being one of the world's fastest sprinters.
+
+** DONE submissive
+   CLOSED: [2020-09-08 Tue 13:56]
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-09-08 Tue 13:56]
+   :END:
+*** General
+- adj.
+*** Usage
+- _submissive_ children can be cowed by a look of disapproval.
+
+** NEXT handicap
+*** General
+- n. condition of being unable to perform as a consequence of physical or mental unfitness.
+- v. injure peranently
+*** Usage
+- struggle to overome the _handicap_ and finally won.
+- Poor eyesight is a _handicap_ to a student.
+- He stormed home by a distance in the _handicap_ Chase.
+
+** TODO afflict
+*** General
+- v. cause great unhappiness or bodily suffering for
+*** Usage
+- be _afflicted_ with a conscience.
+- Famine and war still _afflict_ mankind.
+- His younger child was _afflicted_ with a skin disease.
+
+** TODO elusive
+*** General
+- adj. difficult to describe or to detect
+*** Usage
+- the _elusive_ thought he had had momnets before.
+- Data are _elusive_ on the homeless.(hard to define)
+
+** NEXT inflate
+*** General
+- v.
+  + fill with gas or air
+  + exaggerate or make bigger
+  + increase amount of
+
+*** Usage
+- an _inflated_ economy
+- You have a very _inflated_ opinion of your worth.
+
+** NEXT savage
+*** General
+- n. a member of an uncivilized people | cruelly rapacious person.
+- v. attack brutally
+- adj.
+  + wild and menacing
+  + (action)able to disposed to inflict pain or suffering
+
+*** Usage
+- a _savage_ people
+- a _savage_ slap
+- They launched a _savage_ attack on the budget.
+
+** TODO adumbrate
+*** General
+- v.
+  + indicate sth faintly or in outline.
+  + suggest in advance
+
+*** Usage
+- The walls were only adumbrated by the meagre light.
+- He had already adumbrated the idea of a welfare state.
+- The recent development adumbrate a world-wide revolution in computer technology.
